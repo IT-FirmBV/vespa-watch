@@ -1,0 +1,16 @@
+# SITE SETTINGS
+title: Vespa-Watch
+
+# THEME SETTINGS
+theme: minima
+remote_theme: peterdesmet/petridish@2.0
+# BUILD SETTINGS
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
