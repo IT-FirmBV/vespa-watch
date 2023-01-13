@@ -25,3 +25,16 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - LICENSE
+
+# FRONTMATTER DEFAULTS
+defaults:
+  - scope:
+      path: pages/nl
+    values:
+      lang: nl
+      permalink: /:basename/
+  - scope:
+      path: pages/en
+    values:
+      lang: en
+      permalink: /en/:basename/
