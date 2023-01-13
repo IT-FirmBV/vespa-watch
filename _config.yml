@@ -3,6 +3,12 @@ title: Vespa-Watch
 author: INBO
 url: # TODO
 
+# SOCIAL PROFILES
+social:
+  email: vespawatch@inbo.be
+  twitter: inbovlaanderen
+  facebook: https://www.facebook.com/profile.php?id=100070639293949
+
 # THEME SETTINGS
 theme: minima
 remote_theme: peterdesmet/petridish # TODO: set version
