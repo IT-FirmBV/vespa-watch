@@ -5,7 +5,7 @@ url: # TODO
 
 # THEME SETTINGS
 theme: minima
-remote_theme: peterdesmet/petridish@2.0
+remote_theme: peterdesmet/petridish # TODO: set version
 github_edit: true
 colors:
   links: "#ea792a"  # Orange
