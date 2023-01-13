@@ -4,6 +4,15 @@ title: Vespa-Watch
 # THEME SETTINGS
 theme: minima
 remote_theme: peterdesmet/petridish@2.0
+github_edit: true
+colors:
+  links: "#ea792a"  # Orange
+  banner: "#73984a" # Green
+  footer: "#3c3c3c" # Gray
+font_serif: false
+rounded_corners: true
+logo: /assets/images/logo.png
+
 # BUILD SETTINGS
 markdown: kramdown
 plugins:
