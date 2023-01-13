@@ -1,0 +1,9 @@
+columns:
+  - description: >
+      This site was developed by the [Open science lab for biodiversity](https://oscibio.inbo.be)
+      with financial support from INBO and [LifeWatch Flanders](https://lifewatch.be).
+
+license: >
+  Content on this site is licensed under a
+  [CC BY 4.0 license](http://creativecommons.org/licenses/by/4.0/).
+  \| Theme: [petridish](https://github.com/peterdesmet/petridish)
