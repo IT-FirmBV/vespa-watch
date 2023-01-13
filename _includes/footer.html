@@ -62,7 +62,10 @@
         </div>
       {% endif %}
 
-      {% for col in site.data.footer.columns %}
+      {% if site.data[page.lang].footer %}
+        {% assign footer = site.data[page.lang].footer %}
+      {% endif %}
+      {% for col in footer.columns %}
         <div class="col-lg">
           {{ col.description | markdownify }}
 
@@ -84,8 +87,8 @@
       {% if site.author %}
         <p>© {{ site.author }}</p>
       {% endif %}
-      {% if site.data.footer.license %}
-        {{ site.data.footer.license | markdownify }}
+      {% if footer.license %}
+        {{ footer.license | markdownify }}
       {% endif %}
       {% if site.github_edit %}
         <p>
