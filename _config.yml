@@ -39,7 +39,7 @@ defaults:
       path: pages/nl
     values:
       lang: nl
-      permalink: /:basename/
+      permalink: /nl/:basename/
   - scope:
       path: pages/en
     values:

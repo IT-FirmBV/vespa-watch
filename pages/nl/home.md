@@ -6,7 +6,7 @@ background:
   img: /assets/backgrounds/home.jpg
   by: Karel Schoonvaere
   href: https://www.inaturalist.org/observations/17322380
-permalink: /
+permalink: /nl/
 ---
 
 [Lees het Vespa-Watch project rapport](https://doi.org/10.21436/inbor.19019045){: .btn .btn-secondary}
