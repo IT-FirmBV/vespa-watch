@@ -1,7 +1,9 @@
 # SITE SETTINGS
 title: Vespa-Watch
+description: # TODO
 author: INBO
-url: # TODO
+url: "https://inbo.github.io/" # TODO
+baseurl: "/vespa-watch/" # TODO
 
 # SOCIAL PROFILES
 social:
