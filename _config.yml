@@ -44,3 +44,8 @@ defaults:
     values:
       lang: en
       permalink: /en/:basename/
+  - scope:
+      path: pages/fr
+    values:
+      lang: fr
+      permalink: /fr/:basename/
