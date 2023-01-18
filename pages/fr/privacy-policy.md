@@ -3,6 +3,7 @@ title: Vie privée et droits d’auteur
 description:
 background:
 toc: true
+published: false
 ---
 
 Nous vous remercions pour l’intérêt que vous portez au projet Vespa-Watch ainsi que pour votre aide dans la collecte de données relatives au frelon asiatique. Nous vous expliquons sur cette page comment nous traitons vos données personnelles et celles qui sont collectées via le site Web.
