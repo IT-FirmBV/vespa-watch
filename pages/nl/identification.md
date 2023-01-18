@@ -45,61 +45,152 @@ In de herfst is de koningin van de kolonie gemakkelijk te onderscheiden van haar
 
 ## Andere insecten die lijken op een Aziatische hoornaar
 
-<div class="card theme-card-horizontal">
-    <img title="(c) Foto links: Brigitte van Passel, foto rechts: Karel Schoonvaere" src="/assets/images/1e12c1f0-f95e-4ea5-aabf-f6caf0b68316.jpg">
-    <div class="card-body">
-        <h5 class="card-title">Gewone wesp (<em>Vespula vulgaris</em>) en Duitse wesp (<em>V. germanica</em>)</h5>
-        <p class="card-text"> <strong>Grootte:</strong> kleine wespensoorten, tot 2 cm lang.<br><strong>Kleur:</strong> zwart en geel, met gele tekening op het borststuk.<br><strong>Gedrag:</strong> papieren nest uit gekauwde houtvezels, vaak onder de grond<br><strong>Onderscheidend kenmerk:</strong> geringe grootte, gele tekening op het borststuk, achterlijf geel met uitgebreide zwarte tekening.</p>
-    </div>
-</div>
+{: id="vespula" }
+### Gewone wesp (_Vespula vulgaris_) en Duitse wesp (_V. germanica_)
 
-<div class="card theme-card-horizontal">
-    <img title="(c) Christine Devillers" src="/assets/images/95291c9b-a947-43f3-8482-661c8f26c6a3.jpg">
-    <div class="card-body">
-        <h5 class="card-title">Middelste wesp (<em>Dolichovespula media</em>), donkere vorm</h5>
-        <p class="card-text"><strong>Grootte:</strong> deze wesp is half zo groot als de hoornaar.<br><strong>Kleur:</strong> het achterlijf is afwisselend gestreept met fijne gele en brede zwarte strepen. De pootjes meer geel dan bij de Aziatische hoornaar. Het borststuk is zwart met zijdelings een gele, gehoekte streep. Naast deze donkere vorm ook een lichte vorm: lijkt dan sterk op een Gewone of Duitse wesp.<br><strong>Nest:</strong> vaak onbeschut in een boom lager dan 10 meter. Het nest lijkt op een omgekeerde druppel met de onderkant spits toelopend. Vlieggat onderaan, nooit zijdelings. Omhulsel slordig en kleur vaal bruin tot grijs.<br><strong>Onderscheidend kenmerk:</strong> achterlijf afwisselend geel en zwart gestreept.</p>
-    </div>
+<div class="row">
+<div class="col-md-6" markdown="1">
+![vespula](/assets/images/identification-vespula.jpg "(c) Foto links: Brigitte van Passel, foto rechts: Karel Schoonvaere"){: .img-fluid }
 </div>
+<div class="col-md-6" markdown="1">
+Grootte
+: kleine wespensoorten, tot 2 cm lang.
 
-<div class="card theme-card-horizontal">
-    <img title="(c) Fotoopa" src="/assets/images/3f7694f2-726d-451d-931e-a594c85e239d.jpg">
-    <div class="card-body">
-        <h5 class="card-title">Franse veldwesp (<em>Polistes dominula</em>)</h5>
-        <p class="card-text"><strong>Grootte:</strong> iets groter dan een bij, maar kleiner en slanker gebouwd dan een hoornaar.<br><strong>Kleur:</strong> het achterlijf is afwisselend geel en zwart gestreept. De lange pootjes zijn meer geel gekleurd en hangen in de vlucht. Het borststuk is zwart met een gele kraagband en enkele fijne gele stipjes.<br><strong>Nest:</strong> klein en vaak zonder een omhulsel. Meestal in een beschutte locatie. Koninginnen overwinteren vaak in groep buiten het nest. Minder agressief dan andere wespen.<br><strong>Onderscheidende kenmerk:</strong> slanke lichaamsbouw.</p>
-    </div>
-</div>
+Kleur
+: zwart en geel, met gele tekening op het borststuk.
 
-<div class="card theme-card-horizontal">
-    <img title="(c) Johan Opsomer" src="/assets/images/9c6e77e1-401d-452a-9233-420001006bd0.jpeg">
-    <div class="card-body">
-        <h5 class="card-title">Reuzenhoutwesp (<em>Urocerus gigas</em>)</h5>
-        <p class="card-text"><strong>Grootte:</strong> een volledig onschadelijke houtwesp die geen angel draagt en even groot is als een Aziatische hoornaar. Opvallend slanker gebouwd.<br><strong>Kleur:</strong> achterlijf meer geel dan zwart, idem pootjes. Voelsprieten volledig geel, de Aziatische hoornaar heeft zwarte voelsprieten. Twee grote gele vlekken (facetogen) vooraan op de kop (donker bij de Aziatische hoornaar).<br><strong>Gedrag:</strong> wordt vaak op hout aangetroffen.<br><strong>Onderscheidend kenmerk:</strong> brede uitstekende legboor achteraan het lichaam + gele voelsprieten.</p>
-    </div>
-</div>
+Gedrag
+: papieren nest uit gekauwde houtvezels, vaak onder de grond
 
-<div class="card theme-card-horizontal">
-    <img title="(c) Isabelle Pourbaix" src="/assets/images/f682987f-8ecb-4fe7-aa52-b3600265756d.jpg">
-    <div class="card-body">
-        <h5 class="card-title">Hommel (<em>Bombus</em> soorten)</h5>
-        <p class="card-text"><strong>Grootte:</strong> werksters tussenin wesp en hoornaar. Koningin even groot, maar breder dan een hoornaar.<br><strong>Kleur:</strong> variabel. Meestal bruin of zwart in combinatie met wit achterste en gele banden zoals op de foto.<br><strong>Nest:</strong> ondergronds, bloembak, tuinhuisje, vogelkast, boomholte.<br><strong>Onderscheidend kenmerk:</strong> veel beharing, wespen zijn doorgaans kaal.</p>
-    </div>
-</div>
+Onderscheidend kenmerk
+: geringe grootte, gele tekening op het borststuk, achterlijf geel met uitgebreide zwarte tekening.
+</div></div>
 
-<div class="card theme-card-horizontal">
-    <img title="(c) Johan Raes, digitalis, 2018" src="/assets/images/9d5a8f1c-2ebe-4c97-b0b6-be79332ddea3.jpg">
-    <div class="card-body">
-        <h5 class="card-title">Stadsreus (of Hoornaarzweefvlieg, <em>Volucella zonaria</em>)</h5>
-        <p class="card-text"><strong>Grootte:</strong> tussenin wesp en hoornaar. Grote exemplaren soms even groot of breder gebouwd.<br><strong>Kleur:</strong> weinig zwart, veel roodbruin (borststuk). Doet denken aan een Europese hoornaar.<br><strong>Gedrag:</strong> wordt vaak op een bloem aangetroffen.<br><strong>Onderscheidend kenmerk:</strong> zweeft in de lucht, vleugels gespreid in rust.</p>
-    </div>
-</div>
+{: id="dolichovespula-media" }
+### Middelste wesp (_Dolichovespula media_), donkere vorm
 
-<div class="card theme-card-horizontal">
-    <img title="(c) Annie Reynaerts" src="/assets/images/48e49314-66ce-41db-af8c-9590b7f4bbbd.jpg">
-    <div class="card-body">
-        <h5 class="card-title">Blauwzwarte houtbij (<em>Xylocopa violaceae</em>)</h5>
-        <p class="card-text"><strong>Grootte:</strong> even groot als Aziatische hoornaar maar forser gebouwd.<br><strong>Kleur:</strong> zwart. Andere kleuren ontbreken tenzij stuifmeel op het borststuk. Zwartgeblakerde vleugels.<br><strong>Gedrag:</strong> vaak op grote bloemen, eerder zeldzaam in Vlaanderen.<br><strong>Onderscheidend kenmerk:</strong> donkerzwart over het gehele lichaam. </p>
-    </div>
+<div class="row">
+<div class="col-md-6" markdown="1">
+![dolichovespula-media](/assets/images/identification-dolichovespula-media.jpg "(c) Christine Devillers"){: .img-fluid }
 </div>
+<div class="col-md-6" markdown="1">
+Grootte
+: deze wesp is half zo groot als de hoornaar.
+
+Kleur
+: het achterlijf is afwisselend gestreept met fijne gele en brede zwarte strepen. De pootjes meer geel dan bij de Aziatische hoornaar. Het borststuk is zwart met zijdelings een gele, gehoekte streep. Naast deze donkere vorm ook een lichte vorm: lijkt dan sterk op een Gewone of Duitse wesp.
+
+Nest
+: vaak onbeschut in een boom lager dan 10 meter. Het nest lijkt op een omgekeerde druppel met de onderkant spits toelopend. Vlieggat onderaan, nooit zijdelings. Omhulsel slordig en kleur vaal bruin tot grijs.
+
+Onderscheidend kenmerk
+: achterlijf afwisselend geel en zwart gestreept.
+</div></div>
+
+{: id="polistes-dominula" }
+### Franse veldwesp (_Polistes dominula_)
+
+<div class="row">
+<div class="col-md-6" markdown="1">
+![polistes-dominula](/assets/images/identification-polistes-dominula.jpg "(c) Fotoopa"){: .img-fluid }
+</div>
+<div class="col-md-6" markdown="1">
+Grootte
+: iets groter dan een bij, maar kleiner en slanker gebouwd dan een hoornaar.
+
+Kleur
+: het achterlijf is afwisselend geel en zwart gestreept. De lange pootjes zijn meer geel gekleurd en hangen in de vlucht. Het borststuk is zwart met een gele kraagband en enkele fijne gele stipjes.
+
+Nest
+: klein en vaak zonder een omhulsel. Meestal in een beschutte locatie. Koninginnen overwinteren vaak in groep buiten het nest. Minder agressief dan andere wespen.
+
+Onderscheidende kenmerk
+: slanke lichaamsbouw.
+</div></div>
+
+{: id="urocerus-gigas" }
+### Reuzenhoutwesp (_Urocerus gigas_)
+
+<div class="row">
+<div class="col-md-6" markdown="1">
+![urocerus-gigas](/assets/images/identification-urocerus-gigas.jpeg "(c) Johan Opsomer"){: .img-fluid }
+</div>
+<div class="col-md-6" markdown="1">
+Grootte
+: een volledig onschadelijke houtwesp die geen angel draagt en even groot is als een Aziatische hoornaar. Opvallend slanker gebouwd.
+
+Kleur
+: achterlijf meer geel dan zwart, idem pootjes. Voelsprieten volledig geel, de Aziatische hoornaar heeft zwarte voelsprieten. Twee grote gele vlekken (facetogen) vooraan op de kop (donker bij de Aziatische hoornaar).
+
+Gedrag
+: wordt vaak op hout aangetroffen.
+
+Onderscheidend kenmerk
+: brede uitstekende legboor achteraan het lichaam + gele voelsprieten.
+</div></div>
+
+{: id="bombus" }
+### Hommel (_Bombus_ soorten)
+
+<div class="row">
+<div class="col-md-6" markdown="1">
+![bombus](/assets/images/identification-bombus.jpg "(c) Isabelle Pourbaix"){: .img-fluid }
+</div>
+<div class="col-md-6" markdown="1">
+Grootte
+: werksters tussenin wesp en hoornaar. Koningin even groot, maar breder dan een hoornaar.
+
+Kleur
+: variabel. Meestal bruin of zwart in combinatie met wit achterste en gele banden zoals op de foto.
+
+Nest
+: ondergronds, bloembak, tuinhuisje, vogelkast, boomholte.
+
+Onderscheidend kenmerk
+: veel beharing, wespen zijn doorgaans kaal.
+</div></div>
+
+{: id="volucella-zonaria" }
+### Stadsreus (of Hoornaarzweefvlieg, _Volucella zonaria_)
+
+<div class="row">
+<div class="col-md-6" markdown="1">
+![volucella-zonaria](/assets/images/identification-volucella-zonaria.jpg "(c) Johan Raes, digitalis, 2018"){: .img-fluid }
+</div>
+<div class="col-md-6" markdown="1">
+Grootte
+: tussenin wesp en hoornaar. Grote exemplaren soms even groot of breder gebouwd.
+
+Kleur
+: weinig zwart, veel roodbruin (borststuk). Doet denken aan een Europese hoornaar.
+
+Gedrag
+: wordt vaak op een bloem aangetroffen.
+
+Onderscheidend kenmerk
+: zweeft in de lucht, vleugels gespreid in rust.
+</div></div>
+
+{: id="xylocopa-violaceae" }
+### Blauwzwarte houtbij (_Xylocopa violaceae_)
+
+<div class="row">
+<div class="col-md-6" markdown="1">
+![xylocopa-violaceae](/assets/images/identification-xylocopa-violaceae.jpg "(c) Annie Reynaerts"){: .img-fluid }
+</div>
+<div class="col-md-6" markdown="1">
+Grootte
+: even groot als Aziatische hoornaar maar forser gebouwd.
+
+Kleur
+: zwart. Andere kleuren ontbreken tenzij stuifmeel op het borststuk. Zwartgeblakerde vleugels.
+
+Gedrag
+: vaak op grote bloemen, eerder zeldzaam in Vlaanderen.
+
+Onderscheidend kenmerk
+: donkerzwart over het gehele lichaam. 
+</div></div>
 
 ## Nesten herkennen
 
