@@ -9,14 +9,14 @@ toc: true
 
 Le frelon asiatique est arrivé accidentellement d’Asie, via un chargement de matériel chinois, et s’est implanté en 2004 dans le sud de la France. De là, il s’est étendu sur une distance comprise entre 60 et 100 km par an. On retrouve désormais cette espèce au Portugal, en Italie et en Belgique. En ce qui concerne la Belgique, on n’avait jusqu’alors enregistré qu’une seule observation automnale en 2011, à Flobecq. C’est en novembre 2016 que des élèves ont trouvé pour la première fois un nid dans la commune rurale de Guignies. Ce nid a été détruit mais plusieurs reines fertilisées ont probablement réussi à s’échapper. En France, le front invasif a atteint la Picardie et le Nord-Pas-de-Calais dès 2011. Un [premier nid a été détruit en Flandre](https://www.honeybeevalley.eu/newsflash/eerste-nest-van-aziatische-hoornaar-in-vlaanderen) à l’automne 2017, à Poperinge. Entre-temps, l’espèce s’est répandue dans toute la Flandre.
 
-![removal](https://lw-vespawatch-prd.s3.amazonaws.com/media/markdownx/07fc2f4c-366a-4296-b142-22245d781d9f.JPG)
+![removal](/assets/images/07fc2f4c-366a-4296-b142-22245d781d9f.JPG)
 _Un spécialiste extermine le premier nid de frelons asiatiques repéré sur le territoire flamand, à Poperinge. 22/11/2018 (Photo : HBV)_
 
 ## L’impact sur les abeilles et la biodiversité
 
 Les frelons asiatiques chassent - en groupe - les abeilles à l’entrée des ruches. Il s’agit de prédateurs opportunistes qui peuvent tout aussi bien se jeter sur d’autres insectes pouvant leur servir de nourriture. Les abeilles ne peuvent actuellement que difficilement se défendre contre ce nouvel agresseur car elles ne sont pas adaptées à ce nouveau prédateur exotique. Moins il y a d’abeilles dans le paysage, et plus les frelons asiatiques s’attaquent aux polinisateurs sauvages. Dans les zones urbaines françaises, le nombre d’abeilles faisant partie de leur régime alimentaire est de 66 %, ce pourcentage tombant à 35 % dans les zones agricoles et boisées.
 
-![beehive](https://lw-vespawatch-prd.s3.amazonaws.com/media/markdownx/7bda8916-253e-4013-8632-34ef864145fe.jpg)
+![beehive](/assets/images/7bda8916-253e-4013-8632-34ef864145fe.jpg)
 _Des frelons asiatiques chassent en groupe des colonies d’abeilles et peuvent parfois être massivement présents à proximité des ruches. (Photo : S. Lioy, Life Stopvespa)._
 
 Compte tenu de leur impact sur la biodiversité, les frelons asiatiques sont repris dans la [liste des espèces exotiques invasives préoccupantes de l’Union européenne](http://ec.europa.eu/environment/nature/invasivealien/index_en.htm). Cela signifie entre autres que la Belgique doit mettre au point un programme de surveillance pour cette espèce de guêpes et s’y attaquer. Vespa-Watch constitue un élément essentiel de ce programme. L’invasion de cette espèce est surveillée et gérée en permanence. En pratique, cela signifie qu’en cas d’attaque d’une ruche, le nid est recherché et détruit par les services compétents. Cette espèce niche principalement dans les zones péri-urbaines et agricoles mais on la trouve parfois aussi dans les zones forestières. Une surveillance ciblée (dans le cas des apiculteurs) et globale doit être organisée de façon à couvrir au maximum l’ensemble du territoire.
