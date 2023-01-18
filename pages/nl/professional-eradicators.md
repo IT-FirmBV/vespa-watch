@@ -1,5 +1,5 @@
 ---
-title: Registreer als professioneel wespenverdelger
+title: Word professioneel bestrijder
 description:
 background:
 toc: false
