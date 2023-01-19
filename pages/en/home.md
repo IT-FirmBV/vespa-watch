@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Vespa-Watch
-description: Monitor the invasion of the Asian hornet in Flanders
+description: Report nests of Asian hornets
 background:
   img: /assets/backgrounds/home.jpg
   by: Karel Schoonvaere
@@ -9,12 +9,23 @@ background:
 permalink: /en/
 ---
 
-[Read the Vespa-Watch project report](https://doi.org/10.21436/inbor.19019045){: .btn .btn-secondary}
+Vespa-Watch is the Flemish hotline for nests of Asian hornets. Reports are followed up so that nests can be eradicated. Observations of individual hornets via observations.be or inaturalist.org also help to detect nests.
 
-The first Asian hornet appeared in Belgium in 2016. Since then the species has expanded rapidly. This wasp comes from China. It targets bees and other insects and is considered an invasive alien species. In Belgium, it is monitored. The population is managed by exterminating nests. 
+[Report a nest](/en/report-nest/){: .btn .btn-primary } or report an individual via [waarnemingen.be](https://waarnemingen.be/species/8807/) or [inaturalist.org](https://www.inaturalist.org/observations/upload).
 
-Surveillance requires many eyes on the lookout, including yours! Find out here how you can help detect an Asian hornet in the citizen science project Vespa-Watch. Your data will then be used for control and research.
+## Why are Asian hornets harmful?
 
-For all questions on control and initiating control actions contact hoornaar[at]vbi.vlaanderen.
+The Asian hornet (_Vespa velutina_) is a wasp species from Southeast China. Since 2016, the species also occurs in Belgium. It is an 'invasive alien species':
 
-[Activities](https://www.honeybeevalley.eu/kalender) - [Get involved](https://vespawatch.be/get-involved) - [Distribution in 2021](https://inbo-vespawatch.shinyapps.io/VespaWatch_app/)
+- The species did not originally occur here, but is now rapidly increasing in number and spreading throughout Flanders.
+- It attacks honey bees and other native insects that pollinate our flowers and plants.
+
+Nests of this wasp are therefore sought out and eradicated.
+
+<div class="ratio ratio-16x9">
+  <iframe frameborder="0" src="https://player.vimeo.com/video/730964068?h=3f1ee4ca53" allowfullscreen></iframe>
+</div>
+
+## How do I recognize an Asian hornet?
+
+See [identification](/en/identification/).
