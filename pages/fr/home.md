@@ -7,6 +7,7 @@ background:
   by: Karel Schoonvaere
   href: https://www.inaturalist.org/observations/17322380
 permalink: /fr/
+published: false
 ---
 
 [Découvrez le rapport du projet Vespa-Watch](https://doi.org/10.21436/inbor.19019045){: .btn .btn-secondary}

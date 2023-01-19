@@ -1,5 +1,5 @@
 ---
-title: Privacy en copyright
+title: Privacybeleid
 description:
 background:
 toc: true

@@ -1,5 +1,5 @@
 ---
-title: Privacy and copyright
+title: Privacy policy
 description:
 background:
 toc: true

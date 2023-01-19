@@ -1,2 +1,8 @@
 - text: Herkenning
-  href: /identification/
+  href: /nl/identification/
+- text: Over deze site
+  menu:
+  - text: Word professioneel bestrijder
+    href: /nl/professional-eradicators/
+  - text: Privacybeleid
+    href: /nl/privacy-policy/

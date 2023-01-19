@@ -1,7 +1,8 @@
 # SITE SETTINGS
 title: Vespa-Watch
 author: INBO
-url: # TODO
+url: "https://inbo.github.io/" # TODO
+baseurl: "/vespa-watch" # TODO
 
 # SOCIAL PROFILES
 social:
@@ -12,7 +13,7 @@ social:
 # THEME SETTINGS
 theme: minima
 remote_theme: peterdesmet/petridish # TODO: set version
-github_edit: true
+github_edit: gh-pages
 colors:
   links: "#ea792a"  # Orange
   banner: "#73984a" # Green
@@ -38,7 +39,7 @@ defaults:
       path: pages/nl
     values:
       lang: nl
-      permalink: /:basename/
+      permalink: /nl/:basename/
   - scope:
       path: pages/en
     values:

@@ -3,6 +3,7 @@ title: Enregistrez-vous en tant que professionnel
 description:
 background:
 toc: false
+published: false
 ---
 
 En vous inscrivant en tant qu' exterminateur de guêpes professionnel, ci-après dénommé l'entreprise, vous et votre entreprise vous engagez à la neutralisation et à l'extermination efficaces des nids de frelons asiatiques (Vespa velutina) dans le respect du code de conduite et de la législation applicables ainsi qu'en prenant les mesures nécessaires précautions de sécurité pour le faire. Vespa-Watch ne pourra en aucun cas être tenu responsable des incidents (dommages aux personnes ou matériels) ou pertes financières consécutifs à l'intervention. Vespa-Watch n'intervient pas dans les accords financiers entre l'entreprise et le propriétaire du nid. Vespa-Watch ne fournit pas de soutien financier ou matériel direct pour contrôler les opérations.

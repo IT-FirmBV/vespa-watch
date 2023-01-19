@@ -1,2 +1,8 @@
 - text: Identification
   href: /en/identification/
+- text: About
+  menu:
+  - text: Register as a professional eradicator
+    href: /en/professional-eradicators/
+  - text: Privacy policy
+    href: /en/privacy-policy/
