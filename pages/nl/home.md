@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Vespa-Watch
-description: Help de Aziatische hoornaar in kaart te brengen in Vlaanderen
+description: Meld nesten van Aziatische hoornaar
 background:
   img: /assets/backgrounds/home.jpg
   by: Karel Schoonvaere
@@ -9,14 +9,23 @@ background:
 permalink: /nl/
 ---
 
-[Lees het Vespa-Watch project rapport](https://doi.org/10.21436/inbor.19019045){: .btn .btn-secondary}
+Vespa-Watch is het Vlaams meldpunt voor nesten van Aziatische hoornaar. Meldingen worden opgevolgd zodat nesten verdelgd kunnen worden. Ook waarnemingen van individuele hoornaars via waarnemingen.be of inaturalist.org helpen om nesten op te sporen.
 
-Leer alles over de Aziatische hoornaar in [dit filmpje](https://vimeo.com/730964068).
+[Meld een nest](/nl/report-nest/){: .btn .btn-primary } of meld een individu via [waarnemingen.be](https://waarnemingen.be/species/8807/) of [inaturalist.org](https://www.inaturalist.org/observations/upload).
 
-Sinds 1 november 2022 is de gecoördineerde bestrijding van de Aziatische hoornaar afgelopen. Nesten die nu nog actief zijn zullen binnenkort spontaan inactief worden door het koude weer. Een nest wordt nooit hergebruikt het volgende seizoen en mag dus blijven hangen. Het melden van een nest Aziatische hoornaar via [deze link](https://vespawatch.be/obs/add) blijft nuttig voor monitoring van de soort in Vlaanderen. Er zal echter geen bestrijder meer automatisch worden aangeduid door het VBI. Indien een nest toch een veiligheidsrisico inhoudt, mag gemaild worden naar vespawatch@inbo.be en brengen we u in contact met een bestrijder Aziatische hoornaar.
+## Waarom is de Aziatische hoornaar schadelijk?
 
-De eerste Aziatische hoornaar dook in België op in 2016. Sindsdien breidt de soort snel uit. Deze wesp komt uit zuidoost China. Ze heeft het gemunt op bijen en andere insecten en wordt beschouwd als een invasieve exoot. In België wordt ze gemonitord. De populatie wordt beheerd door nesten te verdelgen. 
+De Aziatische hoornaar (_Vespa velutina_) is een wespensoort uit zuidoost China. Sinds 2016 is de soort ook aanwezig in België. We noemen ze een ‘invasieve exoot’:
 
-Surveillance vergt vele ogen op de uitkijk, ook die van jou! Ontdek hier hoe je in het citizen science project Vespa-Watch kan meehelpen om Aziatische hoornaar te detecteren. Jouw gegevens worden dan gebruikt voor bestrijding en onderzoek.
+- De soort kwam hier oorspronkelijk niet voor, maar neemt nu snel in aantal toe en is al verspreid over geheel Vlaanderen.
+- Ze valt honingbijen en andere inheemse insecten aan, die onze bloemen en planten bestuiven.
 
-[Activiteiten](https://www.honeybeevalley.eu/kalender) - [Doe mee](https://vespawatch.be/get-involved) - [Actieve haarden](https://inbo-vespawatch.shinyapps.io/VespaWatch_app)
+Nesten van deze wesp worden dan ook opgespoord en verdelgd.
+
+<div class="ratio ratio-16x9">
+  <iframe frameborder="0" src="https://player.vimeo.com/video/730964068?h=3f1ee4ca53" allowfullscreen></iframe>
+</div>
+
+## Hoe herken ik een Aziatische hoornaar?
+
+Zie [herkenning](/nl/identification/).
