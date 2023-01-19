@@ -1,8 +1,6 @@
 # SITE SETTINGS
 title: Vespa-Watch
 author: INBO
-url: "https://inbo.github.io/" # TODO
-baseurl: "/vespa-watch" # TODO
 
 # SOCIAL PROFILES
 social:
@@ -39,7 +37,7 @@ defaults:
       path: pages/nl
     values:
       lang: nl
-      permalink: /nl/:basename/
+      permalink: /:basename/
   - scope:
       path: pages/en
     values:

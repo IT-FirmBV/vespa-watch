@@ -17,7 +17,7 @@ Through the Vespa-Watch website we collect reports of nests (and previously indi
 
 These data are permanently stored on a secure server. We remove reports with inappropriate photos (including copyrighted photos taken from the web) and incorrect locations that cannot be verified.
 
-To protect the environment, for scientific purposes and in line with the [open data policy of the INBO](https://www.inbo.be/en/open-data-policy), all _general data_ associated with reports are made available under a [Creative Commons Zero waiver](https://creativecommons.org/publicdomain/zero/1.0/). After validation, these data are also published on [GBIF](https://www.gbif.org), a global aggregator for biodiversity data. This way, Vespa-Watch data can be used worldwide for policy, management and research. Data can also be displayed on other websites, such as [waarnemingen.be](https://waarnemingen.be/) and [observation.org](https://observation.org/).
+To protect the environment, for scientific purposes and in line with the [open data policy of the INBO](https://www.vlaanderen.be/inbo/en-gb/open-data-policy/), all _general data_ associated with reports are made available under a [Creative Commons Zero waiver](https://creativecommons.org/publicdomain/zero/1.0/). After validation, these data are also published on [GBIF](https://www.gbif.org), a global aggregator for biodiversity data. This way, Vespa-Watch data can be used worldwide for policy, management and research. Data can also be displayed on other websites, such as [waarnemingen.be](https://waarnemingen.be/) and [observation.org](https://observation.org/).
 
 ## What happens with my personal data?
 

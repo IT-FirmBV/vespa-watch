@@ -1,6 +1,15 @@
+{% if page.lang == 'nl' %}
+  {% assign home_url = '/' %}
+  {% assign other_path = page.url | prepend: '/en' %}
+  {% assign other_lang = 'English' %}
+{% elsif page.lang == 'en' %}
+  {% assign home_url = '/en/' %}
+  {% assign other_path = page.url | replace_first: '/en', '' %}
+  {% assign other_lang = 'Nederlands' %}
+{% endif %}
 <nav class="navbar navbar-expand-lg navbar-light bg-light" id="main-nav">
   <div class="container">
-    <a class="navbar-brand d-flex align-items-center" href="{{ page.lang | prepend: '/' | append: '/' | relative_url }}">
+    <a class="navbar-brand d-flex align-items-center" href="{{ home_url | relative_url }}">
       {% if site.logo %}
         <img class="me-3" src="{{ site.logo | relative_url }}" alt="{{ site.title }}">
       {% endif %}
@@ -59,15 +68,7 @@
               </li>
             {% endif %}
           {% endfor %}
-
           <!-- Language selector -->
-          {% if page.lang == 'nl' %}
-            {% assign other_lang = 'English' %}
-            {% assign other_path = page.url | replace: '/nl/', '/en/' %}
-          {% elsif page.lang == 'en' %}
-            {% assign other_lang = 'Nederlands' %}
-            {% assign other_path = page.url | replace: '/en/', '/nl/' %}
-          {% endif %}
           <li class="navbar-item">
             <a class="nav-link" href="{{ other_path | relative_url }}">{{ other_lang }}</a>
           </li>
