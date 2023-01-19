@@ -2,6 +2,9 @@ columns:
   - description: >
       Deze website werd ontwikkeld door het [Open science lab for biodiversity](https://oscibio.inbo.be)
       met financiële steun van INBO en [LifeWatch Vlaanderen](https://lifewatch.be).
+    links:
+    - text: Privacybeleid
+      href: /privacy-policy/
 
 license: >
   Tekst en foto's op deze site zijn beschikbaar onder een
