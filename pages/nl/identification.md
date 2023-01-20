@@ -54,17 +54,18 @@ In de herfst is de koningin van de kolonie gemakkelijk te onderscheiden van haar
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
-: kleine wespensoorten, tot 2 cm lang.
+: Kleine wespensoorten, tot 2 cm lang.
 
 Kleur
-: zwart en geel, met gele tekening op het borststuk.
+: Zwart en geel, met gele tekening op het borststuk.
 
 Gedrag
-: papieren nest uit gekauwde houtvezels, vaak onder de grond
+: Papieren nest uit gekauwde houtvezels, vaak onder de grond
 
 Onderscheidend kenmerk
-: geringe grootte, gele tekening op het borststuk, achterlijf geel met uitgebreide zwarte tekening.
-</div></div>
+: Geringe grootte, gele tekening op het borststuk, achterlijf geel met uitgebreide zwarte tekening.
+</div>
+</div>
 
 {: id="dolichovespula-media" }
 ### Middelste wesp (_Dolichovespula media_), donkere vorm
@@ -75,17 +76,18 @@ Onderscheidend kenmerk
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
-: deze wesp is half zo groot als de hoornaar.
+: Deze wesp is half zo groot als de hoornaar.
 
 Kleur
-: het achterlijf is afwisselend gestreept met fijne gele en brede zwarte strepen. De pootjes meer geel dan bij de Aziatische hoornaar. Het borststuk is zwart met zijdelings een gele, gehoekte streep. Naast deze donkere vorm ook een lichte vorm: lijkt dan sterk op een Gewone of Duitse wesp.
+: Het achterlijf is afwisselend gestreept met fijne gele en brede zwarte strepen. De pootjes meer geel dan bij de Aziatische hoornaar. Het borststuk is zwart met zijdelings een gele, gehoekte streep. Naast deze donkere vorm ook een lichte vorm: lijkt dan sterk op een Gewone of Duitse wesp.
 
 Nest
-: vaak onbeschut in een boom lager dan 10 meter. Het nest lijkt op een omgekeerde druppel met de onderkant spits toelopend. Vlieggat onderaan, nooit zijdelings. Omhulsel slordig en kleur vaal bruin tot grijs.
+: Vaak onbeschut in een boom lager dan 10 meter. Het nest lijkt op een omgekeerde druppel met de onderkant spits toelopend. Vlieggat onderaan, nooit zijdelings. Omhulsel slordig en kleur vaal bruin tot grijs.
 
 Onderscheidend kenmerk
-: achterlijf afwisselend geel en zwart gestreept.
-</div></div>
+: Achterlijf afwisselend geel en zwart gestreept.
+</div>
+</div>
 
 {: id="polistes-dominula" }
 ### Franse veldwesp (_Polistes dominula_)
@@ -96,17 +98,18 @@ Onderscheidend kenmerk
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
-: iets groter dan een bij, maar kleiner en slanker gebouwd dan een hoornaar.
+: Iets groter dan een bij, maar kleiner en slanker gebouwd dan een hoornaar.
 
 Kleur
-: het achterlijf is afwisselend geel en zwart gestreept. De lange pootjes zijn meer geel gekleurd en hangen in de vlucht. Het borststuk is zwart met een gele kraagband en enkele fijne gele stipjes.
+: Het achterlijf is afwisselend geel en zwart gestreept. De lange pootjes zijn meer geel gekleurd en hangen in de vlucht. Het borststuk is zwart met een gele kraagband en enkele fijne gele stipjes.
 
 Nest
-: klein en vaak zonder een omhulsel. Meestal in een beschutte locatie. Koninginnen overwinteren vaak in groep buiten het nest. Minder agressief dan andere wespen.
+: Klein en vaak zonder een omhulsel. Meestal in een beschutte locatie. Koninginnen overwinteren vaak in groep buiten het nest. Minder agressief dan andere wespen.
 
-Onderscheidende kenmerk
-: slanke lichaamsbouw.
-</div></div>
+Onderscheidend kenmerk
+: Slanke lichaamsbouw.
+</div>
+</div>
 
 {: id="urocerus-gigas" }
 ### Reuzenhoutwesp (_Urocerus gigas_)
@@ -117,17 +120,18 @@ Onderscheidende kenmerk
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
-: een volledig onschadelijke houtwesp die geen angel draagt en even groot is als een Aziatische hoornaar. Opvallend slanker gebouwd.
+: Een volledig onschadelijke houtwesp die geen angel draagt en even groot is als een Aziatische hoornaar. Opvallend slanker gebouwd.
 
 Kleur
-: achterlijf meer geel dan zwart, idem pootjes. Voelsprieten volledig geel, de Aziatische hoornaar heeft zwarte voelsprieten. Twee grote gele vlekken (facetogen) vooraan op de kop (donker bij de Aziatische hoornaar).
+: Achterlijf meer geel dan zwart, idem pootjes. Voelsprieten volledig geel, de Aziatische hoornaar heeft zwarte voelsprieten. Twee grote gele vlekken (facetogen) vooraan op de kop (donker bij de Aziatische hoornaar).
 
 Gedrag
-: wordt vaak op hout aangetroffen.
+: Wordt vaak op hout aangetroffen.
 
 Onderscheidend kenmerk
-: brede uitstekende legboor achteraan het lichaam + gele voelsprieten.
-</div></div>
+: Brede uitstekende legboor achteraan het lichaam + gele voelsprieten.
+</div>
+</div>
 
 {: id="bombus" }
 ### Hommel (_Bombus_ soorten)
@@ -138,17 +142,18 @@ Onderscheidend kenmerk
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
-: werksters tussenin wesp en hoornaar. Koningin even groot, maar breder dan een hoornaar.
+: Werksters tussenin wesp en hoornaar. Koningin even groot, maar breder dan een hoornaar.
 
 Kleur
-: variabel. Meestal bruin of zwart in combinatie met wit achterste en gele banden zoals op de foto.
+: Variabel. Meestal bruin of zwart in combinatie met wit achterste en gele banden zoals op de foto.
 
 Nest
-: ondergronds, bloembak, tuinhuisje, vogelkast, boomholte.
+: Ondergronds, bloembak, tuinhuisje, vogelkast, boomholte.
 
 Onderscheidend kenmerk
-: veel beharing, wespen zijn doorgaans kaal.
-</div></div>
+: Veel beharing, wespen zijn doorgaans kaal.
+</div>
+</div>
 
 {: id="volucella-zonaria" }
 ### Stadsreus (of Hoornaarzweefvlieg, _Volucella zonaria_)
@@ -159,17 +164,18 @@ Onderscheidend kenmerk
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
-: tussenin wesp en hoornaar. Grote exemplaren soms even groot of breder gebouwd.
+: Tussenin wesp en hoornaar. Grote exemplaren soms even groot of breder gebouwd.
 
 Kleur
-: weinig zwart, veel roodbruin (borststuk). Doet denken aan een Europese hoornaar.
+: Weinig zwart, veel roodbruin (borststuk). Doet denken aan een Europese hoornaar.
 
 Gedrag
-: wordt vaak op een bloem aangetroffen.
+: Wordt vaak op een bloem aangetroffen.
 
 Onderscheidend kenmerk
-: zweeft in de lucht, vleugels gespreid in rust.
-</div></div>
+: Zweeft in de lucht, vleugels gespreid in rust.
+</div>
+</div>
 
 {: id="xylocopa-violaceae" }
 ### Blauwzwarte houtbij (_Xylocopa violaceae_)
@@ -180,17 +186,18 @@ Onderscheidend kenmerk
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
-: even groot als Aziatische hoornaar maar forser gebouwd.
+: Even groot als Aziatische hoornaar maar forser gebouwd.
 
 Kleur
-: zwart. Andere kleuren ontbreken tenzij stuifmeel op het borststuk. Zwartgeblakerde vleugels.
+: Zwart. Andere kleuren ontbreken tenzij stuifmeel op het borststuk. Zwartgeblakerde vleugels.
 
 Gedrag
-: vaak op grote bloemen, eerder zeldzaam in Vlaanderen.
+: Vaak op grote bloemen, eerder zeldzaam in Vlaanderen.
 
 Onderscheidend kenmerk
-: donkerzwart over het gehele lichaam. 
-</div></div>
+: Donkerzwart over het gehele lichaam. 
+</div>
+</div>
 
 ## Nesten herkennen
 

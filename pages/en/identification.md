@@ -54,17 +54,18 @@ In autumn, the queen of the colony can easily be distinguished from her workers.
 </div>
 <div class="col-md-6" markdown="1">
 Size
-: small wasp species, up to 2 cm long.
+: Small wasp species, up to 2 cm long.
 
 Color
-: black and yellow, with yellow markings on the thorax.
+: Black and yellow, with yellow markings on the thorax.
 
 Behavior
-: build paper nest from chewed wood fibers, often underground.
+: Build paper nest from chewed wood fibers, often underground.
 
 Distinctive feature
-: small size, yellow drawing on the breast piece, abdomen yellow with extensive black markings.
-</div></div>
+: Small size, yellow drawing on the breast piece, abdomen yellow with extensive black markings.
+</div>
+</div>
 
 {: id="dolichovespula-media" }
 ### Median wasp (_Dolichovespula media_), dark form
@@ -74,18 +75,19 @@ Distinctive feature
 ![dolichovespula-media](/assets/images/identification-dolichovespula-media.jpg "(c) Christine Devillers"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
-Grootte
-: half the size of a hornet.
+Size
+: Half the size of a hornet.
 
-Kleur
-: the abdomen is alternately striped with fine yellow and wide black stripes. The legs are more yellow than with Asian hornet. Thorax is black with a yellow, hooked lateral line. In addition to this dark a lighter form exists that resembles common and German yellowjacket.
+Color
+: The abdomen is alternately striped with fine yellow and wide black stripes. The legs are more yellow than with Asian hornet. Thorax is black with a yellow, hooked lateral line. In addition to this dark a lighter form exists that resembles common and German yellowjacket.
 
 Nest
-: often unprotected in a tree, below 10 meters. The nest looks like an inverted drop with the bottom tapering. The hole is at the bottom, never on the side. Casing is sloppy and pale brown to gray.
+: Often unprotected in a tree, below 10 meters. The nest looks like an inverted drop with the bottom tapering. The hole is at the bottom, never on the side. Casing is sloppy and pale brown to gray.
 
-Onderscheidend kenmerk
-: abdomen alternately yellow and black.
-</div></div>
+Distinctive feature
+: Abdomen alternately yellow and black.
+</div>
+</div>
 
 {: id="polistes-dominula" }
 ### European paper wasp (_Polistes dominula_)
@@ -95,18 +97,19 @@ Onderscheidend kenmerk
 ![polistes-dominula](/assets/images/identification-polistes-dominula.jpg "(c) Fotoopa"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
-Grootte
-: slightly larger than a bee, but smaller and especially slimmer than a hornet.
+Size
+: Slightly larger than a bee, but smaller and especially slimmer than a hornet.
 
-Kleur
-: the abdomen is alternately yellow and black. The long legs are more yellow and are left hanging in flight. Thorax black with a yellow collar and some finer yellow dots.
+Color
+: The abdomen is alternately yellow and black. The long legs are more yellow and are left hanging in flight. Thorax black with a yellow collar and some finer yellow dots.
 
 Nest
-: small nests without sheath. Usually in sheltered locations.
+: Small nests without sheath. Usually in sheltered locations.
 
-Onderscheidende kenmerk
-: slender wasp species.
-</div></div>
+Distinctive feature
+: Slender wasp species.
+</div>
+</div>
 
 {: id="urocerus-gigas" }
 ### Giant wood wasp (_Urocerus gigas_)
@@ -116,17 +119,17 @@ Onderscheidende kenmerk
 ![urocerus-gigas](/assets/images/identification-urocerus-gigas.jpeg "(c) Johan Opsomer"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
-Grootte
+Size
 : A completely harmless wood wasp that does not wear a sting and is the size of an Asian hornet, often remarkably slim.
 
-Kleur
-: abdomen more yellow than black, same for the legs. Antennae yellow, Asian hornet has black antennae. Two large yellow spots (facet eyes) on the front of the head (dark in Asian hornet).
+Color
+: Abdomen more yellow than black, same for the legs. Antennae yellow, Asian hornet has black antennae. Two large yellow spots (facet eyes) on the front of the head (dark in Asian hornet).
 
-Gedrag
-: often found on wood.
+Behavior
+: Often found on wood.
 
-Onderscheidend kenmerk
-: projecting ovipositor at the back of the body, yellow antennae.
+Distinctive feature
+: Projecting ovipositor at the back of the body, yellow antennae.
 </div></div>
 
 {: id="bombus" }
@@ -137,18 +140,19 @@ Onderscheidend kenmerk
 ![bombus](/assets/images/identification-bombus.jpg "(c) Isabelle Pourbaix"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
-Grootte
-: workers in between wasp and hornet. Queen the same size, but chubbier than hornets.
+Size
+: Workers in between wasp and hornet. Queen the same size, but chubbier than hornets.
 
-Kleur
-: variable. Mostly brown or black in combination with white tip and yellow bands.
+Color
+: Variable. Mostly brown or black in combination with white tip and yellow bands.
 
 Nest
-: under ground, flower boxes, garden shed, birdhouses, tree cavities.
+: Under ground, flower boxes, garden shed, birdhouses, tree cavities.
 
-Onderscheidend kenmerk
-: hairy, wasps are usually bald.
-</div></div>
+Distinctive feature
+: Hairy, wasps are usually bald.
+</div>
+</div>
 
 {: id="volucella-zonaria" }
 ### Hornet hoverfly (_Volucella zonaria_)
@@ -158,18 +162,19 @@ Onderscheidend kenmerk
 ![volucella-zonaria](/assets/images/identification-volucella-zonaria.jpg "(c) Johan Raes, digitalis, 2018"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
-Grootte
-: between wasp and hornet, one pair of wings (wasps have four wings).
+Size
+: Between wasp and hornet, one pair of wings (wasps have four wings).
 
-Kleur
-: little black, a lot of reddish-brown (chest piece). Reminds more of European hornet.
+Color
+: Little black, a lot of reddish-brown (chest piece). Reminds more of European hornet.
 
-Gedrag
-: often found on flowers.
+Behavior
+: Often found on flowers.
 
-Onderscheidend kenmerk
-: very orangy, one pair of wings spread out at rest.
-</div></div>
+Distinctive feature
+: Very orangy, one pair of wings spread out at rest.
+</div>
+</div>
 
 {: id="xylocopa-violaceae" }
 ### Violet carpenter bee (_Xylocopa violaceae_)
@@ -179,18 +184,19 @@ Onderscheidend kenmerk
 ![xylocopa-violaceae](/assets/images/identification-xylocopa-violaceae.jpg "(c) Annie Reynaerts"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
-Grootte
-: the size of an Asian hornet, but more chubby.
+Size
+: The size of an Asian hornet, but more chubby.
 
-Kleur
-: entirely black and shiny. Dark wings have violet and blue reflections. Other colors are missing unless pollen is stuck on the thorax.
+Color
+: Entirely black and shiny. Dark wings have violet and blue reflections. Other colors are missing unless pollen is stuck on the thorax.
 
-Gedrag
-: often on large flowers, rather rare in Flanders.
+Behavior
+: Often on large flowers, rather rare in Flanders.
 
-Onderscheidend kenmerk
-: black and shiny with violet and blue reflections.
-</div></div>
+Distinctive feature
+: Black and shiny with violet and blue reflections.
+</div>
+</div>
 
 ## Nest identification
 
