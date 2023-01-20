@@ -9,14 +9,14 @@ toc: true
 
 The Asian hornet was accidentally transported on a shipment of Chinese materials and settled in 2004 in southern France. From there, the species expanded at 60-100 km per year. Meanwhile, it is already established in Portugal, Italy and Belgium and nests have been found and removed in several other European countries. For Belgium, a first observation was done in 2011 in Flobecq. In November 2016, a first nest was found in rural Guignies by school children. This nest was removed but probably some of the fertilized queens could escape. In France, the invasion front reached Picardy and Nord-Pas-de-Calais as early as 2011. The [first nest in Flanders](https://www.honeybeevalley.eu/newsflash/eerste-nest-van-aziatische-hoornaar-in-vlaanderen) was destroyed in the autumn of 2017, in Poperinge. Meanwhile, the species is widely distributed in Flanders.
 
-![removal](/assets/images/07fc2f4c-366a-4296-b142-22245d781d9f.JPG)
+![removal](/assets/images/issue-specialist.jpg)
 _Specialist removes the first nest of Asian hornet in Poperinge, Flanders (22/11/2018) (Photo: HBV)_
 
 ## Impact on honeybees and biodiversity
 
 The Asian hornet hunts in groups on honeybees in front of the beehive. They are opportunistic feeders and also use other insects as food. Honeybees have little defense against this new invader. They are not adapted to this new non-native predator. The less honeybees in the landscape, the more the Asian hornets predate on wild pollinators and other insects. In French urban areas the proportion of honeybees in the diet is 66%, and lower (35%) in agricultural and forest areas.
 
-![beehive](/assets/images/7bda8916-253e-4013-8632-34ef864145fe.jpg)
+![beehive](/assets/images/issue-beehive.jpg)
 _Asian hornets hunt in groups in front of the beehive and can sometimes be very numerous (Photo: S. Lioy, Life Stopvespa)._
 
 Because of its impact on biodiversity, the Asian hornet is included on the list of invasive species of Union Concern of the EU [IAS Regulation](http://ec.europa.eu/environment/nature/invasivealien/index_en.htm). Belgium has to organize surveillance and must carry out a control programme for this wasp. Vespa-Watch is an important part of this programme. The invasion of the species is monitored and managed. In case of attacks on beehives the nest is detected and destroyed by competent services. The species nests mainly in (peri-) urban and agricultural areas but also in forest areas. Targeted (beekeepers) and general surveillance should be organized as area-wide as possible.

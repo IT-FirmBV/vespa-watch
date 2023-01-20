@@ -28,7 +28,7 @@ Everyone can help track the Asian hornet invasion. Here’s a list of things you
 Research revealed hornet workers forage within a 2000 m perimeter around their nest. Here, they catch on average 2 prey items per hour. If you observe a hornet foraging a nest must be close. We have seven clues to help you track down the exact location of a hornet nest:
 
 <div class="card theme-card-horizontal">
-    <img title="(c) KVDD" src="/assets/images/e9a1d313-f4ea-4b23-9d1a-75dbef6207bf.jpeg">
+    <img title="(c) KVDD" src="/assets/images/get-involved-search-flying.jpeg">
     <div class="card-body">
         <h5 class="card-title">Clue 1: Report, report, report, ...</h5>
         <p class="card-text">Not sure about your identification? Not to worry! Take a picture and upload it to vespawatch.be. You will get to recognize wasps thanks to the validation by the community. Observations of other hornets at the same location? No problem! The more observations the better.  The frequency of observations at a location also contributes to the project. Reporting the same hornet with two people? Fantastic! Duplicate observations are automatically recognized. Unable to take a good photo? Ask neighbors, friends or acquaintances to help you.</p>
@@ -36,7 +36,7 @@ Research revealed hornet workers forage within a 2000 m perimeter around their n
 </div>
 
 <div class="card theme-card-horizontal">
-    <img title="(c) Nick Colpaert" src="/assets/images/d800b184-2c0d-411f-b1de-d78f518a5ed0.jpeg">
+    <img title="(c) Nick Colpaert" src="/assets/images/get-involved-search-fruit.jpeg">
     <div class="card-body">
         <h5 class="card-title">Clue 2: Look for hornets where you can find them</h5>
         <p class="card-text">To find hornets, you must be aware of their way of life. Hornets actively hunt for insects and collect sugar-containing food and wood fibers for their nest. The chance of encountering a hornet are therefore greater in places with lots of small insects. Good locations to go look for hornets in summer are:<br>- Beehives<br>- Ripe (fallen) fruit: especially pears and apples are rich in sugars<br>- Late flowering plants: common ivy (<em>Hedera</em>) and snowberry (<em>Symphoricarpos</em>) offer a treat from September for insects</p>
@@ -44,7 +44,7 @@ Research revealed hornet workers forage within a 2000 m perimeter around their n
 </div>
 
 <div class="card theme-card-horizontal">
-    <img title="(c) Honeybee Valley" src="/assets/images/55973ea6-21fe-4c22-a4fc-f0bfd679c927.jpeg">
+    <img title="(c) Honeybee Valley" src="/assets/images/get-involved-search-prey.jpeg">
     <div class="card-body">
         <h5 class="card-title">Clue 3: Observe the flight direction of hornets</h5>
         <p class="card-text">Hornets return to the nest with their prey. First, the hornet will hang upside down on a twig as it dissects its prey. Then, the insect will clamp the meatball between thorax and legs, and flies with it to the nest. If there are many trees or houses around, the hornet can first make a turn. Keep following the hornet until it is out of sight (+ - 30 meters). Hornets take a certain flight altitude to fly on average at 30 km/h.</p>
@@ -52,7 +52,7 @@ Research revealed hornet workers forage within a 2000 m perimeter around their n
 </div>
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/b48733a8-2a99-4d50-897f-c71b843e34e2.jpeg">
+    <img src="/assets/images/get-involved-search-triangulation.jpeg">
     <div class="card-body">
         <h5 class="card-title">Clue 4: Triangulation or three-point method (beelining)</h5>
         <p class="card-text">By identifying several flight directions of hornets returing to the nest with prey, a few hundred meters apart from each, and plotting these on a map, the approximate location of the nest can be obtained.</p>
@@ -60,7 +60,7 @@ Research revealed hornet workers forage within a 2000 m perimeter around their n
 </div>
 
 <div class="card theme-card-horizontal">
-    <img title="(c) Honeybee Valley" src="/assets/images/8a255b04-e0e1-4ad6-8811-9f17d6095d7f.jpeg">
+    <img title="(c) Honeybee Valley" src="/assets/images/get-involved-search-tube.jpeg">
     <div class="card-body">
         <h5 class="card-title">Clue 5: Asian hornets are loyal hunters</h5>
         <p class="card-text">Beekeepers noticed the same hornets returned to the same beehive every day for a period of four weeks. Also, hornets were observed hunting on to the same ivy bush for three weeks. So hornets are quite faithful to the places they know where they search for food. Good to know if you want to observe them better and try to take pictures.</p>
@@ -68,7 +68,7 @@ Research revealed hornet workers forage within a 2000 m perimeter around their n
 </div>
 
 <div class="card theme-card-horizontal">
-    <img title="" src="/assets/images/599cf419-f155-4c86-8701-e605edd5ef3e.jpeg">
+    <img title="" src="/assets/images/get-involved-search-people.jpeg">
     <div class="card-body">
         <h5 class="card-title">Clue 6: Inform your neighbours, beekeepers and look for hornets together</h5>
         <p class="card-text">Tracking an Asian hornet’s nest requires a solid plan of action. Nests can be in trees, surprisingly close, but well hidden. An extra pair of eyes can make all the difference. Sometimes residents know that there are 'big wasps' in the garden shed, but they do not think or know about Asian hornets. Informing and working together are key. The more eyes are on the lookout, the faster a nest is found! Therefore, revisit locations with observations earlier in the season, organize nest searches in groups of 3 or more people, inform people at strategic places such as beekeepers, the local firefighter,...</p>
@@ -76,7 +76,7 @@ Research revealed hornet workers forage within a 2000 m perimeter around their n
 </div>
 
 <div class="card theme-card-horizontal">
-    <img title="(c) Honeybee Valley" src="/assets/images/b2e8937c-6913-4310-a0b1-6e8ac8fa2215.jpeg">
+    <img title="(c) Honeybee Valley" src="/assets/images/get-involved-search-nest.jpeg">
     <div class="card-body">
         <h5 class="card-title">Clue 7: Time of day and weather conditions</h5>
         <p class="card-text">Asian hornets only hunts during the day. If you observe a hornet at dusk against an outside light or window, this is more likely a European hornet and not an Asian hornet. Hornets are not active when it rains and are less active on cloudy days. The average temperature is also important. In summer, hornets are active from one hour after sunrise to one hour before sunset, but they have an activity peak around noon.</p>
@@ -90,7 +90,7 @@ Wick bait stations are screw top jars that, unlike conventional wasp traps, leav
 Want to give it a try? Follow our step-by-step plan.
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/3d8ad8d7-3b8f-42a6-96f1-85d616b88578.jpg">
+    <img src="/assets/images/get-involved-bait-1.jpg">
     <div class="card-body">
         <h5 class="card-title"> Step 1: Build and place a wick bait station</h5>
         <p class="card-text"> A wick bait station, to be effective, must have the following features: a glass or plastic screw top jar containing a piece of paper towel that will enable good wick of the bait attractant. As bait attractant, you can use a a commercial product (e.g. Trappit from Edialux), or your own homemade mixture consisting of 1/3rd dry white wine, 1/3rd beer and 1/3rd sugar/syrup. Ideally, a wick bait station is placed just below eye level and in an open space where you can easily monitor the hornets.</p>
@@ -98,7 +98,7 @@ Want to give it a try? Follow our step-by-step plan.
 </div>
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/8a255b04-e0e1-4ad6-8811-9f17d6095d7f.jpeg">
+    <img src="/assets/images/get-involved-search-tube.jpeg">
     <div class="card-body">
         <h5 class="card-title"> Step 2: Mark the hornets</h5>
         <p class="card-text"> To make sure you observe the same hornet, you need to catch it and then mark it. When having a wick bait station that is crowded, you can use different markings for each individual. You can use Opalith markers with numbers or a paint pen used by beekeepers. To do this, you need to catch the hornet and clamp it in such a way that you can place the marker in complete safety. The Opalith tag is applied to the top of the chest with a little bit of wood glue or wax. After marking, leave the hornet in the queen bee marking tube for 1 minute so that the glue or wax can dry. After that you can release the hornet again. In general, it should come as no surprise that the hornet takes a few tens of minutes before returning to the place of its capture. More rarely, it returns immediately.</p>
@@ -106,7 +106,7 @@ Want to give it a try? Follow our step-by-step plan.
 </div>
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/44f03b5a-7011-4da2-821c-d2e0f4a20f79.jpg">
+    <img src="/assets/images/get-involved-bait-2.jpg">
     <div class="card-body">
         <h5 class="card-title"> Step 3: Measure the times and flight directions</h5>
         <p class="card-text"> Once the pot has been spotted, the hornet will quickly become loyal to it and begin a cycle of back and forth between this easy source of sugar and the nest. It is then sufficient to record, for each marked hornet, the flight direction and the time between his departure and return to the wick bait station. This time is important and helps to locate the nest. Calculate 1 minute = 100 meters. Repeat the time measurement at least 5 times and take the average. When you have collected enough data about the times and flight directions at a certain place, you can move the wick bait station to another place. Here you start again in such a way that you can easily map the flight directions and times later on. The ideal is to work with multiple wick bait stations at the same time to collect a maximum of data in a minimum of time.</p>
@@ -114,7 +114,7 @@ Want to give it a try? Follow our step-by-step plan.
 </div>
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/275e13d5-b8f4-4b81-af82-f2c104594450.jpg">
+    <img src="/assets/images/get-involved-bait-direction.jpg">
     <div class="card-body">
         <h5 class="card-title"> Step 4: Plot the times and flight directions on a map</h5>
         <p class="card-text"> It is time to plot the flight directions and time identification on a map. Measurements with times longer than 5 minutes should be moved 100 meters in the direction of the flight. After a while, the hornets should find this jar, which will give shorter and more accurate times. You may notice that the direction of flight deviates slightly. This is because a hornet does not always follow a straight line to its nest, but instead uses landscape features.</p>

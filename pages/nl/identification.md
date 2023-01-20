@@ -7,7 +7,7 @@ toc: true
 
 Hoornaars zijn bijna dubbel zo groot als een wesp of honingbij. Als eenvoudig trucje kan je de grootte van een 1 euro muntstuk in gedachten nemen. Hoornaars zijn altijd groter dan het muntstuk.
 
-![](/assets/images/da53c0be-46fe-4d4f-98ad-6d2f9fd0f73c.PNG)
+![](/assets/images/identification-comparison-euro.jpg)
 
 In België komen twee hoornaarsoorten voor: de **Aziatische hoornaar** en de **Europese hoornaar**. De Aziatische hoornaar is net iets kleiner dan de Europese hoornaar. De koningin van de Aziatische hoornaar meet 3,5 centimeter van kop tot angel. Ze is iets kleiner dan de Europese hoornaar koningin, die een lengte van 4 cm haalt. De werksters en darren, of mannetjes, zijn kleiner dan de koningin. Aziatische hoornaar werksters en darren worden gemiddeld 2.5 - 3 cm groot, Europese hoornaars weerom iets groter met 3 tot 3.5 cm. Je zal natuurlijk de kans niet krijgen om een levende hoornaar nauwkeurig te meten. Gebruik eerder het kleurpatroon om Aziatische van Europese hoornaars te onderscheiden.
 
@@ -15,7 +15,7 @@ In België komen twee hoornaarsoorten voor: de **Aziatische hoornaar** en de **E
 
 Met 3 eenvoudige kleurkenmerken kan je de Aziatische hoornaar onderscheiden van de Europese hoornaar. In tegenstelling tot de structuur van lichaamsdelen kan de kleur soms variabel zijn. Bijvoorbeeld worden Aziatische hoornaars bleker naarmate ze langer vliegen. Of zijn de pootjes van Europese hoornaars soms geel in plaats van roodbruin gekleurd.  Houd daarom altijd rekening met mogelijke afwijkingen!
 
-![](/assets/images/247927c6-6ed1-44ef-b87f-506f69c9be20.PNG)
+![](/assets/images/identification-comparison-velutina-crabro.jpg)
 
 ### Achterlijf
 
@@ -29,14 +29,14 @@ De pootjes van de Aziatische hoornaar zijn zwart met opvallend gele tippen. De p
 
 Het borststuk is het lichaamsdeel tussen kop en achterlijf waarop poten en vleugels vastzitten. De bovenzijde ervan is bij de Aziatische hoornaar volledig zwart gekleurd en bij de Europese hoornaar zwart met roodbruine tekeningen. De roodbruine kleur loopt door tot op de bovenkant van de kop. Op het zwarte borststuk van andere wespensoorten (gewone wesp, Duitse wesp) zijn nagenoeg altijd duidelijk gele strepen of stippen te zien.
 
-![](/assets/images/366263fc-e714-4d8c-9bc6-f6683bddc601.jpg)
+![](/assets/images/identification-comparison-media-velutina.jpg)
 _Foto links: Koningin middelste wesp, soms is een gele kleurslag te zien op roodbruine pootjes, (c) Michel Garin. Foto rechts: zwarte poten met gele tipjes van de Aziatische hoornaar, (c) Warre-SG._
 
 ### Verschil tussen dar en werkster
 
 Een dar (mannelijk) heeft een stomp achterlijfspunt met een inkeping en vertoont twee gele vlekken aan het ventrale uiteinde van de abdomen. Bij het vrouwtje is dit kenmerk niet aanwezig. Een werkster (vrouwelijk) heeft een spits achterlijfpunt, waarbij soms ook de angel te zien is. Werkster hebben een angel, mannetjes niet. Als je gestoken bent door een hoornaar, dan is dit door een werkster. Daarnaast zijn de antennes van een dar langer dan van een werkster. De antennes van mannetjes hebben 13 segmenten, 12 bij vrouwtjes, en zijn meer gekarteld.
 
-![](/assets/images/07818466-b2f6-4b66-bb58-5769cd51bdec.PNG)
+![](/assets/images/identification-comparison-male-female.png)
 _Foto 1: een dar met een stomp achterlijfpunt. Foto 2: een dar waarbij de inkeping in het midden op het achterlijfpunt duidelijk te zien is. Gele cirkels tonen aan weerzijden van de inkeping de gele puntjes die zichtbaar zijn. Foto 3: een werkster met een spits achterlijfpunt, waarbij de angel te zien is._
 
 ### Herkenning van de koningin
@@ -50,7 +50,7 @@ In de herfst is de koningin van de kolonie gemakkelijk te onderscheiden van haar
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![vespula](/assets/images/identification-vespula.jpg "(c) Foto links: Brigitte van Passel, foto rechts: Karel Schoonvaere"){: .img-fluid }
+![vespula](/assets/images/identification-lookalike-vespula.jpg "(c) Foto links: Brigitte van Passel, foto rechts: Karel Schoonvaere"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
@@ -72,7 +72,7 @@ Onderscheidend kenmerk
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![dolichovespula-media](/assets/images/identification-dolichovespula-media.jpg "(c) Christine Devillers"){: .img-fluid }
+![dolichovespula-media](/assets/images/identification-lookalike-dolichovespula-media.jpg "(c) Christine Devillers"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
@@ -94,7 +94,7 @@ Onderscheidend kenmerk
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![polistes-dominula](/assets/images/identification-polistes-dominula.jpg "(c) Fotoopa"){: .img-fluid }
+![polistes-dominula](/assets/images/identification-lookalike-polistes-dominula.jpg "(c) Fotoopa"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
@@ -116,7 +116,7 @@ Onderscheidend kenmerk
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![urocerus-gigas](/assets/images/identification-urocerus-gigas.jpeg "(c) Johan Opsomer"){: .img-fluid }
+![urocerus-gigas](/assets/images/identification-lookalike-urocerus-gigas.jpeg "(c) Johan Opsomer"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
@@ -138,7 +138,7 @@ Onderscheidend kenmerk
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![bombus](/assets/images/identification-bombus.jpg "(c) Isabelle Pourbaix"){: .img-fluid }
+![bombus](/assets/images/identification-lookalike-bombus.jpg "(c) Isabelle Pourbaix"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
@@ -160,7 +160,7 @@ Onderscheidend kenmerk
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![volucella-zonaria](/assets/images/identification-volucella-zonaria.jpg "(c) Johan Raes, digitalis, 2018"){: .img-fluid }
+![volucella-zonaria](/assets/images/identification-lookalike-volucella-zonaria.jpg "(c) Johan Raes, digitalis, 2018"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
@@ -182,7 +182,7 @@ Onderscheidend kenmerk
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![xylocopa-violaceae](/assets/images/identification-xylocopa-violaceae.jpg "(c) Annie Reynaerts"){: .img-fluid }
+![xylocopa-violaceae](/assets/images/identification-lookalike-xylocopa-violaceae.jpg "(c) Annie Reynaerts"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
@@ -207,17 +207,17 @@ De Aziatische hoornaar bouwt twee types nesten: een klein primair nest in de len
 
 Van april tot juni bouwen Aziatische hoornaars het primaire nest. Dit nest is altijd bolvormig en hangt op een plaats beschut tegen regen en wind. Voorbeelden zijn binnen in een schuur, een veranda, een tuinhuisje of een houthok, op een zolder of onder het dak van een carport. Voorjaarsnesten hangen meestal aan een horizontaal draagvlak zoals een plafond of een balk. De kleur is lichtbruin en de grootte varieert tussen een tennisbal en een kleine voetbal. De ingang van het nest zit onderaan. Het prille nest stadium waarin het nest niet groter is als een tennisbal is moeilijk te onderscheiden van Europese hoornaars of andere wespen. De primaire nesten zijn vaak in de nabijheid van water.
 
-![](/assets/images/81321dfe-e4eb-45bc-acc6-549d8072cb3e.png)
+![](/assets/images/identification-nest-spring.png)
 _Links: een jong primair nestje hangt aan een plafond (diameter: 8 cm). Rechts: een verder ontwikkeld primair nest in een schuur. Beide nesten zijn gebouwd op een beschutte plaats en lijken goed op het nest van andere wespen._
 
 ### Grote zomernesten in een boomtop
 
 In de zomer en de herfst groeit de kolonie en neemt de omvang van het nest toe. Het wordt dan een secundair nest of zomernest genoemd. Bij plaatsgebrek verhuist de kolonie en bouwt ze een volledig nieuw zomernest op een andere locatie. In de meeste gevallen wordt het zomernest dan in een boomtop gemaakt. Deze nesten zijn moeilijker om te vinden want ze worden pas zichtbaar als de bladeren van de bomen vallen. Andere plaatsen waar zomernesten kunnen gemaakt worden zijn hagen, schuren, loodsen, onder een dakoverloop of tegen een gevel. Soms verhuizen de hoornaars niet en bouwt de kolonie het voorjaarsnest uit tot een zomernest. Zomernesten zijn bol- tot peervormig. Ze zijn lichtbruin in kleur en worden gemiddeld 50 cm breed en 70 cm hoog. De ingang van het zomernest is altijd zijdelings. Tijdens de zomer en herfst is het nest actief en zijn vliegende hoornaars van en naar het nest te zien. Hoornaars lopen ook op de buitenkant van het nest rond. Dan is het lichtbruine nest bespikkeld met zwarte stipjes.
 
-![](/assets/images/fc3e7895-0133-4137-a0f2-da6096101794.png)
+![](/assets/images/identification-nest-summer.png)
 _Zomernesten op dezelfde plaats als het primaire voorjaarsnest. De vliegopening van het secundair nest is zijdelings. Op de buitenkant van het nest lopen de hoornaars haastig rond (zwarte stipjes). Bij dit soort nesten kunnen de hoornaars zeer agressief reageren als mensen te dicht bij het nest komen. Houdt altijd een veilige afstand van minstens 5 meter._
 
-![](/assets/images/e0d8c789-941f-4af8-a607-7e6c67f8a77a.png)
+![](/assets/images/identification-nest-tree.png)
 _Twee zomernesten gevonden in oktober 2018 in Vlaanderen. Links: een lichtbruine bol hangt 8 meter hoog in een Eik die achteraan de tuin staat (te Oost-Vlaanderen). Rechts: een peervormig nest hangt 26 meter hoog in een Robinia (West-Vlaanderen). Rechtsonder telkens een vergroting van het nest in de boomtop._
 
 ### Verwarring met maretak, een vogelnest, een boomkanker of tondelzwammen
@@ -228,5 +228,5 @@ Maretak (vogellijm, mistel) is een halfparasiet van loofbomen. De Canadapopulier
 
 Een grote vergroeiing van een boomstam of -tak is het gevolg van een schimmel of bacteriële infectie. In de volksmond wordt dan wel eens van een boomkanker gesproken. Meestal komt de vergroeiing voor in het onderste deel van de boom, dicht tegen de stam. In een boomtop komen ze minder vaak voor. Ook tondelzwammen kunnen verward worden met wespennesten in bomen. Een tondelzwam is een schimmel die groeit op de stam van een verzwakte of dode boom.
 
-![](/assets/images/778b7cac-a447-48b3-b0de-bd15b62b5a70.png)
+![](/assets/images/identification-nest-lookalike.png)
 _Maretak (links), een nest van vogels (midden) of boomkankers (rechts) kunnen verward worden met de nesten van Aziatische hoornaars. Het zijn bolvormige massa's die voorkomen in een boom. Ze zijn meestal donkerder dan een hoornaarnest._

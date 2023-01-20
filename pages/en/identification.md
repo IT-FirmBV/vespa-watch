@@ -7,7 +7,7 @@ toc: true
 
 Hornets are almost twice as big as a wasp or honeybee. A simple trick is to think of a 1 euro coin. Hornets are always bigger than the coin.
 
-![](/assets/images/da53c0be-46fe-4d4f-98ad-6d2f9fd0f73c.PNG)
+![](/assets/images/identification-comparison-euro.jpg)
 
 In Belgium two hornet species occur: the **Asian hornet** and the **European hornet**. The Asian hornet is slightly smaller than the European hornet. An Asian hornet queen measures 3.5 cm. This is slightly smaller than a European hornet queen, with a length of 4 cm. Workers and drones, or males, are smaller than queens. Asian hornet workers and drones are on average 2.5-3 cm long, European hornets are slightly larger with 3-3.5 cm. You will of course probably not get the chance to accurately measure a live hornet. To distinguish Asian from European hornets, use the colour pattern.
 
@@ -15,7 +15,7 @@ In Belgium two hornet species occur: the **Asian hornet** and the **European hor
 
 Three simple color features allow to distinguish an Asian from a European hornet. Bear in mind colors are sometimes variable. For example, Asian hornets become paler with age and become worn off. Also, the legs of European hornets are sometimes yellow instead of red-brown. 
 
-![](/assets/images/247927c6-6ed1-44ef-b87f-506f69c9be20.PNG)
+![](/assets/images/identification-comparison-velutina-crabro-en.jpg)
 
 ### Thorax entirely black
 
@@ -29,14 +29,14 @@ The legs of Asian hornet are black with distinctive yellow tips. The legs of the
 
 The abdomen of an Asian horn is black with only one dark yellow abdomen segment (tergite 4). The abdomen of the European hornet is yellow for two thirds. The first segment (tergite 1) is red-brown and black. The tip of the abdomen is always yellow. Usually two rows of black dots are visible on a yellow background.
 
-![](/assets/images/366263fc-e714-4d8c-9bc6-f6683bddc601.jpg)
+![](/assets/images/identification-comparison-media-velutina.jpg)
 _On the left: Median wasp queen, red-brown legs with some yellow pigmentation seen, (c) Michel Garin. On the right: the distinct black legs with yellows tips of the Asian hornet, (c) Warre-SG._
 
 ### Difference between male and female
 
 The male has a truncated abdomen, with a notch that shows a pair of yellow spots on the underneath side of the abdomen which females do not have. On the other hand, a female has finely punctate abdomen, which sometimes show the sting. Females have a sting, males do not. In addition, the male antennae are longer and more curved than those of a female. The antennae of males consist of 13 segments that are serrated, while a female has only 12 segments. 
 
-![](/assets/images/07818466-b2f6-4b66-bb58-5769cd51bdec.PNG)
+![](/assets/images/identification-comparison-male-female.png)
 _Picture 1: a male with a truncated abdomen. Picture 2: a male with a notch that shows a pair of yellow spots on the underneath side of the abdomen (showed by the yellow circles). Picture 3: a female with a finely punctate abdomen, which sometimes show the sting._
 
 ### Recognition of the queen
@@ -50,7 +50,7 @@ In autumn, the queen of the colony can easily be distinguished from her workers.
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![vespula](/assets/images/identification-vespula.jpg "(c) Foto links: Brigitte van Passel, foto rechts: Karel Schoonvaere"){: .img-fluid }
+![vespula](/assets/images/identification-lookalike-vespula.jpg "(c) Foto links: Brigitte van Passel, foto rechts: Karel Schoonvaere"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -72,7 +72,7 @@ Distinctive feature
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![dolichovespula-media](/assets/images/identification-dolichovespula-media.jpg "(c) Christine Devillers"){: .img-fluid }
+![dolichovespula-media](/assets/images/identification-lookalike-dolichovespula-media.jpg "(c) Christine Devillers"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -94,7 +94,7 @@ Distinctive feature
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![polistes-dominula](/assets/images/identification-polistes-dominula.jpg "(c) Fotoopa"){: .img-fluid }
+![polistes-dominula](/assets/images/identification-lookalike-polistes-dominula.jpg "(c) Fotoopa"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -116,7 +116,7 @@ Distinctive feature
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![urocerus-gigas](/assets/images/identification-urocerus-gigas.jpeg "(c) Johan Opsomer"){: .img-fluid }
+![urocerus-gigas](/assets/images/identification-lookalike-urocerus-gigas.jpeg "(c) Johan Opsomer"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -137,7 +137,7 @@ Distinctive feature
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![bombus](/assets/images/identification-bombus.jpg "(c) Isabelle Pourbaix"){: .img-fluid }
+![bombus](/assets/images/identification-lookalike-bombus.jpg "(c) Isabelle Pourbaix"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -159,7 +159,7 @@ Distinctive feature
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![volucella-zonaria](/assets/images/identification-volucella-zonaria.jpg "(c) Johan Raes, digitalis, 2018"){: .img-fluid }
+![volucella-zonaria](/assets/images/identification-lookalike-volucella-zonaria.jpg "(c) Johan Raes, digitalis, 2018"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -181,7 +181,7 @@ Distinctive feature
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![xylocopa-violaceae](/assets/images/identification-xylocopa-violaceae.jpg "(c) Annie Reynaerts"){: .img-fluid }
+![xylocopa-violaceae](/assets/images/identification-lookalike-xylocopa-violaceae.jpg "(c) Annie Reynaerts"){: .img-fluid }
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -206,17 +206,17 @@ Asian hornets build two types of nests: a small primary nest in spring and a lar
 
 From April to June, Asian hornets build their spring nest. This nest is always spherical and located in a sheltered place protected from rain and wind: inside a shed, a porch, a garden shed or a wood shed, in an attic or under the roof of a carport. Spring nests are usually attached to a horizontal base such as a ceiling. Their color is light brown and the size varies between a tennis ball and a small football. The entrance of the nest is at the bottom. The early nest stage, in which the nest is no bigger than a tennis ball, is difficult to distinguish from European hornets or other wasps. The primary nests are often in the vicinity of water.
 
-![](/assets/images/81321dfe-e4eb-45bc-acc6-549d8072cb3e.png)
+![](/assets/images/identification-nest-spring.png)
 _Left: a young primary nest of Vespa velutina attached to a ceiling (diameter: 8 cm). Right: a more developed primary nest in a shed. Both nests are build in a covered place and look similar to the nests of other wasp species._
 
 ### Large summer nests in a treetop
 
 In summer the colony can move to a nearby location. In this case, a secondary nest or summer nest is produced. Most summer nests are built in a treetop higher than 10 meters. They only become visible when the leafs fall in autumn. Other places where summer nests can be built are hedges, barns, sheds, under a roof overflow or against a façade. Sometimes the hornets do not move and they turn the spring nest into a summer nest. Summer nests are bulbous to pear-shaped. They are light brown in color and are on average 50 cm (up to 90 cm) wide. The entrance of the nest is on the side.
 
-![](/assets/images/fc3e7895-0133-4137-a0f2-da6096101794.png)
+![](/assets/images/identification-nest-summer.png)
 _Two summernests on the same location as the primary nests. The fly entrance is on the side. Note on the left picture hornets are running on top of the nest (distinct black dots). The wasps can react very agressively when coming close to the nest. Always keep a save distance of at least 5 meters._
 
-![](/assets/images/e0d8c789-941f-4af8-a607-7e6c67f8a77a.png)
+![](/assets/images/identification-nest-tree.png)
 _Two summernests found in October 2018 in Belgium. Left: a light brown bowl-like structure hanging 8 meters in the top of an Oak tree which stood in the back of a garden (East-Flanders). Right: a pear-shaped nest hanging 26 meters in the top of a Robinia tree (West-Flanders). Below right in each image is a close-up of the nest in the tree top._
 
 ### Confusion with mistletoe, bird nests, tree cancer
@@ -227,5 +227,5 @@ In trees you can sometimes find other structures that resemble an Asian hornet n
 
 A large deformation of a tree trunk or branch as a result of a fungus or bacterial infection is known as a **tree cancer**. This usually occurs in the lower parts of the tree, close to the trunk. Tree cancers are less common in the treetop. Also fungi (tinder fungus) can grow on a tree and easily be confused as a hornet nest. 
 
-![](/assets/images/778b7cac-a447-48b3-b0de-bd15b62b5a70.png)
+![](/assets/images/identification-nest-lookalike.png)
 _Mistletoe (left), bird's nests (centre) or tree cancers (right) can be confused with nests of Asian hornets. They are usually dark, bowl-like structures that are visible from a distance in the tree top._
