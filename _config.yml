@@ -12,7 +12,7 @@ social:
 
 # THEME SETTINGS
 theme: minima
-remote_theme: peterdesmet/petridish # TODO: set version
+remote_theme: peterdesmet/petridish@3.0
 github_edit: gh-pages
 colors:
   links: "#ea792a"  # Orange
