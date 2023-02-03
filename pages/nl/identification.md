@@ -45,12 +45,12 @@ In de herfst is de koningin van de kolonie gemakkelijk te onderscheiden van haar
 
 ## Andere insecten die lijken op een Aziatische hoornaar
 
-{: id="vespula" }
+{:id="vespula"}
 ### Gewone wesp (_Vespula vulgaris_) en Duitse wesp (_V. germanica_)
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![vespula](/assets/images/identification-lookalike-vespula.jpg "(c) Foto links: Brigitte van Passel, foto rechts: Karel Schoonvaere"){: .img-fluid }
+![vespula](/assets/images/identification-lookalike-vespula.jpg "(c) Foto links: Brigitte van Passel, foto rechts: Karel Schoonvaere"){:.img-fluid}
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
@@ -67,12 +67,12 @@ Onderscheidend kenmerk
 </div>
 </div>
 
-{: id="dolichovespula-media" }
+{:id="dolichovespula-media"}
 ### Middelste wesp (_Dolichovespula media_), donkere vorm
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![dolichovespula-media](/assets/images/identification-lookalike-dolichovespula-media.jpg "(c) Christine Devillers"){: .img-fluid }
+![dolichovespula-media](/assets/images/identification-lookalike-dolichovespula-media.jpg "(c) Christine Devillers"){:.img-fluid}
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
@@ -89,12 +89,12 @@ Onderscheidend kenmerk
 </div>
 </div>
 
-{: id="polistes-dominula" }
+{:id="polistes-dominula"}
 ### Franse veldwesp (_Polistes dominula_)
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![polistes-dominula](/assets/images/identification-lookalike-polistes-dominula.jpg "(c) Fotoopa"){: .img-fluid }
+![polistes-dominula](/assets/images/identification-lookalike-polistes-dominula.jpg "(c) Fotoopa"){:.img-fluid}
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
@@ -111,12 +111,12 @@ Onderscheidend kenmerk
 </div>
 </div>
 
-{: id="urocerus-gigas" }
+{:id="urocerus-gigas"}
 ### Reuzenhoutwesp (_Urocerus gigas_)
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![urocerus-gigas](/assets/images/identification-lookalike-urocerus-gigas.jpeg "(c) Johan Opsomer"){: .img-fluid }
+![urocerus-gigas](/assets/images/identification-lookalike-urocerus-gigas.jpeg "(c) Johan Opsomer"){:.img-fluid}
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
@@ -133,12 +133,12 @@ Onderscheidend kenmerk
 </div>
 </div>
 
-{: id="bombus" }
+{:id="bombus"}
 ### Hommel (_Bombus_ soorten)
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![bombus](/assets/images/identification-lookalike-bombus.jpg "(c) Isabelle Pourbaix"){: .img-fluid }
+![bombus](/assets/images/identification-lookalike-bombus.jpg "(c) Isabelle Pourbaix"){:.img-fluid}
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
@@ -155,12 +155,12 @@ Onderscheidend kenmerk
 </div>
 </div>
 
-{: id="volucella-zonaria" }
+{:id="volucella-zonaria"}
 ### Stadsreus (of Hoornaarzweefvlieg, _Volucella zonaria_)
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![volucella-zonaria](/assets/images/identification-lookalike-volucella-zonaria.jpg "(c) Johan Raes, digitalis, 2018"){: .img-fluid }
+![volucella-zonaria](/assets/images/identification-lookalike-volucella-zonaria.jpg "(c) Johan Raes, digitalis, 2018"){:.img-fluid}
 </div>
 <div class="col-md-6" markdown="1">
 Grootte
@@ -177,12 +177,12 @@ Onderscheidend kenmerk
 </div>
 </div>
 
-{: id="xylocopa-violaceae" }
+{:id="xylocopa-violaceae"}
 ### Blauwzwarte houtbij (_Xylocopa violaceae_)
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![xylocopa-violaceae](/assets/images/identification-lookalike-xylocopa-violaceae.jpg "(c) Annie Reynaerts"){: .img-fluid }
+![xylocopa-violaceae](/assets/images/identification-lookalike-xylocopa-violaceae.jpg "(c) Annie Reynaerts"){:.img-fluid}
 </div>
 <div class="col-md-6" markdown="1">
 Grootte

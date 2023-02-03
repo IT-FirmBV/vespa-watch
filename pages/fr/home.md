@@ -10,7 +10,7 @@ permalink: /fr/
 published: false
 ---
 
-[Découvrez le rapport du projet Vespa-Watch](https://doi.org/10.21436/inbor.19019045){: .btn .btn-secondary}
+[Découvrez le rapport du projet Vespa-Watch](https://doi.org/10.21436/inbor.19019045){:.btn .btn-secondary}
 
 Le frelon asiatique est apparu pour la première fois en Belgique en 2016 et depuis lors, cette espèce se propage rapidement. Cette guêpe vient de Chine et s’attaque aux abeilles ainsi qu’à d’autres insectes. Elle est considérée comme un espèce exotique invasive et fait l’objet d’une surveillance en Belgique. Sa population est gérée par extermination des nids.
 

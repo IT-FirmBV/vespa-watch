@@ -5,7 +5,7 @@ background:
 toc: false
 ---
 
-{: .alert .alert-warning }
+{:.alert .alert-warning}
 Dit meldingsformulier is in ontwikkeling ter voorbereiding van het volgende veldseizoen.
 
 Nesten zijn momenteel inactief door het koude weer. U kan wel een koningin tegenkomen die overwintert op een beschutte plaats buiten het nest. Een nest wordt nooit hergebruikt en mag dus blijven hangen.

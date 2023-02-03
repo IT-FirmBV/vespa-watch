@@ -5,7 +5,7 @@ background:
 toc: false
 ---
 
-{: .alert .alert-warning }
+{:.alert .alert-warning}
 This form is under development in preparation for the next field season.
 
 Nests are currently dormant due to the cold weather. You may come across a queen that hibernates in a sheltered place outside the nest. A nest is never reused and can therefore remain.

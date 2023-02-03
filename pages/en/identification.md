@@ -45,12 +45,12 @@ In autumn, the queen of the colony can easily be distinguished from her workers.
 
 ## Other look-alike insects
 
-{: id="vespula" }
+{:id="vespula"}
 ### Common yellowjacket (_Vespula vulgaris_) and German yellowjacket (_Vespula germanica_)
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![vespula](/assets/images/identification-lookalike-vespula.jpg "(c) Foto links: Brigitte van Passel, foto rechts: Karel Schoonvaere"){: .img-fluid }
+![vespula](/assets/images/identification-lookalike-vespula.jpg "(c) Foto links: Brigitte van Passel, foto rechts: Karel Schoonvaere"){:.img-fluid}
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -67,12 +67,12 @@ Distinctive feature
 </div>
 </div>
 
-{: id="dolichovespula-media" }
+{:id="dolichovespula-media"}
 ### Median wasp (_Dolichovespula media_), dark form
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![dolichovespula-media](/assets/images/identification-lookalike-dolichovespula-media.jpg "(c) Christine Devillers"){: .img-fluid }
+![dolichovespula-media](/assets/images/identification-lookalike-dolichovespula-media.jpg "(c) Christine Devillers"){:.img-fluid}
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -89,12 +89,12 @@ Distinctive feature
 </div>
 </div>
 
-{: id="polistes-dominula" }
+{:id="polistes-dominula"}
 ### European paper wasp (_Polistes dominula_)
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![polistes-dominula](/assets/images/identification-lookalike-polistes-dominula.jpg "(c) Fotoopa"){: .img-fluid }
+![polistes-dominula](/assets/images/identification-lookalike-polistes-dominula.jpg "(c) Fotoopa"){:.img-fluid}
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -111,12 +111,12 @@ Distinctive feature
 </div>
 </div>
 
-{: id="urocerus-gigas" }
+{:id="urocerus-gigas"}
 ### Giant wood wasp (_Urocerus gigas_)
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![urocerus-gigas](/assets/images/identification-lookalike-urocerus-gigas.jpeg "(c) Johan Opsomer"){: .img-fluid }
+![urocerus-gigas](/assets/images/identification-lookalike-urocerus-gigas.jpeg "(c) Johan Opsomer"){:.img-fluid}
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -132,12 +132,12 @@ Distinctive feature
 : Projecting ovipositor at the back of the body, yellow antennae.
 </div></div>
 
-{: id="bombus" }
+{:id="bombus"}
 ### Bumblebees (_Bombus_ species)
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![bombus](/assets/images/identification-lookalike-bombus.jpg "(c) Isabelle Pourbaix"){: .img-fluid }
+![bombus](/assets/images/identification-lookalike-bombus.jpg "(c) Isabelle Pourbaix"){:.img-fluid}
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -154,12 +154,12 @@ Distinctive feature
 </div>
 </div>
 
-{: id="volucella-zonaria" }
+{:id="volucella-zonaria"}
 ### Hornet hoverfly (_Volucella zonaria_)
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![volucella-zonaria](/assets/images/identification-lookalike-volucella-zonaria.jpg "(c) Johan Raes, digitalis, 2018"){: .img-fluid }
+![volucella-zonaria](/assets/images/identification-lookalike-volucella-zonaria.jpg "(c) Johan Raes, digitalis, 2018"){:.img-fluid}
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -176,12 +176,12 @@ Distinctive feature
 </div>
 </div>
 
-{: id="xylocopa-violaceae" }
+{:id="xylocopa-violaceae"}
 ### Violet carpenter bee (_Xylocopa violaceae_)
 
 <div class="row">
 <div class="col-md-6" markdown="1">
-![xylocopa-violaceae](/assets/images/identification-lookalike-xylocopa-violaceae.jpg "(c) Annie Reynaerts"){: .img-fluid }
+![xylocopa-violaceae](/assets/images/identification-lookalike-xylocopa-violaceae.jpg "(c) Annie Reynaerts"){:.img-fluid}
 </div>
 <div class="col-md-6" markdown="1">
 Size
