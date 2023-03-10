@@ -9,7 +9,7 @@ background:
 permalink: /en/
 ---
 
-Vespa-Watch is the Flemish hotline for nests of Asian hornets. Reports are followed up so that nests can be eradicated. Observations of individual hornets via observations.be or inaturalist.org also help to detect nests.
+Vespa-Watch is the Flemish hotline for nests of Asian hornets. Reports are validated and we notify you when reporting a nest of the Asian hornet. Observations of individual hornets via observations.be or inaturalist.org help to detect nests.
 
 [Report a nest](/en/report-nest/){:.btn .btn-primary} or report an individual via [waarnemingen.be](https://waarnemingen.be/species/8807/) or [inaturalist.org](https://www.inaturalist.org/observations/upload).
 
@@ -19,8 +19,6 @@ The Asian hornet (_Vespa velutina_) is a wasp species from Southeast China. Sinc
 
 - The species did not originally occur here, but is now rapidly increasing in number and spreading throughout Flanders.
 - It attacks honey bees and other native insects that pollinate our flowers and plants.
-
-Nests of this wasp are therefore sought out and eradicated.
 
 <div class="ratio ratio-16x9">
   <iframe frameborder="0" src="https://player.vimeo.com/video/730964068?h=3f1ee4ca53" allowfullscreen></iframe>
