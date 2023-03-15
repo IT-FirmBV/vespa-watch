@@ -9,9 +9,11 @@ background:
 permalink: /en/
 ---
 
-Vespa-Watch is the Flemish hotline for nests of Asian hornets. Reports are validated and we notify you when reporting a nest of the Asian hornet. Observations of individual hornets via observations.be or inaturalist.org help to detect nests.
+Vespa-Watch is the Flemish hotline for nests of Asian hornets.
 
 [Report a nest](/en/report-nest/){:.btn .btn-primary} or report an individual via [waarnemingen.be](https://waarnemingen.be/species/8807/) or [inaturalist.org](https://www.inaturalist.org/observations/upload).
+
+We will validate your report en notify you if it concerns a nest of Asian hornet. Reports of individual hornets can help us to locate nests.
 
 ## Why are Asian hornets harmful?
 
