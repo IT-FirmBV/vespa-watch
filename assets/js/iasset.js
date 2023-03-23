@@ -94,7 +94,7 @@
 
             data.forEach(function (el) {
                 let selector = el.label.toLowerCase().replaceAll(' ', '-');
-                let label = ['checkbox', 'radio', 'current_user', 'field_group'].includes(el.field_type) ? '' : '<label class="col-form-label" ' +
+                let label = ['checkbox', 'radio', 'current_user', 'field_group'].includes(el.field_type) ? '' : '<label class="form-label" ' +
                     'for="' + selector + '">' + el.label + (Boolean(parseInt(el.mandatory)) ? ' *' : '') + '</label>';
                 let input = '';
 
