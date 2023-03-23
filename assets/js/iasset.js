@@ -342,7 +342,7 @@
                                 for (const [key, value] of Object.entries(errors)) {
                                     let keyStr = key.split('data.').pop();
 
-                                    $('#' + serialisedData[keyStr.split('.value')[0]]['name']).addClass('is-invalid').siblings('.invalid-feedback').text('Het veld is verplicht!')
+                                    $('#' + serialisedData[keyStr.split('.value')[0]]['name']).addClass('is-invalid').siblings('.invalid-feedback').text('Dit veld is verplicht.')
                                 }
                             }
                         })
