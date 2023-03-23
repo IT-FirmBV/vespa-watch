@@ -94,8 +94,8 @@
 
             data.forEach(function (el) {
                 let selector = el.label.toLowerCase().replaceAll(' ', '-');
-                let label = ['checkbox', 'radio', 'current_user', 'field_group'].includes(el.field_type) ? '' : '<label class="col-form-label" ' +
-                    'for="' + selector + '">' + el.label + ':<span>' + (Boolean(parseInt(el.mandatory)) ? ' *' : '') + '</span></label>';
+                let label = ['checkbox', 'radio', 'current_user', 'field_group'].includes(el.field_type) ? '' : '<label class="form-label" ' +
+                    'for="' + selector + '">' + el.label + (Boolean(parseInt(el.mandatory)) ? ' *' : '') + '</label>';
                 let input = '';
 
                 switch (el.field_type) {
@@ -115,14 +115,14 @@
                                 break;
                         }
 
-                        input = '<input class="form-control mb-3" type="' + type + '" ' +
+                        input = '<input class="form-control" type="' + type + '" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
                             (Boolean(parseInt(el.mandatory)) ? "required " : "") + (Boolean(parseInt(el.hidden)) ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + '>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
                     case 'location':
-                        input = '<input class="form-control mb-3" type="text" ' +
+                        input = '<input class="form-control" type="text" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '" data-location="' + true + '"' +
                             (Boolean(parseInt(el.mandatory)) ? "required " : "") + (Boolean(parseInt(el.hidden)) ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' readonly>' +
@@ -132,7 +132,7 @@
                             '<div id="googleMap" style="width:100%;height:400px;" class="d-none"></div>';
                         break;
                     case 'datetime':
-                        input = '<input class="form-control mb-3" type="datetime-local" ' +
+                        input = '<input class="form-control" type="datetime-local" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
                             (Boolean(parseInt(el.mandatory)) ? "required " : "") + ' ' + (Boolean(parseInt(el.hidden)) ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly " : "") + (Boolean(parseInt(el.autofill)) ?
@@ -140,7 +140,7 @@
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
                     case 'date':
-                        input = '<input class="form-control mb-3" type="date" ' +
+                        input = '<input class="form-control" type="date" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
                             (Boolean(parseInt(el.mandatory)) ? "required " : "") + ' ' + (Boolean(parseInt(el.hidden)) ? " " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + (Boolean(parseInt(el.autofill)) ?
@@ -150,14 +150,14 @@
                     case 'photo':
                         fileIds.push(el.id);
 
-                        input = '<input class="form-control mb-3" type="file" ' +
+                        input = '<input class="form-control" type="file" ' +
                             'id="' + selector + '" name="' + selector + '" accept=".jpg,.jpeg,.png,.gif" data-image="true" data-id="' + el.id + '"' +
                             (Boolean(parseInt(el.mandatory)) ? "required " : "") + (Boolean(parseInt(el.hidden)) ? " hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + '>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
                     case 'textarea':
-                        input = '<textarea class="form-control mb-3" ' +
+                        input = '<textarea class="form-control" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
                             (Boolean(parseInt(el.mandatory)) ? "required " : "") + (Boolean(parseInt(el.hidden)) ? " hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + '></textarea>' +
@@ -170,7 +170,7 @@
                             options += '<option value="' + option.option_value + '">' + (option.option_text !== '' ? option.option_text : 'Selecteer...') + '</option>'
                         })
 
-                        input = '<select class="form-control mb-3" ' +
+                        input = '<select class="form-control" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
                             (Boolean(parseInt(el.mandatory)) ? "required " : "") + (Boolean(parseInt(el.hidden)) ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + '>' +
@@ -184,7 +184,7 @@
                         input = '<fieldset id="fieldset_' + el.id + '" class="fieldset row"></fieldset>'
                         break;
                     case 'checkbox':
-                        input = '<label><span class="d-block">'  + el.label + '</span><input class="form-check-input ms-0 me-2 mb-3" type="checkbox" ' +
+                        input = '<label><span class="d-block">'  + el.label + '</span><input class="form-check-input ms-0 me-2" type="checkbox" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
                             (Boolean(parseInt(el.mandatory)) ? "required " : "") + (Boolean(parseInt(el.hidden)) ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' value="1">' +
@@ -193,7 +193,7 @@
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
                     case 'radio':
-                        input = '<label><span class="d-block">'  + el.label + '</span><input class="form-check-input ms-0 me-2 mb-3" type="radio" ' +
+                        input = '<label><span class="d-block">'  + el.label + '</span><input class="form-check-input ms-0 me-2" type="radio" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
                             (Boolean(parseInt(el.mandatory)) ? "required " : "") + (Boolean(parseInt(el.hidden)) ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' value="1">' +
@@ -202,7 +202,7 @@
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
                     case 'current_user':
-                        input = '<input class="form-control mb-3" type="text" data-user="true"' +
+                        input = '<input class="form-control" type="text" data-user="true"' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
                             (Boolean(parseInt(el.mandatory)) ? "required " : "") + ' hidden value="vespawatch.be"' +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + '>' +
@@ -211,7 +211,7 @@
                 }
 
                 if (el.field_type !== 'field_group') {
-                    $('#meldingen').append('<div class="' + (el.field_type === 'current_user' || el.hidden ? 'd-none' : 'col-md-6 col-12') + '">' +
+                    $('#meldingen').append('<div class="' + (el.field_type === 'current_user' || el.hidden ? 'd-none' : 'mb-3') + '">' +
                         label +
                         input +
                         '</div>')
@@ -342,7 +342,7 @@
                                 for (const [key, value] of Object.entries(errors)) {
                                     let keyStr = key.split('data.').pop();
 
-                                    $('#' + serialisedData[keyStr.split('.value')[0]]['name']).addClass('is-invalid').siblings('.invalid-feedback').text('Het veld is verplicht!')
+                                    $('#' + serialisedData[keyStr.split('.value')[0]]['name']).addClass('is-invalid').siblings('.invalid-feedback').text('Dit veld is verplicht.')
                                 }
                             }
                         })
