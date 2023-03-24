@@ -211,12 +211,12 @@
                 }
 
                 if (el.field_type !== 'field_group') {
-                    $('#meldingen').append('<div class="' + (el.field_type === 'current_user' || el.hidden ? 'd-none' : 'mb-3') + '">' +
+                    $('#nest-report-form').append('<div class="' + (el.field_type === 'current_user' || el.hidden ? 'd-none' : 'mb-3') + '">' +
                         label +
                         input +
                         '</div>')
                 } else {
-                    $('#meldingen').append(input)
+                    $('#nest-report-form').append(input)
                 }
             })
 
@@ -228,7 +228,7 @@
                 })
             })
 
-            $('#meldingen').append('<div class="form-submit text-end mt-3">' +
+            $('#nest-report-form').append('<div class="form-submit text-end mt-3">' +
                 '<button type="submit" class="btn btn-primary">Indienen</button>' +
                 '</div>')
 
@@ -262,11 +262,11 @@
             }
         });
 
-        $('#meldingen').on('submit', function (e) {
+        $('#nest-report-form').on('submit', function (e) {
             e.preventDefault()
 
             let lastIndex = 0;
-            let serialisedData = $('#meldingen').serializeArray();
+            let serialisedData = $('#nest-report-form').serializeArray();
             let formData = new FormData();
             console.log(serialisedData);
 
