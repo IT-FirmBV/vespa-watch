@@ -5,12 +5,16 @@ background:
 toc: false
 ---
 
-{:.alert .alert-warning}
-Dit meldingsformulier is in ontwikkeling ter voorbereiding van het volgende veldseizoen.
+Op dit moment van het jaar ontwaken koninginnen en starten zij met de bouw van een embryonaal nest. Dit is een klein nest ter grootte van een ping-pong balletje op een beschutte plaats.
 
-Nesten zijn momenteel inactief door het koude weer. U kan wel een koningin tegenkomen die overwintert op een beschutte plaats buiten het nest. Een nest wordt nooit hergebruikt en mag dus blijven hangen.
+## Wat gebeurt er met mijn melding?
 
-Het melden van een nest van Aziatische hoornaar blijft nuttig om de verspreiding van de soort in kaart brengen. Er zal momenteel echter geen bestrijder toegekend worden. Voor vragen kan u steeds terecht bij <vespawatch@inbo.be>.
+- We valideren uw melding. Dat kan enkele dagen duren.
+- **Contacteer daarom de brandweer bij acuut gevaar**, bijvoorbeeld wanneer het nest zich nabij een woning of andere risicovolle plaats bevindt.
+- We verwittigen u als het om een nest van Aziatische hoornaar gaat.
+- We sturen u ook een overzicht van professionele verdelgers gespecialiseerd in de soort. U kan deze naar keuze contacteren, wij kennen momenteel niet automatisch een verdelger toe. Een gecoördineerde bestrijding voor Aziatische hoornaar is in voorbereiding.
+
+## Meld een nest
 
 Meld een nest bij <vespawatch@inbo.be> met volgende informatie:
 
@@ -18,3 +22,6 @@ Meld een nest bij <vespawatch@inbo.be> met volgende informatie:
 - Tijdstip van observatie
 - Foto van het nest
 - Uw naam en telefoonnummer
+
+{:.alert .alert-warning}
+Een eenvoudiger meldingsformulier is in ontwikkeling ter voorbereiding van het volgende veldseizoen.
