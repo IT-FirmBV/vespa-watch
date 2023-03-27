@@ -11,13 +11,9 @@ permalink: /
 
 Vespa-Watch is het Vlaams meldpunt voor nesten van Aziatische hoornaar.
 
+Uw meldingen zijn nuttig voor de monitoring en het onderzoek van de soort in Vlaanderen. Het melden van individuele hoornaars kan ons helpen om nesten op te sporen.
+
 [Meld een nest](/report-nest/){:.btn .btn-primary} of meld een individu via [waarnemingen.be](https://waarnemingen.be/species/8807/) of [inaturalist.org](https://www.inaturalist.org/observations/upload).
-
-De gecoördineerde bestrijding voor Aziatische hoornaar is in voorbereiding. Er wordt momenteel nog geen verdelger gecontacteerd na een melding. We valideren uw melding en we verwittigen u als het om een nest van Aziatische hoornaar gaat. Dan wordt u een overzicht gestuurd van professionele verdelgers gespecialiseerd in bestrijding Aziatische hoornaar. Indien gewenst, kan u een verdelger naar keuze contacteren. Net als bij andere wespen, raden we aan om de brandweer te contacteren wanneer het nest zich in nabijheid van een woning of op andere risicovolle plaatsen bevindt. 
-
-
-Melding is steeds nuttig voor monitoring en onderzoek van de soort in Vlaanderen. Het melden van individuele hoornaars kan ons helpen om nesten op te sporen.
-
 
 ## Waarom is de Aziatische hoornaar schadelijk?
 
