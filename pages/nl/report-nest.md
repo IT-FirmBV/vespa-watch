@@ -8,7 +8,7 @@ toc: false
 {:.alert .alert-warning}
 Dit meldingsformulier is in ontwikkeling ter voorbereiding van het volgende veldseizoen.
 
-Nesten zijn momenteel inactief door het koude weer. U kan wel een koningin tegenkomen die overwintert op een beschutte plaats buiten het nest. Een nest wordt nooit hergebruikt en mag dus blijven hangen.
+Op dit moment van het jaar ontwaken koninginnen en starten zij met de bouw van een embryonaal nest. Dit is een klein nest ter grootte van een ping-pong balletje op een beschutte plaats.
 
 Meld een nest bij <vespawatch@inbo.be> met volgende informatie:
 

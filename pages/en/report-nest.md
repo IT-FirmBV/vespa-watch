@@ -8,7 +8,7 @@ toc: false
 {:.alert .alert-warning}
 This form is under development in preparation for the next field season.
 
-Nests are currently dormant due to the cold weather. You may come across a queen that hibernates in a sheltered place outside the nest. A nest is never reused and can therefore remain.
+This time of the year, queens awaken from dormancy and begin to build an embryonic nest. This is a small nest with the size of a ping-pong ball, in a sheltered place.
 
 Report a nest to <vespawatch@inbo.be> with the following information:
 
@@ -17,4 +17,4 @@ Report a nest to <vespawatch@inbo.be> with the following information:
 - Photo of the nest
 - Your name and telephone number
 
-We will validate your report en notify you if it concerns a nest of Asian hornet.
+We will validate your report en notify you if it concerns a nest of the Asian hornet.
