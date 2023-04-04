@@ -1,6 +1,6 @@
 (function($) {
     $(document).ready(function () {
-        let map, infoWindow, incr = 0, marker, fileIds = [], apiUrl = 'https://apiv2.iasset.nl/', apiToken = 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJjMjBiNWY2ZS1iNTRhLTExZWEtOWYzZS0wMjQyYWMxYjAwMDIiLCJqdGkiOiJmNDc3ZTE0NmExMmM2ODM4Nzc3YjFlNTBjMWU2NTI4MWU4NzQyM2M0MmMxZjViZDY5YTU1MzVjMWY3N2NiNTQwNGEzN2E4YmJlZmMyMTdjZCIsImlhdCI6MTY3NzE0Mjc1NSwibmJmIjoxNjc3MTQyNzU1LCJleHAiOjE3MDg2Nzg3NTUsInN1YiI6IjUyNDciLCJzY29wZXMiOltdfQ.yE5cWcrLgr_0HwHtk5Y0LhhTnVZ0wreFdO5mALp2C0lMykUkhfgRBjL4aMcDUJRL_aZ4Htxjchk2x8fWqJi9iF6CkLhYy4SOi_RlfoWsj90zdfhOc8qHa39IjezQ8VGSFPMBEMVO_h3Iv_ue5bYEVM9y3IzT71MeHggwV6GXCZFhLYchXkkajFLIoy9wsj6-XW3ZVJVrC_nXDPZe96vE17dAyYF6HG-gxqCnu_QbzNyhuTl_j5r4FzMfaw3zYjWdzjxbryRWHD30FlJDgov8kbq-5e1CJUtqv1YPEElSAb26WzJqbxkxOutDQ_lUr0reiXOdwPIb_o6aAdJE8PRee2_FxlBEk29RcaRu0HCj9UFRMt1Ek3w5f3UellT7P6uHnKvS4q2m98sTWFBRgKg4GGTJ-eU-mOElufMQWLUU1nsVea_ynnEM4Ty1RiafHImGWlJKGh6xAc0cNmEqQk6cBdwEyZA7mZKcaYivJNrd7K6S20NsLfZRJuGs3XHy-cCMtpcFN3Yfmg88as5tt_CqgiscLvXVDHndR1bKrfmimXg0PDVZQUqWzEPLYVlXAs93MDnFO1NMgT_6papuhSY5nV1xj_Ey3r3cw2RJYiPdKcO2AoUH8jswTnMn9HR_LL7MCJvGO_sHTuxagJ248oZX9TRzRVDJhVWhN9HZ54HAyfY';
+        let map, infoWindow, incr = 0, marker, fileIds = [], checkAndRadioIds = [], apiUrl = 'https://apiv2.iasset.nl/', apiToken = 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJjMjBiNWY2ZS1iNTRhLTExZWEtOWYzZS0wMjQyYWMxYjAwMDIiLCJqdGkiOiJkM2JlYmU0ZmZjZjA2YWVjMTdkZjVlN2VhZjg4N2EyZWE4ZDNjZjU4MmVkNDEwYzhiZjk4ZmM2YmEyNjlkZDhmODJjYzhmMjZmZTU1OWVhMCIsImlhdCI6MTY3OTkxNjQ1MCwibmJmIjoxNjc5OTE2NDUwLCJleHAiOjE3MTE1NDI0NTAsInN1YiI6IjUyNDciLCJzY29wZXMiOltdfQ.gCIv6Qv1NBFVyptL53ZP7UJld9YAQHR6dhjnrC_cyR9o51sLefOoNOtUE5tJbkt8kk1zcmfug3Y6sUM3io8TazjQZdRtI0X9OI2u8kEDeRJeD1q26HNCll9-lx4i3cd6_9ch__rFT4wzJquG_GEn8-SUus_RJQ7shkK2ETv5XLY-oFYz5tMcdqTFcb4rkSTH9-i8TOlfw28genjfORy9GLDOfBIUXm2W0P2u-dmBFVBY19-MzGUgCHo_aUIxK2PJ2eBkQzHTPTr8qoAv4IF920a5hK7abe2EzfH7Y6tZEu6P7HESUc5Fn2cZryNAgItVV0BgrbyyZwEuqzKD2CEqdkSNtaTsiimPkNWUlq87TM2eqStTAoBrtjtdtQfd3Iv1EBgmVQiiW2XEsbaooOg_b1lv8R1awKncpyBSUIQNgV789LrezuwCiDzpYEC3DB7E3eZ_s72n7ALez768tMi79GJMGfz-8UQiw-vsrmONh8PZtZ62MfQzYwmn9Y6fNiKj354K6Z9OgkbQ8ThX7S53vCBlQMJSCv8EgZB3hD7SXq8a8HkWHxmjviUtNO7aeJojLSqgvr5i2I_YVGRPDP5xuOkRBfaVBvxilzdtjQ6WmSVF20-E18XjdEG-ENMBtuIree4gpyYpfLEQgWzbsylgPnKv_ARJdOA-kDbGSp8vMX0';
 
         // Function to initialize map
         function initMap() {
@@ -117,24 +117,25 @@
 
                         input = '<input class="form-control" type="' + type + '" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + (Boolean(parseInt(el.hidden)) ? "hidden " : "") +
+                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + '>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
                     case 'location':
                         input = '<input class="form-control" type="text" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '" data-location="' + true + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + (Boolean(parseInt(el.hidden)) ? "hidden " : "") +
+                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' readonly>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>' +
-                            '<div class="loader text-center d-none"><div class="spinner-border" role="status"></div></div>' +
-                            '<div class="close-button text-end mb-2 d-none"><button class="btn btn-danger" type="button">X</button></div>' +
+                            '<div class="loader text-center mt-2 d-none"><div class="spinner-border" role="status"></div></div>' +
+                            '<div class="close-button text-end my-2 d-none"><button class="btn btn-danger" type="button">X</button></div>' +
+
                             '<div id="googleMap" style="width:100%;height:400px;" class="d-none"></div>';
                         break;
                     case 'datetime':
                         input = '<input class="form-control" type="datetime-local" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ' ' + (Boolean(parseInt(el.hidden)) ? "hidden " : "") +
+                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ' ' + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly " : "") + (Boolean(parseInt(el.autofill)) ?
                                 'value="' + new Date().toISOString().split('T')[0] + 'T' + new Date().toLocaleTimeString() + '" ': "") + '>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
@@ -142,7 +143,7 @@
                     case 'date':
                         input = '<input class="form-control" type="date" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ' ' + (Boolean(parseInt(el.hidden)) ? " " : "") +
+                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ' ' + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? " " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + (Boolean(parseInt(el.autofill)) ?
                                 'value="' + new Date().toISOString().split('T')[0] + '" ': "") + '>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
@@ -152,14 +153,14 @@
 
                         input = '<input class="form-control" type="file" ' +
                             'id="' + selector + '" name="' + selector + '" accept=".jpg,.jpeg,.png,.gif" data-image="true" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + (Boolean(parseInt(el.hidden)) ? " hidden " : "") +
+                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? " hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + '>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
                     case 'textarea':
                         input = '<textarea class="form-control" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + (Boolean(parseInt(el.hidden)) ? " hidden " : "") +
+                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? " hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + '></textarea>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
@@ -172,7 +173,7 @@
 
                         input = '<select class="form-control" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + (Boolean(parseInt(el.hidden)) ? "hidden " : "") +
+                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + '>' +
                             options +
                             '</select>' +
@@ -184,22 +185,24 @@
                         input = '<fieldset id="fieldset_' + el.id + '" class="fieldset row"></fieldset>'
                         break;
                     case 'checkbox':
-                        input = '<label><span class="d-block">'  + el.label + '</span><input class="form-check-input ms-0 me-2" type="checkbox" ' +
+                        checkAndRadioIds.push(el.id);
+
+                        input = '<label><span class="d-block">'  + el.label + (Boolean(parseInt(el.mandatory)) ? ' *' : '') + '</span><input class="form-check-input ms-0 me-2" type="checkbox" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + (Boolean(parseInt(el.hidden)) ? "hidden " : "") +
+                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' value="1">' +
                             '<label class="form-check-label" for="' + selector + '">' + el.info +
-                            '</label></label>' +
-                            '<div id="' + el.id + '" class="invalid-feedback"></div>';
+                            '</label><div id="' + el.id + '" class="invalid-feedback"></div></label>';
                         break;
                     case 'radio':
-                        input = '<label><span class="d-block">'  + el.label + '</span><input class="form-check-input ms-0 me-2" type="radio" ' +
+                        checkAndRadioIds.push(el.id);
+
+                        input = '<label><span class="d-block">'  + el.label + (Boolean(parseInt(el.mandatory)) ? ' *' : '') + '</span><input class="form-check-input ms-0 me-2" type="radio" ' +
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + (Boolean(parseInt(el.hidden)) ? "hidden " : "") +
+                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' value="1">' +
                             '<label class="form-check-label" for="' + selector + '">' + el.info +
-                            '</label></label>' +
-                            '<div id="' + el.id + '" class="invalid-feedback"></div>';
+                            '</label><div id="' + el.id + '" class="invalid-feedback"></div></label>';
                         break;
                     case 'current_user':
                         input = '<input class="form-control" type="text" data-user="true"' +
@@ -211,7 +214,7 @@
                 }
 
                 if (el.field_type !== 'field_group') {
-                    $('#nest-report-form').append('<div class="' + (el.field_type === 'current_user' || el.hidden ? 'd-none' : 'mb-3') + '">' +
+                    $('#nest-report-form').append('<div class="' + (el.field_type === 'current_user' || (el.hidden || el.info === 'hidden') ? 'd-none' : 'mb-3') + '">' +
                         label +
                         input +
                         '</div>')
@@ -268,7 +271,9 @@
             let lastIndex = 0;
             let serialisedData = $('#nest-report-form').serializeArray();
             let formData = new FormData();
-            console.log(serialisedData);
+
+            $('input').removeClass('is-invalid');
+            $('.invalid-feedback').text('');
 
             serialisedData.forEach((field, index) => {
                 formData.append('data[' + index + '][field_id]', parseInt($('#' + field.name).attr('data-id')));
@@ -282,8 +287,13 @@
                 fileIds.forEach((fieldId, i) => {
                     let f = $("body").find("[data-id='" + fieldId + "']");
 
-                    if (f[0].files[0]) {
+                    if (f[0].files[0] || (!f[0].files[0]) && f[0].hasAttribute('required')) {
                         lastIndex += 1;
+
+                        serialisedData.push({
+                            name: f[0].getAttribute('name'),
+                            value: f[0].value,
+                        })
 
                         formData.append('data[' + lastIndex + '][field_id]', fieldId);
                         formData.append('data[' + lastIndex + '][value]', f[0].files[0] ?? '');
@@ -292,13 +302,29 @@
                 });
             }
 
-            let userData = {
-                0: {
-                    'field_id': 434,
-                    'value': $("[data-user='" + true + "']").val(),
-                    'index': 0,
-                }
-            };
+            if (checkAndRadioIds.length > 0) {
+                checkAndRadioIds.forEach((boxId, i) => {
+                    let f = $("body").find("[data-id='" + boxId + "']");
+
+                    if (f[0].hasAttribute('required')) {
+                        lastIndex += 1;
+
+                        serialisedData.push({
+                            name: f[0].getAttribute('name'),
+                            value: f[0].value,
+                        })
+
+                        formData.append('data[' + lastIndex + '][field_id]', boxId);
+                        formData.append('data[' + lastIndex + '][value]', f.is(':checked') === true ? 1 : '');
+                        formData.append('data[' + lastIndex + '][index]', '0');
+                    }
+                });
+            }
+
+            formData.append('general_inspection', '6') // Hardcoded
+            formData.append('general_inspection_record', '20') // Hardcoded
+            formData.append('inspection_id', '7') // Hardcoded as this is the inspection ID in iAsset
+            formData.append('object_id', 'f9ae8363dda22cec04912d499119699d') // Hardcoded as this is the inspection ID in iAsset
 
             $.ajax({
                 url: apiUrl + 'custom-inspections/data',
@@ -306,50 +332,26 @@
                     'Authorization': apiToken,
                     'Api-Version': 1
                 },
+                enctype: 'multipart/form-data',
                 method: 'POST',
-                data: {
-                    data: userData,
-                    object_id: 'f9ae8363dda22cec04912d499119699d', // Hardcoded
-                    inspection_id: 6 // Hardcoded as this is the inspection ID in iAsset
-                },
+                processData: false,  // tell jQuery not to process the data
+                contentType: false,  // tell jQuery not to set contentType
+                data: formData,
                 success: function (res, status) {
                     if (status === 'success') {
-                        formData.append('general_inspection', '6') // Hardcoded
-                        formData.append('general_inspection_record', res.data.id) // Hardcoded
-                        formData.append('inspection_id', '7') // Hardcoded as this is the inspection ID in iAsset
+                        alert('U heeft het formulier succesvol verzonden!')
 
-                        $.ajax({
-                            url: apiUrl + 'custom-inspections/data',
-                            headers: {
-                                'Authorization': apiToken,
-                                'Api-Version': 1
-                            },
-                            enctype: 'multipart/form-data',
-                            method: 'POST',
-                            processData: false,  // tell jQuery not to process the data
-                            contentType: false,  // tell jQuery not to set contentType
-                            data: formData,
-                            success: function (res, status) {
-                                if (status === 'success') {
-                                    alert('U heeft het formulier succesvol verzonden!')
-
-                                    window.location.reload()
-                                }
-                            },
-                            error: function (err) {
-                                let errors = err.responseJSON.error;
-
-                                for (const [key, value] of Object.entries(errors)) {
-                                    let keyStr = key.split('data.').pop();
-
-                                    $('#' + serialisedData[keyStr.split('.value')[0]]['name']).addClass('is-invalid').siblings('.invalid-feedback').text('Dit veld is verplicht.')
-                                }
-                            }
-                        })
+                        window.location.reload()
                     }
                 },
-                catch: function (errors) {
-                    console.log(errors);
+                error: function (err) {
+                    let errors = err.responseJSON.error;
+
+                    for (const [key, value] of Object.entries(errors)) {
+                        let keyStr = key.split('data.').pop();
+
+                        $('#' + serialisedData[keyStr.split('.value')[0]]['name']).addClass('is-invalid').siblings('.invalid-feedback').text('Dit veld is verplicht.')
+                    }
                 }
             })
         })
