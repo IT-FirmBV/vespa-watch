@@ -64,9 +64,29 @@
 
                                 $('#' + selector).attr('value', 'POINT(' + pos.lat() + ' ' + pos.lng() + ')');
                             });
-                        },
-                        () => {
-                            handleLocationError(true, infoWindow, map.getCenter(), selector);
+                        }, () => {
+                            let pos = {
+                                lat: 52.3675734,
+                                lng: 4.9041389
+                            }
+
+                            if (incr === 0) {
+                                infoWindow.open(map);
+                                map.setCenter(pos);
+
+                                addMarker(pos)
+
+                                $('#' + selector).siblings('.loader').addClass('d-none');
+                                $('#' + selector).attr('value', 'POINT(' + pos.lat + ' ' + pos.lng + ')');
+
+                                incr++;
+                            }
+
+                            google.maps.event.addListener(marker, 'dragend', function (marker) {
+                                pos = marker.latLng;
+
+                                $('#' + selector).attr('value', 'POINT(' + pos.lat() + ' ' + pos.lng() + ')');
+                            });
                         }
                     );
                 } else {
