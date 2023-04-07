@@ -350,7 +350,13 @@
                     for (const [key, value] of Object.entries(errors)) {
                         let keyStr = key.split('data.').pop();
 
-                        $('#' + serialisedData[keyStr.split('.value')[0]]['name']).addClass('is-invalid').siblings('.invalid-feedback').text('Dit veld is verplicht.')
+                        if (value[0].includes('Invalid email')) {
+                            $('#' + serialisedData[keyStr.split('.value')[0]]['name']).addClass('is-invalid').siblings('.invalid-feedback').text('Uw e-mailadres is ongeldig.')
+                        } else if (value[0].includes('Invalid phone')) {
+                            $('#' + serialisedData[keyStr.split('.value')[0]]['name']).addClass('is-invalid').siblings('.invalid-feedback').text('Uw telefoonnummer is ongeldig.')
+                        } else {
+                            $('#' + serialisedData[keyStr.split('.value')[0]]['name']).addClass('is-invalid').siblings('.invalid-feedback').text('Dit veld is verplicht.')
+                        }
                     }
                 }
             })
