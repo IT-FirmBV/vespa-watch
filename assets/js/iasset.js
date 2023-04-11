@@ -5,8 +5,8 @@
         // Function to initialize map
         function initMap() {
             let mapProp = {
-                center:new google.maps.LatLng(51.508742,-0.120850),
-                zoom:5,
+                center:new google.maps.LatLng(50.8,4.5),
+                zoom:7,
             };
 
             map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
@@ -66,8 +66,8 @@
                             });
                         }, () => {
                             let pos = {
-                                lat: 52.3675734,
-                                lng: 4.9041389
+                                lat: 50.8,
+                                lng: 4.5
                             }
 
                             if (incr === 0) {
