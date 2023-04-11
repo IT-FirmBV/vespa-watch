@@ -344,7 +344,7 @@
             formData.append('general_inspection', '6') // Hardcoded
             formData.append('general_inspection_record', '20') // Hardcoded
             formData.append('inspection_id', '7') // Hardcoded as this is the inspection ID in iAsset
-            formData.append('object_id', 'f9ae8363dda22cec04912d499119699d') // Hardcoded as this is the inspection ID in iAsset
+            formData.append('object_id', 'd29b4b63acc8a798ad120c60f711fff2') // Hardcoded as this is the inspection ID in iAsset
 
             $.ajax({
                 url: apiUrl + 'custom-inspections/data',
