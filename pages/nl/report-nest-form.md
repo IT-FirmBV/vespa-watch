@@ -14,5 +14,5 @@ Reporting a nest of Asian hornet remains useful to map the distribution of the s
 
 <form action="" method="POST" id="nest-report-form" class="needs-validation" enctype="multipart/form-data" novalidate></form>
 
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&key="></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&key=AIzaSyAC8CPgw0vcpkW8J6Etd3q0pn9cnmb1c7g"></script>
 <script src="/assets/js/iasset.js"></script>

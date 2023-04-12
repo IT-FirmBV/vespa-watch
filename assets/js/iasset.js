@@ -5,8 +5,8 @@
         // Function to initialize map
         function initMap() {
             let mapProp = {
-                center:new google.maps.LatLng(51.508742,-0.120850),
-                zoom:5,
+                center:new google.maps.LatLng(50.8,4.5),
+                zoom:7,
             };
 
             map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
@@ -157,8 +157,7 @@
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' readonly>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>' +
                             '<div class="loader text-center mt-2 d-none"><div class="spinner-border" role="status"></div></div>' +
-                            '<div class="close-button text-end my-2 d-none"><button class="btn btn-danger" type="button">X</button></div>' +
-
+                            '<div class="close-button d-flex d-none justify-content-between align-items-center my-2"><span class="small">Duid de locatie van het nest aan op de kaart. De markering kan verplaatst worden.</span><button class="btn btn-danger" type="button">X</button></div>' +
                             '<div id="googleMap" style="width:100%;height:400px;" class="d-none"></div>';
                         break;
                     case 'datetime':
