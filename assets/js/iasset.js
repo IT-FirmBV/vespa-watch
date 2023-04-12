@@ -47,17 +47,26 @@
                                 lng: position.coords.longitude,
                             };
 
-                            if (incr === 0) {
-                                infoWindow.open(map);
-                                map.setCenter(pos);
+                            window.setTimeout(() => {
+                                if (typeof pos['lat'] === 'undefined' || typeof pos['lng'] === 'undefined') {
+                                    pos = {
+                                        lat: 50.8,
+                                        lng: 4.5
+                                    }
+                                }
 
-                                addMarker(pos)
+                                if (incr === 0) {
+                                    infoWindow.open(map);
+                                    map.setCenter(pos);
 
-                                $('#' + selector).siblings('.loader').addClass('d-none');
-                                $('#' + selector).attr('value', 'POINT(' + pos.lat + ' ' + pos.lng + ')');
+                                    addMarker(pos)
 
-                                incr++;
-                            }
+                                    $('#' + selector).siblings('.loader').addClass('d-none');
+                                    $('#' + selector).attr('value', 'POINT(' + pos.lat + ' ' + pos.lng + ')');
+
+                                    incr++;
+                                }
+                            }, 5000)
 
                             google.maps.event.addListener(marker, 'dragend', function (marker) {
                                 pos = marker.latLng;
@@ -66,8 +75,8 @@
                             });
                         }, () => {
                             let pos = {
-                                lat: 52.3675734,
-                                lng: 4.9041389
+                                lat: 50.8,
+                                lng: 4.5
                             }
 
                             if (incr === 0) {
@@ -157,7 +166,7 @@
                             'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
                             (Boolean(parseInt(el.mandatory)) ? "required " : "") + ' ' + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly " : "") + (Boolean(parseInt(el.autofill)) ?
-                                'value="' + new Date().toISOString().split('T')[0] + 'T' + new Date().toLocaleTimeString() + '" ': "") + '>' +
+                                'value="' + new Date().toISOString().split('T')[0] + 'T' + new Date().toLocaleTimeString('nl-NL') + '" ': "") + '>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
                     case 'date':
