@@ -43,7 +43,8 @@ Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld
     <img title="(c) Nick Colpaert" src="/assets/images/get-involved-search-fruit.jpeg">
     <div class="card-body">
         <h5 class="card-title">Tip 2: Zoek hoornaars waar je ze kán aantreffen</h5>
-        <p class="card-text">Doelgericht naar hoornaars zoeken vraagt enige kennis van hun levenswijze. Hoornaars jagen actief op insecten en zamelen suikerhoudend voedsel en houtvezels in. De kans om een hoornaar tegen te komen is dan ook groter op plaatsen waar er veel kleine insecten voorkomen. Bijvoorbeeld op: <br>- Bijenkasten<br>- Rijp (afgevallen) fruit: vooral peren en appels zijn rijk aan suikers<br>- Najaarsbloeiers: klimop (<em>Hedera helix</em>) en sneeuwbes (<em>Symphoricarpos</em>) zijn vanaf september een hub van allerlei insecten</p>
+        <p class="card-text">Hoornaars komen vaker voor op plaatsen waar veel kleine insecten zijn.  Ze eten ook graag suikers. Je vindt de hoornaars dus: <br>- Rond bijenkasten<br>- Bij rijp (afgevallen) fruit: vooral peren en appels, want die bevatten veel suikers <br>- Bij planten die bloeien in het najaar zoals klimop (<em>Hedera helix</em>) en sneeuwbes (<em>Symphoricarpos</em>)
+</p>
     </div>
 </div>
 
