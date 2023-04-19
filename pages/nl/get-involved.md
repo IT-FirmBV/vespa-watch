@@ -100,7 +100,7 @@ Wat kan je doen?
 
 ## Hang wiekpotten met lokstof op
 
-In een gewone wespenval verdrinken de insecten. Wiekpotten laten de hoornaars in leven. Wij hangen de wiekpotten in de buurt van een vermoedelijk nest. En we controleren regelmatig of ze worden bezocht door hoornaars. 
+In een gewone wespenval verdrinken de insecten. Wiekpotten laten de hoornaars in leven. Wij hangen de wiekpotten in de buurt van een vermoedelijk nest. En we controleren regelmatig of ze worden bezocht door hoornaars.\ 
 Bezoekt een Aziatische hoornaar de wiekpot? Dan kan je de vliegrichting naar het nest bepalen. Je kan ook de vliegtijd bepalen door de hoornaars te merken. Zo krijg je belangrijke info over de afstand tot het nest. Met die info kan je een nest opsporen en laten behandelen.
 
 **Zelf aan de slag gaan? Volg ons stappenplan.**
