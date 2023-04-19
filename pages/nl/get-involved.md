@@ -34,9 +34,10 @@ Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld
     <img title="(c) KVDD" src="/assets/images/get-involved-search-flying.jpeg">
     <div class="card-body">
         <h5 class="card-title">Tip 1: Meld, meld, meld,...</h5>
-        <p class="card-text"> -	Ben je niet zeker dat je een Aziatische hoornaar zag? Neem toch een foto en meld dit op [waarnemingen.be](https://waarnemingen.be/species/8807/). Je leert snel hoe je de verschillende soorten kan herkennen op de website. 
- -	Zie je weer hoornaars op dezelfde plaats? Geef die zeker door. Ook dat is nuttige info voor nestopsporing en onderzoek. 
- -	Kan je geen goede foto nemen? Vraag hulp aan buren, vrienden of kennissen.
+        <p class="card-text"> 
+-	Ben je niet zeker dat je een Aziatische hoornaar zag? Neem toch een foto en meld dit op [waarnemingen.be](https://waarnemingen.be/species/8807/). Je leert snel hoe je de verschillende soorten kan herkennen op de website. 
+-	Zie je weer hoornaars op dezelfde plaats? Geef die zeker door. Ook dat is nuttige info voor nestopsporing en onderzoek. 
+-	Kan je geen goede foto nemen? Vraag hulp aan buren, vrienden of kennissen.
 </p>
     </div>
 </div>
