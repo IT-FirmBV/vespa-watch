@@ -50,7 +50,7 @@ Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld
     <img title="(c) Honeybee Valley" src="/assets/images/get-involved-search-prey.jpeg">
     <div class="card-body">
         <h5 class="card-title">Tip 3: Kijk goed in welke richting de wesp vliegt met haar prooi</h5>
-        <p class="card-text">Hoornaars keren met hun prooi terug naar het nest. Maar let op, soms maken ze eerst een bocht. Blijf ze goed volgen tot ze uit het zicht zijn.<br>  • 	Eerst gaat ze op zoek naar een geschikte tak. Dat kan in elke richting.<br> • Ze gaat omgekeerd aan de tak hangen om de prooi te ontleden.<br>  •	Ze klemt de vleesbal tussen haar borststuk en poten.<br>  •	Pas dan vliegt ze terug in de richting van het nest 
+        <p class="card-text">Hoornaars keren met hun prooi terug naar het nest. Maar let op, soms maken ze eerst een bocht. Blijf ze goed volgen tot ze uit het zicht zijn.<br>    • 	Eerst gaat ze op zoek naar een geschikte tak. Dat kan in elke richting.<br>   • Ze gaat omgekeerd aan de tak hangen om de prooi te ontleden.<br>    •	Ze klemt de vleesbal tussen haar borststuk en poten.<br>    •	Pas dan vliegt ze terug in de richting van het nest 
  </p>
     </div>
 </div>
