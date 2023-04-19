@@ -15,7 +15,7 @@ Ook jij kan meewerken om de Aziatische hoornaar in kaart te brengen. Dat doe je 
 
 Ben je een professionele wespenverdelger? Dan vind je meer info op [deze pagina](https://vespawatch.be/professional-eradicators/).
 
-##Denk je de wesp te hebben gezien?
+## Denk je de wesp te hebben gezien?
 
 1.	Neem een of meerdere foto‘s. Ook al is het moeilijk om een foto te nemen van een vliegend insect. Enkel met een foto kan er worden bevestigd dat het een Aziatische hoornaar is. 
  -	Zag je een hoornaar, maar kon je niet op tijd een foto nemen? Kijk dan de komende dagen op dezelfde plaats. 
