@@ -5,23 +5,26 @@ background:
 toc: true
 ---
 
-Iedereen kan meewerken om de invasie van Aziatische hoornaar in kaart te brengen. Meewerken doe je als volgt:
+Ook jij kan meewerken om de Aziatische hoornaar in kaart te brengen. Dat doe je zo:
 
-- Leer de Aziatische hoornaar [herkennen](https://vespawatch.be/identification)
-- [Meld observaties](https://vespawatch.be/obs/add) van hoornaars en nesten
-- Help mee [observaties verifiëren](https://www.inaturalist.org/observations/identify?user_id=vespawatch)
-- Word lid van de [Vespawatchers](https://www.facebook.com/groups/474218836579263/) op facebook
-- Voor professionele wespenverdelgers
-- Ga actief op zoek naar nesten
-- Zet [wiekpotten](https://vlaamsbijeninstituut.be/diensten/gezondheidsdienst-aziatische-hoornaar/) uit met lokstof om hoornaars te detecteren
+- Leer de Aziatische hoornaar te [herkennen](https://vespawatch.be/identification)
+- Geef door dat je [de wesp](https://waarnemingen.be/species/8807/) of [een nest](https://vespawatch.be/report-nest/)) zag.
+- Lok hoornaars met plaatsen van wiekpotten. 
+- Zoek nesten.
+- Word lid van de  groep [Vespawatchers](https://www.facebook.com/groups/474218836579263/) op facebook.
 
-## Stappenplan voor een melding
+Ben je een professionele wespenverdelger? Dan vind je meer info op [deze pagina](https://vespawatch.be/professional-eradicators/).
 
-- Neem foto(s). Een foto nemen van een vliegend insect is niet vanzelfsprekend. Echter, om te kunnen bijdragen aan dit project is een foto essentieel. Waarnemingen zonder foto worden niet gevalideerd. Zag je een hoornaar maar kon je niet op tijd een foto trekken, houd dan dezelfde plaats de komende dagen verder in de gaten. Heb je zelf geen fototoestel, vraag dan hulp aan iemand in de buurt. 
-- Ga naar [Meld observaties](https://vespawatch.be/obs/add) en klik op de soort die het best overeenkomt met jouw waarneming
-- Upload de foto(s)
-- Vul verdere gegevens over de waarneming aan en verstuur 
-- Bekijk de validatiestatus van jouw waarneming op [iNaturalist](https://www.inaturalist.org/) 
+##Denk je de wesp te hebben gezien?
+
+1.	Neem een of meerdere foto‘s. Ook al is het moeilijk om een foto te nemen van een vliegend insect. Enkel met een foto kan er worden bevestigd dat het een Aziatische hoornaar is. 
+ -	Zag je een hoornaar, maar kon je niet op tijd een foto nemen? Kijk dan de komende dagen op dezelfde plaats. 
+ -	Heb je geen fototoestel? Vraag hulp aan iemand in de buurt.
+2.	Ga naar [waarnemingen.be](https://waarnemingen.be/species/8807/) om te melden. 
+3.	Upload de foto(‘s) op diezelfde website.
+4.	Vul meer gegevens in, bijvoorbeeld de plaats en tijdstip van je waarneming. Verstuur.
+5.	Volg je melding op om te bekijken of het gaat om een Aziatische hoornaar.
+
 
 ## Actief zoeken naar nesten
 
