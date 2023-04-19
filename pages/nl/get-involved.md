@@ -5,15 +5,15 @@ background:
 toc: true
 ---
 
-Iedereen kan meewerken om de invasie van Aziatische hoornaar in kaart te brengen. Meewerken doe je als volgt:
+Ook jij kan meewerken om de Aziatische hoornaar in kaart te brengen. Dat doe je zo:
 
-- Leer de Aziatische hoornaar [herkennen](https://vespawatch.be/identification)
-- [Meld observaties](https://vespawatch.be/obs/add) van hoornaars en nesten
-- Help mee [observaties verifiëren](https://www.inaturalist.org/observations/identify?user_id=vespawatch)
-- Word lid van de [Vespawatchers](https://www.facebook.com/groups/474218836579263/) op facebook
-- Voor professionele wespenverdelgers
-- Ga actief op zoek naar nesten
-- Zet [wiekpotten](https://vlaamsbijeninstituut.be/diensten/gezondheidsdienst-aziatische-hoornaar/) uit met lokstof om hoornaars te detecteren
+- Leer de Aziatische hoornaar te [herkennen](https://vespawatch.be/identification)
+- Geef door dat je [de wesp](https://waarnemingen.be/species/8807/) of [een nest](/report-nest/){:.btn .btn-primary}) zag.
+- Lok hoornaars met plaatsen van wiekpotten. 
+- Zoek nesten.
+- Word lid van de  groep [Vespawatchers](https://www.facebook.com/groups/474218836579263/) op facebook.
+
+Ben je een professionele wespenverdelger? Dan vind je meer info op [deze pagina](https://vespawatch.be/professional-eradicators/).
 
 ## Stappenplan voor een melding
 
