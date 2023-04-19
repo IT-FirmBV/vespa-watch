@@ -53,40 +53,48 @@ Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld
         <h5 class="card-title">Tip 3: Kijk goed in welke richting de wesp vliegt met haar prooi</h5>
         <p class="card-text">Hoornaars keren met hun prooi terug naar het nest. Maar let op, soms maken ze eerst een bocht. Blijf ze goed volgen tot ze uit het zicht zijn.
         </p>
-        <p class="card-text" style="text-indent: 40px">• 	Eerst gaat ze op zoek naar een geschikte tak. Dat kan in elke richting.<br>• Ze gaat omgekeerd aan de tak hangen om de prooi te ontleden.<br>•	Ze klemt de vleesbal tussen haar borststuk en poten.<br>•	Pas dan vliegt ze terug in de richting van het nest 
+        <p class="card-text" style="text-indent: 25px">• 	Eerst gaat ze op zoek naar een geschikte tak. Dat kan in elke richting.<br>• Ze gaat omgekeerd aan de tak hangen om de prooi te ontleden.<br>•	Ze klemt de vleesbal tussen haar borststuk en poten.<br>•	Pas dan vliegt ze terug in de richting van het nest 
+ </p>
+ <p cladd="card-text">Hoornaars vliegen vaak op een bepaalde hoogte. Zo kunnen ze gemiddeld 30 kilometer per uur vliegen.
  </p>
     </div>
 </div>
 
-<div class="card theme-card-horizontal">
-    <img src="/assets/images/get-involved-search-triangulation.jpeg">
-    <div class="card-body">
-        <h5 class="card-title">Tip 4: Triangulatie, driepuntsmethode, beelining</h5>
-        <p class="card-text">Door meerdere vliegrichtingen met prooi op enkele honderden meters afstand van elkaar aan te duiden op een kaart bekomt men bij benadering de locatie van het nest.</p>
-    </div>
-</div>
 
 <div class="card theme-card-horizontal">
     <img title="(c) Honeybee Valley" src="/assets/images/get-involved-search-tube.jpeg">
     <div class="card-body">
-        <h5 class="card-title">Tip 5: Aziatische hoornaars zijn trouwe jagers</h5>
-        <p class="card-text">In de afgelopen jaren leerden imkers dat steeds dezelfde hoornaar (gemerkt met een stiftje) terug kwam naar dezelfde bijenkasten, elke dag, en dat gedurende 4 weken. Ook zijn hoornaars gevonden die 3 weken lang op dezelfde klimopstruik terugkeerden. De hoornaars vertonen dus enige gehechtheid aan de plaats waar ze voedsel zoeken. Goed om hoornaars iets langer te observeren of een mooie foto te nemen.</p>
+        <h5 class="card-title">Tip 4: Ga opnieuw naar plaatsen waar de Aziatische hoornaar al is gespot </h5>
+        <p class="card-text">Hoornaars zoeken hun voedsel graag op dezelfde plaats. Imkers merkten dat dezelfde hoornaar terugkwam naar dezelfde bijenkasten. Elke dag, 4 weken na elkaar. We vonden ook al hoornaars die 3 weken lang terugkwamen naar dezelfde klimopstruik. <br>
+Wil je een hoornaar iets langer observeren of een mooie foto nemen? <br>
+Ga dan opnieuw naar de plaats waar je er al een zag.
+</p>
     </div>
 </div>
 
 <div class="card theme-card-horizontal">
     <img title="" src="/assets/images/get-involved-search-people.jpeg">
     <div class="card-body">
-        <h5 class="card-title">Tip 6: Informeer buren, imkers en zoek samen</h5>
-        <p class="card-text">Nesten van Aziatische hoornaars zoeken vraagt een plan van aanpak. Nesten in bomen zijn goed verstopt en dan kunnen een extra paar ogen het verschil maken. Het komt ook voor dat bewoners 'grote wespen' opmerken, maar niet denken aan een Aziatische hoornaar. In deze gevallen is informeren en samenwerken de oplossing. Hoe meer ogen op de uitkijk, hoe sneller het nest wordt gevonden! Herbezoek daarom plaatsen van meldingen eerder in het seizoen, organiseer zoektochten in groepen van 3 of meer, informeer lokale knooppunten zoals imkers, de brandweer, ...</p>
+        <h5 class="card-title">Tip 5: Werk samen</h5>
+        <p class="card-text">Nesten van Aziatische hoornaars vinden, is niet simpel. De nesten in bomen zijn goed verstopt. Een extra paar ogen kan het verschil maken. Hoe meer mensen mee uitkijken, hoe sneller je het nest vindt! <br>
+Wat kan je doen?
+ </p>
+<p class="card-text" style="text-indent: 25px">•	Zoek samen in kleine groepjes.<br> 
+•	Informeer buren. Soms merken bewoners 'grote wespen' op, maar denken ze niet aan de Aziatische hoornaar.<br>
+•	Informeer lokale knooppunten zoals imkers of de brandweer.<br>
+</p>
     </div>
 </div>
 
 <div class="card theme-card-horizontal">
     <img title="(c) Honeybee Valley" src="/assets/images/get-involved-search-nest.jpeg">
     <div class="card-body">
-        <h5 class="card-title">Tip 7: Moment van de dag en weersomstandigheden</h5>
-        <p class="card-text">De Aziatische hoornaar jaagt enkel overdag. Zie je bij schemering een hoornaar jagen tegen een buitenlicht of raam, dan is dit een Europese hoornaar en geen Aziatische hoornaar. Hoornaars vliegen niet uit noch gaan ze jagen als het regent. Ook op een bewolkte zomerdag zijn hoornaars minder actief dan als de zon volop schijnt. De gemiddelde warmte speelt ongetwijfeld een rol. In de zomer jagen hoornaars vanaf 1 uur na zonsopgang tot 1 uur voor zonsondergang. Vanaf de middag zijn hoornaars het meest actief.</p>
+        <h5 class="card-title">Tip 6: Wanneer moet je zoeken?</h5>
+        <p class="card-text">•	Overdag, want alleen dan is de soort actief: 1 uur na zonsopgang tot 1 uur voor zonsondergang. Vanaf de middag zijn ze het actiefst.<br> 
+•	Zie je toch een hoornaar bij schemering of in het donker? Dan is dat een Europese hoornaar.<br>  
+•	Niet als het regent.<br> 
+•	Op een zonnige dag, ze zijn minder actief op bewolkte, koudere dagen.  
+</p>
     </div>
 </div>
 
