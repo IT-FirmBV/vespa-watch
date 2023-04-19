@@ -18,8 +18,8 @@ Ben je een professionele wespenverdelger? Dan vind je meer info op [deze pagina]
 ## Denk je de wesp te hebben gezien?
 
 1.	Neem een of meerdere foto‘s. Ook al is het moeilijk om een foto te nemen van een vliegend insect. Enkel met een foto kan er worden bevestigd dat het een Aziatische hoornaar is. 
- -	Zag je een hoornaar, maar kon je niet op tijd een foto nemen? Kijk dan de komende dagen op dezelfde plaats. 
- -	Heb je geen fototoestel? Vraag hulp aan iemand in de buurt.
+  -	Zag je een hoornaar, maar kon je niet op tijd een foto nemen? Kijk dan de komende dagen op dezelfde plaats. 
+  -	Heb je geen fototoestel? Vraag hulp aan iemand in de buurt.
 2.	Ga naar [waarnemingen.be](https://waarnemingen.be/species/8807/) om te melden. 
 3.	Upload de foto(‘s) op diezelfde website.
 4.	Vul meer gegevens in, bijvoorbeeld de plaats en tijdstip van je waarneming. Verstuur.
@@ -124,8 +124,3 @@ Zelf aan de slag gaan? Volg ons stappenplan.
     </div>
 </div>
 
-## Voor professionele wespenverdelgers
-
-In 2021 coördineert het [VBI](https://vlaamsbijeninstituut.be/) (Vlaams Bijeninstituut) de opsporing en verwijdering van nesten van de Aziatische hoornaar, in samenwerking met het INBO, de [Vespawatchers](https://www.facebook.com/groups/474218836579263), vrijwilligers, brandweerdiensten en plaatselijke overheden. Bij het verwijderen van een nest van de Aziatische hoornaar moeten extra veiligheidsmaatregelen worden genomen, daarom organiseert het VBI gespecialiseerde opleidingen. Contacteer het VBI  wanneer u geëngageerd bent om deze opleiding te volgen.
-
-Professionele wespenverdelgers (brandweerzones, privé verdelger, bestrijdingsinstantie, …) kan toegang verleend worden aan de [beheerpagina](https://vespawatch.be/management/). Deze pagina omvat de interactieve module voor bestrijding en opvolging van de Aziatische hoornaar, met centraal een geüpdatete lijst van gevalideerde nesten en daaraan te koppelen acties. Als geregistreerde verdelger krijgt u meer informatie te zien, zoals bijvoorbeeld het adres en contactgegevens van de bewoner, om de verdelgingsactie vlot te kunnen organiseren. Om correct te kunnen rapporteren aan de Europese Unie inzake de Aziatische hoornaar (verordening 1143/2014), wordt verdelgers verzocht om de uitgevoerde acties die bij een nest horen nauwkeurig op te geven.
