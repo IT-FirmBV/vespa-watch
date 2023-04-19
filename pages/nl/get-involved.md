@@ -18,17 +18,18 @@ Ben je een professionele wespenverdelger? Dan vind je meer info op [deze pagina]
 ## Denk je de wesp te hebben gezien?
 
 1.	Neem een of meerdere foto‘s. Ook al is het moeilijk om een foto te nemen van een vliegend insect. Enkel met een foto kan er worden bevestigd dat het een Aziatische hoornaar is. 
-  -	Zag je een hoornaar, maar kon je niet op tijd een foto nemen? Kijk dan de komende dagen op dezelfde plaats. 
-  -	Heb je geen fototoestel? Vraag hulp aan iemand in de buurt.
+    - Zag je een hoornaar, maar kon je niet op tijd een foto nemen? Kijk dan de komende dagen op dezelfde plaats. 
+    -	Heb je geen fototoestel? Vraag hulp aan iemand in de buurt.
 2.	Ga naar [waarnemingen.be](https://waarnemingen.be/species/8807/) om te melden. 
 3.	Upload de foto(‘s) op diezelfde website.
 4.	Vul meer gegevens in, bijvoorbeeld de plaats en tijdstip van je waarneming. Verstuur.
 5.	Volg je melding op om te bekijken of het gaat om een Aziatische hoornaar.
 
 
-## Actief zoeken naar nesten
+## Hoe zoek je nesten?
 
-Wetenschappelijk onderzoek stelde vast dat hoornaars voedsel zoeken binnen 2000 meter rond het nest en gemiddeld 2 prooien vangen per uur. Een waarneming van een hoornaar die voedsel zoekt betekent dan ook maar één iets: er is een nest in de buurt. Deze 7 tips kunnen een hulp zijn om een nest op te sporen.
+Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld 2 prooien per uur. Zie je een hoornaar die voedsel zoekt? Dan is er een nest in de buurt. Met deze 7 tips kan je een nest vinden.
+
 
 <div class="card theme-card-horizontal">
     <img title="(c) KVDD" src="/assets/images/get-involved-search-flying.jpeg">
