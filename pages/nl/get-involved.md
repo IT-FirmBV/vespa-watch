@@ -17,18 +17,16 @@ Ben je een professionele wespenverdelger? Dan vind je meer info op [deze pagina]
 
 ## Denk je de wesp te hebben gezien?
 
-1.	Neem een of meerdere foto‘s. Ook al is het moeilijk om een foto te nemen van een vliegend insect. Enkel met een foto kan er worden bevestigd dat het een Aziatische hoornaar is. 
+1. Neem een of meerdere foto‘s. Ook al is het moeilijk om een foto te nemen van een vliegend insect. Enkel met een foto kan er worden bevestigd dat het een Aziatische hoornaar is. 
     - Zag je een hoornaar, maar kon je niet op tijd een foto nemen? Kijk dan de komende dagen op dezelfde plaats. 
     -	Heb je geen fototoestel? Vraag hulp aan iemand in de buurt.
-2.	Ga naar [waarnemingen.be](https://waarnemingen.be/species/8807/) om te melden. 
-3.	Upload de foto(‘s) op diezelfde website.
-4.	Vul meer gegevens in, bijvoorbeeld de plaats en tijdstip van je waarneming. Verstuur.
-5.	Volg je melding op om te bekijken of het gaat om een Aziatische hoornaar.
-
+2. Ga naar [waarnemingen.be](https://waarnemingen.be/species/8807/) om te melden. 
+3. Upload de foto(‘s) op diezelfde website.
+4. Vul meer gegevens in, bijvoorbeeld de plaats en tijdstip van je waarneming. Verstuur.
+5. Volg je melding op om te bekijken of het gaat om een Aziatische hoornaar.
 
 ## Hoe zoek je nesten?
 Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld 2 prooien per uur. Zie je een hoornaar die voedsel zoekt? Dan is er een nest in de buurt. Met deze 7 tips kan je een nest vinden.
-
 
 <div class="card theme-card-horizontal">
     <img title="(c) KVDD" src="/assets/images/get-involved-search-flying.jpeg">
@@ -43,7 +41,7 @@ Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld
     <img title="(c) Nick Colpaert" src="/assets/images/get-involved-search-fruit.jpeg">
     <div class="card-body">
         <h5 class="card-title">Tip 2: Zoek hoornaars waar je ze kán aantreffen</h5>
-        <p class="card-text">Hoornaars komen vaker voor op plaatsen waar veel kleine insecten zijn.  Ze eten ook graag suikers. Je vindt de hoornaars dus: <br>- Rond bijenkasten<br>- Bij rijp (afgevallen) fruit: vooral peren en appels, want die bevatten veel suikers <br>- Bij planten die bloeien in het najaar zoals klimop (<em>Hedera helix</em>) en sneeuwbes (<em>Symphoricarpos</em>)
+        <p class="card-text">Hoornaars komen vaker voor op plaatsen waar veel kleine insecten zijn.  Ze eten ook graag suikers. Je vindt de hoornaars dus: <br>- Rond bijenkasten.<br>- Bij rijp (afgevallen) fruit: vooral peren en appels, want die bevatten veel suikers. <br>- Bij planten die bloeien in het najaar zoals klimop (<em>Hedera helix</em>) en sneeuwbes (<em>Symphoricarpos</em>).
 </p>
     </div>
 </div>
