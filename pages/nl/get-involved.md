@@ -73,24 +73,23 @@ Ga dan opnieuw naar de plaats waar je er al een zag.
 
 ![Werk_samen](/assets/images/get-involved-search-people.jpeg)
 
-Nesten van Aziatische hoornaars vinden, is niet simpel. De nesten in bomen zijn goed verstopt. Een extra paar ogen kan het verschil maken. Hoe meer mensen mee uitkijken, hoe sneller je het nest vindt! <br>
+Nesten van Aziatische hoornaars vinden, is niet simpel. De nesten in bomen zijn goed verstopt. Een extra paar ogen kan het verschil maken. Hoe meer mensen mee uitkijken, hoe sneller je het nest vindt!
+
 Wat kan je doen?
 
 -	Zoek samen in kleine groepjes.
 -	Informeer buren. Soms merken bewoners 'grote wespen' op, maar denken ze niet aan de Aziatische hoornaar.
 -	Informeer lokale knooppunten zoals imkers of de brandweer.
 
-<div class="card theme-card-horizontal">
-    <img title="(c) Honeybee Valley" src="/assets/images/get-involved-search-nest.jpeg">
-    <div class="card-body">
-        <h5 class="card-title">Tip 6: Wanneer moet je zoeken?</h5>
-        <p class="card-text">•	Overdag, want alleen dan is de soort actief: 1 uur na zonsopgang tot 1 uur voor zonsondergang. Vanaf de middag zijn ze het actiefst.<br> 
-•	Zie je toch een hoornaar bij schemering of in het donker? Dan is dat een Europese hoornaar.<br>  
-•	Niet als het regent.<br> 
-•	Op een zonnige dag. Ze zijn minder actief op bewolkte, koudere dagen.  
-</p>
-    </div>
-</div>
+### Tip 6: Wanneer moet je zoeken?
+
+![nest_AH](/assets/images/get-involved-search-nest.jpeg)
+(c) Honeybee Valley
+
+-	Overdag, want alleen dan is de soort actief: 1 uur na zonsopgang tot 1 uur voor zonsondergang. Vanaf de middag zijn ze het actiefst.
+-	Zie je toch een hoornaar bij schemering of in het donker? Dan is dat een Europese hoornaar.  
+-	Niet als het regent.
+-	Op een zonnige dag. Ze zijn minder actief op bewolkte, koudere dagen.  
 
 ## Hang wiekpotten met lokstof op
 
