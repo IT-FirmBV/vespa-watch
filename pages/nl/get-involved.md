@@ -73,7 +73,7 @@ Ga dan opnieuw naar de plaats waar je er al een zag.
 
 ![Werk_samen](/assets/images/get-involved-search-people.jpeg)
 
-Nesten van Aziatische hoornaars vinden, is niet simpel. De nesten in bomen zijn goed verstopt. Een extra paar ogen kan het verschil maken. Hoe meer mensen mee uitkijken, hoe sneller je het nest vindt! 
+Nesten van Aziatische hoornaars vinden, is niet simpel. De nesten in bomen zijn goed verstopt. Een extra paar ogen kan het verschil maken. Hoe meer mensen mee uitkijken, hoe sneller je het nest vindt! <br>
 Wat kan je doen?
 
 -	Zoek samen in kleine groepjes.
