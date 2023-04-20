@@ -106,8 +106,8 @@ Bezoekt een Aziatische hoornaar de wiekpot? Dan kan je de vliegrichting naar het
 -	Een glazen of plastic pot. 
 -	Met daarin een katoenen wiek die de vloeistof naar boven trekt. 
 -	Als vloeistof gebruik je: 
-  -	een speciaal product zoals Trappit van Edialux 
-  -	of een zelfgemaakte mix van evenveel droge witte wijn, bier, suiker of suikersiroop 
+    -	Een speciaal product zoals Trappit van Edialux. 
+    -	Of een zelfgemaakte mix van evenveel droge witte wijn, bier, suiker of suikersiroop. 
 
 
 <div class="card theme-card-horizontal">
