@@ -69,20 +69,16 @@ Hoornaars zoeken hun voedsel graag op dezelfde plaats. Imkers merkten dat dezelf
 Wil je een hoornaar iets langer observeren of een mooie foto nemen?
 Ga dan opnieuw naar de plaats waar je er al een zag.
 
+### Tip 5: Werk samen
 
-<div class="card theme-card-horizontal">
-    <img title="" src="/assets/images/get-involved-search-people.jpeg">
-    <div class="card-body">
-        <h5 class="card-title">Tip 5: Werk samen</h5>
-        <p class="card-text">Nesten van Aziatische hoornaars vinden, is niet simpel. De nesten in bomen zijn goed verstopt. Een extra paar ogen kan het verschil maken. Hoe meer mensen mee uitkijken, hoe sneller je het nest vindt! <br>
+![Werk_samen](/assets/images/get-involved-search-people.jpeg)
+
+Nesten van Aziatische hoornaars vinden, is niet simpel. De nesten in bomen zijn goed verstopt. Een extra paar ogen kan het verschil maken. Hoe meer mensen mee uitkijken, hoe sneller je het nest vindt! 
 Wat kan je doen?
- </p>
-<p class="card-text" style="text-indent: 25px">•	Zoek samen in kleine groepjes.<br> 
-•	Informeer buren. Soms merken bewoners 'grote wespen' op, maar denken ze niet aan de Aziatische hoornaar.<br>
-•	Informeer lokale knooppunten zoals imkers of de brandweer.<br>
-</p>
-    </div>
-</div>
+
+-	Zoek samen in kleine groepjes.
+-	Informeer buren. Soms merken bewoners 'grote wespen' op, maar denken ze niet aan de Aziatische hoornaar.
+-	Informeer lokale knooppunten zoals imkers of de brandweer.
 
 <div class="card theme-card-horizontal">
     <img title="(c) Honeybee Valley" src="/assets/images/get-involved-search-nest.jpeg">
