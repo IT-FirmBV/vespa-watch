@@ -38,7 +38,7 @@ Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld
 
 ### Tip 2: Zoek hoornaars waar je ze kan vinden
 
-[hoornaar_op_fruit]("/assets/images/get-involved-search-fruit.jpeg")
+![hoornaar_op_fruit](/assets/images/get-involved-search-fruit.jpeg)
 
 Hoornaars komen vaker voor op plaatsen waar veel kleine insecten zijn.  Ze eten ook graag suikers. Je vindt de hoornaars dus:
 
