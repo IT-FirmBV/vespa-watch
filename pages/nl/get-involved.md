@@ -28,7 +28,7 @@ Ben je een professionele wespenverdelger? Dan vind je meer info op [deze pagina]
 ## Hoe zoek je nesten?
 Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld 2 prooien per uur. Zie je een hoornaar die voedsel zoekt? Dan is er een nest in de buurt. Met deze 6 tips kan je een nest vinden.
 
-###Tip 1: Meld, meld, meld,...
+### Tip 1: Meld, meld, meld,...
 
 [vliegende_hooraar]("/assets/images/get-involved-search-flying.jpeg")
 
@@ -36,7 +36,7 @@ Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld
 -	Zie je weer hoornaars op dezelfde plaats? Geef die zeker door. Ook dat is nuttige info voor nestopsporing en onderzoek.
 - Kan je geen goede foto nemen? Vraag hulp aan buren, vrienden of kennissen.
 
-###Tip 2: Zoek hoornaars waar je ze kan vinden
+### Tip 2: Zoek hoornaars waar je ze kan vinden
 
 [hoornaar_op_fruit]("/assets/images/get-involved-search-fruit.jpeg")
 
@@ -47,7 +47,7 @@ Hoornaars komen vaker voor op plaatsen waar veel kleine insecten zijn.  Ze eten 
 - Bij planten die bloeien in het najaar zoals klimop (*Hedera helix*) en sneeuwbes (*Symphoricarpos*).
 
 
-###Tip 3: Kijk goed in welke richting de wesp vliegt met haar prooi
+### Tip 3: Kijk goed in welke richting de wesp vliegt met haar prooi
 
 [AH_met_prooi]("/assets/images/get-involved-search-prey.jpeg")
 
@@ -60,7 +60,7 @@ Hoornaars keren met hun prooi terug naar het nest. Maar let op, soms maken ze ee
 
 Hoornaars vliegen vaak op een bepaalde hoogte. Zo kunnen ze gemiddeld 30 kilometer per uur vliegen.
 
-###Tip 4: Ga opnieuw naar plaatsen waar de Aziatische hoornaar al is gespot
+### Tip 4: Ga opnieuw naar plaatsen waar de Aziatische hoornaar al is gespot
 
 [hoornaar_merken]("/assets/images/get-involved-search-tube.jpeg")
 (c) Honeybee Valley
