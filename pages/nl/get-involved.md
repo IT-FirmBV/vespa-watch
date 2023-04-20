@@ -103,8 +103,8 @@ Bezoekt een Aziatische hoornaar de wiekpot? Dan kan je de vliegrichting naar het
 
 #### Hoe ziet een goede wiekpot eruit? 
 
--	Een glazen of plastic pot. 
--	Met daarin een katoenen wiek die de vloeistof naar boven trekt. 
+-	Een glazen of plastic pot met deksel. 
+-	Maak een gat in het deksel voor een wiek van katoen die de vloeistof naar boven trekt. 
 -	Als vloeistof gebruik je: 
     -	Een speciaal product zoals Trappit van Edialux. 
     -	Of een zelfgemaakte mix van evenveel droge witte wijn, bier, suiker of suikersiroop. 
