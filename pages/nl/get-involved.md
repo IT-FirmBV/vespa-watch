@@ -30,7 +30,7 @@ Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld
 
 ### Tip 1: Meld, meld, meld,...
 
-![get-involved-bait-1](https://github.com/inbo/vespa-watch/blob/gh-pages/assets/images/get-involved-bait-1.jpg)
+![get-involved-bait-1](/assets/images/get-involved-bait-1.jpg)
 
 - Ben je niet zeker dat je een Aziatische hoornaar zag? Neem toch een foto en meld dit op <a href="https://waarnemingen.be/species/8807/">waarnemingen.be</a>. Je leert snel hoe je de verschillende soorten kan herkennen op de website.
 -	Zie je weer hoornaars op dezelfde plaats? Geef die zeker door. Ook dat is nuttige info voor nestopsporing en onderzoek.
@@ -49,7 +49,7 @@ Hoornaars komen vaker voor op plaatsen waar veel kleine insecten zijn.  Ze eten 
 
 ### Tip 3: Kijk goed in welke richting de wesp vliegt met haar prooi
 
-[AH_met_prooi]("/assets/images/get-involved-search-prey.jpeg")
+![AH_met_prooi](/assets/images/get-involved-search-prey.jpeg)
 
 Hoornaars keren met hun prooi terug naar het nest. Maar let op, soms maken ze eerst een bocht. Blijf ze goed volgen tot ze uit het zicht zijn.
 
@@ -62,7 +62,7 @@ Hoornaars vliegen vaak op een bepaalde hoogte. Zo kunnen ze gemiddeld 30 kilomet
 
 ### Tip 4: Ga opnieuw naar plaatsen waar de Aziatische hoornaar al is gespot
 
-[hoornaar_merken]("/assets/images/get-involved-search-tube.jpeg")
+![hoornaar_merken](/assets/images/get-involved-search-tube.jpeg)
 (c) Honeybee Valley
     
 Hoornaars zoeken hun voedsel graag op dezelfde plaats. Imkers merkten dat dezelfde hoornaar terugkwam naar dezelfde bijenkasten. Elke dag, 4 weken na elkaar. We vonden ook al hoornaars die 3 weken lang terugkwamen naar dezelfde klimopstruik.
