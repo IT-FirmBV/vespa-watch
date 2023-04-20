@@ -26,16 +26,13 @@ Ben je een professionele wespenverdelger? Dan vind je meer info op [deze pagina]
 5. Volg je melding op om te bekijken of het gaat om een Aziatische hoornaar.
 
 ## Hoe zoek je nesten?
-Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld 2 prooien per uur. Zie je een hoornaar die voedsel zoekt? Dan is er een nest in de buurt. Met deze 7 tips kan je een nest vinden.
+Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld 2 prooien per uur. Zie je een hoornaar die voedsel zoekt? Dan is er een nest in de buurt. Met deze 6 tips kan je een nest vinden.
 
-<div class="card theme-card-horizontal">
-    <img title="(c) KVDD" src="/assets/images/get-involved-search-flying.jpeg">
-    <div class="card-body">
-        <h5 class="card-title">Tip 1: Meld, meld, meld,...</h5>
-        <p class="card-text">• Ben je niet zeker dat je een Aziatische hoornaar zag? Neem toch een foto en meld dit op <a href="https://waarnemingen.be/species/8807/">waarnemingen.be</a>. Je leert snel hoe je de verschillende soorten kan herkennen op de website. <br>•	Zie je weer hoornaars op dezelfde plaats? Geef die zeker door. Ook dat is nuttige info voor nestopsporing en onderzoek.<br>• Kan je geen goede foto nemen? Vraag hulp aan buren, vrienden of kennissen.
-</p>
-    </div>
-</div>
+### Tip 1: Meld, meld, meld,...
+• Ben je niet zeker dat je een Aziatische hoornaar zag? Neem toch een foto en meld dit op <a href="https://waarnemingen.be/species/8807/">waarnemingen.be</a>. Je leert snel hoe je de verschillende soorten kan herkennen op de website.
+•	Zie je weer hoornaars op dezelfde plaats? Geef die zeker door. Ook dat is nuttige info voor nestopsporing en onderzoek.
+• Kan je geen goede foto nemen? Vraag hulp aan buren, vrienden of kennissen.
+
 
 <div class="card theme-card-horizontal">
     <img title="(c) Nick Colpaert" src="/assets/images/get-involved-search-fruit.jpeg">
