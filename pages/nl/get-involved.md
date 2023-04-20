@@ -172,39 +172,25 @@ Om er zeker van te zijn dat je dezelfde hoornaar observeert, moet je hem vangen 
     </div>
 </div>
  
+### Stap 3: Noteer de tijden en de vliegrichting
 
-<div class="card theme-card-horizontal">
-    <img src="/assets/images/get-involved-search-tube.jpeg">
-    <div class="card-body">
-        <h5 class="card-title">Stap 2: Het merken van de hoornaars</h5>
-        <p class="card-text">Om er zeker van te zijn dat je dezelfde hoornaar observeert, moet je hem vangen en merken. Bij een pot die druk bezocht wordt, moet je voor elk individu verschillende merktekens gebruiken. Je kan gebruikmaken van Opalith merkplaatjes met cijfers of een merkstift die gebruikt wordt door imkers. Om dit te doen, moet je de hoornaar vangen en vastklemmen zodanig het merkteken in alle veiligheid te kunnen plaatsen. Een merkplaatje breng je aan op de bovenkant van het borststuk met een beetje houtlijm of was. Na het merken laat je de hoornaar de volledige ruimte van het merkbuisje gedurende 1 minuut zodat de lijm of was kan opdrogen. Daarna laat je de hoornaar terug vrij. Meestal zal het daarna een tijd duren vooraleer de hoornaar terugkomt naar de wiekpot. Zelden komt de hoornaar onmiddelijk terug.</p>
-    </div>
-</div>
+Je hebt een hoornaar gemerkt? 
+-	Vanaf nu noteer je: 
+    - In welke richting ze wegvliegt na een bezoek aan de wiekpot.
+    - Hoe lang ze wegblijft tussen twee bezoeken aan de wiekpot.
+-	Meet de tijd tussen twee bezoeken minstens 5 keer. Met de kortste tijd bereken je waar het nest is. Reken 1 minuut = 100 meter afstand tot het nest.
 
-<div class="card theme-card-horizontal">
-    <img src="/assets/images/get-involved-bait-2.jpg">
-    <div class="card-body">
-        <h5 class="card-title">Stap 3: Opmeten van tijden en vliegrichtingen</h5>
-        <p class="card-text"> Van elke gemerkte hoornaar noteer je nu de tijd dat ze de wiekpot verlaat en terugkeert om een volgende lading suikers te verzamelen. Deze tijd maakt het mogelijk om het nest te lokaliseren. Reken 1 minuut = 100 meter. Herhaal de tijdmeting minstens 5 keer en neem de kortste observatie. Als je voldoende gegevens hebt verzameld over de tijden en vlierichtingen op een bepaalde plaats, kun je de wiekpot naar een andere plek verplaatsen. Hier begin je opnieuw zodanig dat je later de vluchtrichtingen en tijden in kaart kunt brengen. Idealiter zet je meerdere wiekpotten uit om in een mum van tijd een maximum aan gegevens te verzamelen.</p>
-    </div>
-</div>
+Misschien is de vliegrichting van een hoornaar niet altijd dezelfde. Dat komt omdat de hoornaar niet altijd in een rechte lijn naar haar nest vliegt. Ze gebruikt het landschap om zich te oriënteren, bijvoorbeeld een hoge boom of huis. 
 
-<div class="card theme-card-horizontal">
-    <img src="/assets/images/get-involved-bait-direction.jpg">
-    <div class="card-body">
-        <h5 class="card-title">Stap 4: Vliegrichtingen en -tijden op kaart uitzetten</h5>
-        <p class="card-text"> Ga met de metingen aan de slag om je vliegrichtingen en tijdsaanduidingen op kaart uit te zetten. Wiekpotten met tijden van meer dan 5 minuten kunnen beter 100 meter in de vliegrichting worden verplaatst. Na enige tijd zouden de hoornaars deze wiekpot moeten vinden en zouden je tijden korter en nauwkeuriger moeten zijn. Misschien merk je dat de vliegrichting licht afwijkt van elkaar. Dit komt omdat een hoornaar niet altijd in een rechte lijn naar haar nest vliegt, maar eerder landschapskenmerken gebruikt.</p>
-    </div>
-</div>
+![triangulatie](/assets/images/get-involved-bait-2.jpg)
 
+### Stap 4: Zet de vliegrichtingen en vliegtijden op een kaart
 
-<div class="card theme-card-horizontal">
-    <img title="(c) Honeybee Valley" src="/assets/images/get-involved-search-tube.jpeg">
-    <div class="card-body">
-        <h5 class="card-title">Tip 4: Ga opnieuw naar plaatsen waar de Aziatische hoornaar al is gespot </h5>
-        <p class="card-text">Hoornaars zoeken hun voedsel graag op dezelfde plaats. Imkers merkten dat dezelfde hoornaar terugkwam naar dezelfde bijenkasten. Elke dag, 4 weken na elkaar. We vonden ook al hoornaars die 3 weken lang terugkwamen naar dezelfde klimopstruik. <br>
-Wil je een hoornaar iets langer observeren of een mooie foto nemen? <br>
-Ga dan opnieuw naar de plaats waar je er al een zag.
-</p>
-    </div>
-</div>
+-	Print een kaart van het gebied uit met een duidelijke schaal. Of gebruik een online webapplicatie zoals My Maps van Google. -	Trek een lijn om de vliegrichting van de wesp aan te geven. 
+    - De lijn begint aan de plek waar de wiekpot hangt. 
+    - Bereken de kortst waargenomen vliegtijd tot het nest. Een wesp vliegt  100 meter per minuut. De kortste vliegtijd bepaalt de lengte van de lijn. 
+
+Zo krijg je een duidelijk overzicht van het zoekgebied. Hoe meer info je hebt, hoe kleiner het zoekgebied waar het nest zich mogelijks bevindt. Maximaal bevindt een nest zich 2 km vanaf een waarneming. 
+
+![vliegrichtingen_op_kaart](/assets/images/get-involved-bait-direction.jpg)
+
