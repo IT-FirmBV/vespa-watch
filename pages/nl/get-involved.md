@@ -99,6 +99,17 @@ Bezoekt een Aziatische hoornaar de wiekpot? Dan kan je de vliegrichting naar het
 
 **Zelf aan de slag gaan? Volg ons stappenplan.**
 
+### Stap 1: Maak een wiekpot en hang hem op
+
+#### Hoe ziet een goede wiekpot eruit? 
+
+-	Een glazen of plastic pot. 
+-	Met daarin een katoenen wiek die de vloeistof naar boven trekt. 
+-	Als vloeistof gebruik je: 
+  -	een speciaal product zoals Trappit van Edialux 
+  -	of een zelfgemaakte mix van evenveel droge witte wijn, bier, suiker of suikersiroop 
+
+
 <div class="card theme-card-horizontal">
     <img src="/assets/images/get-involved-bait-1.jpg">
     <div class="card-body">
