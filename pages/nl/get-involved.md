@@ -28,47 +28,47 @@ Ben je een professionele wespenverdelger? Dan vind je meer info op [deze pagina]
 ## Hoe zoek je nesten?
 Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld 2 prooien per uur. Zie je een hoornaar die voedsel zoekt? Dan is er een nest in de buurt. Met deze 6 tips kan je een nest vinden.
 
-### Tip 1: Meld, meld, meld,...
+###Tip 1: Meld, meld, meld,...
+
 [vliegende_hooraar]("/assets/images/get-involved-search-flying.jpeg")
+
 - Ben je niet zeker dat je een Aziatische hoornaar zag? Neem toch een foto en meld dit op <a href="https://waarnemingen.be/species/8807/">waarnemingen.be</a>. Je leert snel hoe je de verschillende soorten kan herkennen op de website.
 -	Zie je weer hoornaars op dezelfde plaats? Geef die zeker door. Ook dat is nuttige info voor nestopsporing en onderzoek.
 - Kan je geen goede foto nemen? Vraag hulp aan buren, vrienden of kennissen.
 
+###Tip 2: Zoek hoornaars waar je ze kan vinden
 
-<div class="card theme-card-horizontal">
-    <img title="(c) Nick Colpaert" src="/assets/images/get-involved-search-fruit.jpeg">
-    <div class="card-body">
-        <h5 class="card-title">Tip 2: Zoek hoornaars waar je ze kan vinden</h5>
-        <p class="card-text">Hoornaars komen vaker voor op plaatsen waar veel kleine insecten zijn.  Ze eten ook graag suikers. Je vindt de hoornaars dus:</p>
-        <p class="card-text" style="text-indent: 25px">• Rond bijenkasten.<br>• Bij rijp (afgevallen) fruit: vooral peren en appels, want die bevatten veel suikers.<br>• Bij planten die bloeien in het najaar zoals klimop (<em>Hedera helix</em>) en sneeuwbes (<em>Symphoricarpos</em>).
-</p>
-    </div>
-</div>
+[hoornaar_op_fruit]("/assets/images/get-involved-search-fruit.jpeg")
 
-<div class="card theme-card-horizontal">
-    <img title="(c) Honeybee Valley" src="/assets/images/get-involved-search-prey.jpeg">
-    <div class="card-body">
-        <h5 class="card-title">Tip 3: Kijk goed in welke richting de wesp vliegt met haar prooi</h5>
-        <p class="card-text">Hoornaars keren met hun prooi terug naar het nest. Maar let op, soms maken ze eerst een bocht. Blijf ze goed volgen tot ze uit het zicht zijn.
-        </p>
-        <p class="card-text" style="text-indent: 25px">• 	Eerst gaat ze op zoek naar een geschikte tak. Dat kan in elke richting.<br>• Ze gaat omgekeerd aan de tak hangen om de prooi te ontleden.<br>•	Ze klemt de vleesbal tussen haar borststuk en poten.<br>•	Pas dan vliegt ze terug in de richting van het nest 
- </p>
- <p cladd="card-text">Hoornaars vliegen vaak op een bepaalde hoogte. Zo kunnen ze gemiddeld 30 kilometer per uur vliegen.
- </p>
-    </div>
-</div>
+Hoornaars komen vaker voor op plaatsen waar veel kleine insecten zijn.  Ze eten ook graag suikers. Je vindt de hoornaars dus:
+
+- Rond bijenkasten.
+- Bij rijp (afgevallen) fruit: vooral peren en appels, want die bevatten veel suikers.
+- Bij planten die bloeien in het najaar zoals klimop (*Hedera helix*) en sneeuwbes (*Symphoricarpos*).
 
 
-<div class="card theme-card-horizontal">
-    <img title="(c) Honeybee Valley" src="/assets/images/get-involved-search-tube.jpeg">
-    <div class="card-body">
-        <h5 class="card-title">Tip 4: Ga opnieuw naar plaatsen waar de Aziatische hoornaar al is gespot </h5>
-        <p class="card-text">Hoornaars zoeken hun voedsel graag op dezelfde plaats. Imkers merkten dat dezelfde hoornaar terugkwam naar dezelfde bijenkasten. Elke dag, 4 weken na elkaar. We vonden ook al hoornaars die 3 weken lang terugkwamen naar dezelfde klimopstruik. <br>
-Wil je een hoornaar iets langer observeren of een mooie foto nemen? <br>
+###Tip 3: Kijk goed in welke richting de wesp vliegt met haar prooi
+
+[AH_met_prooi]("/assets/images/get-involved-search-prey.jpeg")
+
+Hoornaars keren met hun prooi terug naar het nest. Maar let op, soms maken ze eerst een bocht. Blijf ze goed volgen tot ze uit het zicht zijn.
+
+- Eerst gaat ze op zoek naar een geschikte tak. Dat kan in elke richting.
+- Ze gaat omgekeerd aan de tak hangen om de prooi te ontleden.
+- Ze klemt de vleesbal tussen haar borststuk en poten.
+- Pas dan vliegt ze terug in de richting van het nest 
+
+Hoornaars vliegen vaak op een bepaalde hoogte. Zo kunnen ze gemiddeld 30 kilometer per uur vliegen.
+
+###Tip 4: Ga opnieuw naar plaatsen waar de Aziatische hoornaar al is gespot
+
+[hoornaar_merken]("/assets/images/get-involved-search-tube.jpeg")
+(c) Honeybee Valley
+    
+Hoornaars zoeken hun voedsel graag op dezelfde plaats. Imkers merkten dat dezelfde hoornaar terugkwam naar dezelfde bijenkasten. Elke dag, 4 weken na elkaar. We vonden ook al hoornaars die 3 weken lang terugkwamen naar dezelfde klimopstruik.
+Wil je een hoornaar iets langer observeren of een mooie foto nemen?
 Ga dan opnieuw naar de plaats waar je er al een zag.
-</p>
-    </div>
-</div>
+
 
 <div class="card theme-card-horizontal">
     <img title="" src="/assets/images/get-involved-search-people.jpeg">
@@ -136,3 +136,14 @@ Bezoekt een Aziatische hoornaar de wiekpot? Dan kan je de vliegrichting naar het
     </div>
 </div>
 
+
+<div class="card theme-card-horizontal">
+    <img title="(c) Honeybee Valley" src="/assets/images/get-involved-search-tube.jpeg">
+    <div class="card-body">
+        <h5 class="card-title">Tip 4: Ga opnieuw naar plaatsen waar de Aziatische hoornaar al is gespot </h5>
+        <p class="card-text">Hoornaars zoeken hun voedsel graag op dezelfde plaats. Imkers merkten dat dezelfde hoornaar terugkwam naar dezelfde bijenkasten. Elke dag, 4 weken na elkaar. We vonden ook al hoornaars die 3 weken lang terugkwamen naar dezelfde klimopstruik. <br>
+Wil je een hoornaar iets langer observeren of een mooie foto nemen? <br>
+Ga dan opnieuw naar de plaats waar je er al een zag.
+</p>
+    </div>
+</div>
