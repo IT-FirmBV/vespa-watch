@@ -186,7 +186,8 @@ Misschien is de vliegrichting van een hoornaar niet altijd dezelfde. Dat komt om
 
 ### Stap 4: Zet de vliegrichtingen en vliegtijden op een kaart
 
--	Print een kaart van het gebied uit met een duidelijke schaal. Of gebruik een online webapplicatie zoals My Maps van Google. -	Trek een lijn om de vliegrichting van de wesp aan te geven. 
+-	Print een kaart van het gebied uit met een duidelijke schaal. Of gebruik een online webapplicatie zoals My Maps van Google.
+-	Trek een lijn om de vliegrichting van de wesp aan te geven. 
     - De lijn begint aan de plek waar de wiekpot hangt. 
     - Bereken de kortst waargenomen vliegtijd tot het nest. Een wesp vliegt  100 meter per minuut. De kortste vliegtijd bepaalt de lengte van de lijn. 
 
