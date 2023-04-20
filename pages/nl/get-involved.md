@@ -109,14 +109,69 @@ Bezoekt een Aziatische hoornaar de wiekpot? Dan kan je de vliegrichting naar het
     -	Een speciaal product zoals Trappit van Edialux. 
     -	Of een zelfgemaakte mix van evenveel droge witte wijn, bier, suiker of suikersiroop. 
 
+#### Waar hang je de wiekpot?
+
+-	Net onder ooghoogte. 
+-	In een open ruimte, zodat je de gemerkte hoornaars goed herkent en gemakkelijk ziet wegvliegen.
+-	Zet meerdere wiekpotten uit in de buurt van een waarneming van Aziatische hoornaar. Zo verzamel je snel veel gegevens.
+ 
+![voorbeeld_wiekpot](/assets/images/get-involved-bait-1.jpg)
+
+### Stap 2: Merk de gevangen hoornaar
+
+Om er zeker van te zijn dat je dezelfde hoornaar observeert, moet je hem vangen en merken.
+
+#### Wat heb je nodig?
+
+-	Gebruik de merkplaatjes van Opalith met cijfers of een merkstift in verschillende kleuren. 
+-	Een merkbuisje met stamper zodat het merken veilig kan gebeuren.
+-	Te verkrijgen in gespecialiseerde winkels voor imkers.
+
+
+#### Hoe merk je een hoornaar?
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/get-involved-bait-1.jpg">
+    <img src="/assets/images/get-involved-search-tube.jpeg">
     <div class="card-body">
-        <h5 class="card-title">Stap 1: Het maken en uithangen van wiekpotten</h5>
-        <p class="card-text">Een wiekpot moet volgende kenmerken bezitten: een glazen of plastic pot met daarin een wiek (vb. keukenrol) die de vloeistof naar boven toe trekt. Als vloeistof kan je een commercieel product gebruiken (vb. Trappit van Edialux), ofwel jouw eigen zelfgemaakte mix bestaande uit 1/3de droge witte wijn, 1/3de bier en 1/3de suiker/siroop. Idealiter hangt een wiekpot net onder ooghoogte en in een open ruimte, zodat je de gemerkte hoornaars goed kan herkennen en gemakkelijk kan zien wegvliegen.</p>
+        <p class="card-text">1. Gebruik voor elke wesp een verschillend merkteken of kleur. Zo merk je elke wesp uniek. </p>
     </div>
 </div>
+
+<div class="card theme-card-horizontal">
+    <img src="/assets/images/get-involved-search-tube.jpeg">
+    <div class="card-body">
+        <p class="card-text">2. Drinkt een hoornaar van de lokstof? Dan plaats je het merkbuisje over de wiek van de wiekpot. Zet de stamper op de opening van het merkbuisje. Zo sluit je het merkbuisje en vang je de hoornaar.  </p>
+    </div>
+</div>
+
+<div class="card theme-card-horizontal">
+    <img src="/assets/images/get-involved-search-tube.jpeg">
+    <div class="card-body">
+        <p class="card-text">3. Steek de stamper dieper in het merkbuisje. Klem de hoornaar met zijn rug tegen het roostertje van het merkbuisje.</p>
+    </div>
+</div>
+
+<div class="card theme-card-horizontal">
+    <img src="/assets/images/get-involved-search-tube.jpeg">
+    <div class="card-body">
+        <p class="card-text">4. Kleef het merkplaatje met een beetje hout of was op de bovenkant van het borststuk.</p>
+    </div>
+</div>
+
+<div class="card theme-card-horizontal">
+    <img src="/assets/images/get-involved-search-tube.jpeg">
+    <div class="card-body">
+        <p class="card-text">5. Laat de hoornaar nog een minuut in het merkbuisje zitten. Zo kan de lijm of de was opdrogen. Je moet de hoornaar niet meer vastklemmen. Verplaats de stamper en geef de hoornaar meer plaats in het merkbuisje.</p>
+    </div>
+</div>
+
+<div class="card theme-card-horizontal">
+    <img src="/assets/images/get-involved-search-tube.jpeg">
+    <div class="card-body">
+        <p class="card-text">6. Laat de hoornaar vrij. Meestal zal het een tijdje duren voor de hoornaar terugkomt naar de wiekpot.</p>
+    </div>
+</div>
+ 
 
 <div class="card theme-card-horizontal">
     <img src="/assets/images/get-involved-search-tube.jpeg">
