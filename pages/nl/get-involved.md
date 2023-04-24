@@ -131,35 +131,35 @@ Om er zeker van te zijn dat je dezelfde hoornaar observeert, moet je hem vangen 
 #### Hoe merk je een hoornaar?
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/merken_hoornaar_1.jpeg">
+    <img src="/assets/images/merken_hoornaar_1.jpg">
     <div class="card-body">
         <p class="card-text">1. Gebruik voor elke wesp een verschillend merkteken of kleur. Zo merk je elke wesp uniek. </p>
     </div>
 </div>
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/merken_hoornaar_2.jpeg">
+    <img src="/assets/images/merken_hoornaar_2.jpg">
     <div class="card-body">
         <p class="card-text">2. Drinkt een hoornaar van de lokstof? Dan plaats je het merkbuisje over de wiek van de wiekpot. Zet de stamper op de opening van het merkbuisje. Zo sluit je het merkbuisje en vang je de hoornaar.  </p>
     </div>
 </div>
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/merken_hoornaar_3.jpeg">
+    <img src="/assets/images/merken_hoornaar_3.jpg">
     <div class="card-body">
         <p class="card-text">3. Steek de stamper dieper in het merkbuisje. Klem de hoornaar met zijn rug tegen het roostertje van het merkbuisje.</p>
     </div>
 </div>
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/merken_hoornaar_4.jpeg">
+    <img src="/assets/images/merken_hoornaar_4.jpg">
     <div class="card-body">
         <p class="card-text">4. Kleef het merkplaatje met een beetje hout of was op de bovenkant van het borststuk. Of signeer de hoornaar met een kleurstift.</p>
     </div>
 </div>
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/merken_hoornaar_5.jpeg">
+    <img src="/assets/images/merken_hoornaar_5.jpg">
     <div class="card-body">
         <p class="card-text">5. Laat de hoornaar nog een minuut in het merkbuisje zitten. Zo kan de lijm of de was opdrogen. Je moet de hoornaar niet meer vastklemmen. Verplaats de stamper en geef de hoornaar meer plaats in het merkbuisje.</p>
     </div>
