@@ -159,7 +159,7 @@ Om er zeker van te zijn dat je dezelfde hoornaar observeert, moet je hem vangen 
 </div>
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/merken_hoornaar_5.jpg">
+    <img src="/assets/images/merken_hoornaar_5.JPG"> 
     <div class="card-body">
         <p class="card-text">5. Laat de hoornaar nog een minuut in het merkbuisje zitten. Zo kan de lijm of de was opdrogen. Je moet de hoornaar niet meer vastklemmen. Verplaats de stamper en geef de hoornaar meer plaats in het merkbuisje.</p>
     </div>
