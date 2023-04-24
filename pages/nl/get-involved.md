@@ -193,5 +193,5 @@ Misschien is de vliegrichting van een hoornaar niet altijd dezelfde. Dat komt om
 
 Zo krijg je een duidelijk overzicht van het zoekgebied. Hoe meer info je hebt, hoe kleiner het zoekgebied waar het nest zich mogelijks bevindt. Maximaal bevindt een nest zich 2 km vanaf een waarneming. 
 
-![vliegrichtingen_op_kaart](/assets/images/get-involved-bait-direction.jpg)
+![vliegrichtingen_op_kaart](/assets/images/get-involved-search-triangulation.jpeg)
 
