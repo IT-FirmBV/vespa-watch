@@ -164,7 +164,7 @@ Om er zeker van te zijn dat je dezelfde hoornaar observeert, moet je hem vangen 
 1. Gebruik voor elke wesp een verschillend merkteken of kleur. Zo merk je elke wesp uniek.
 </div>
 <div class="col-md-4">
-<p><img src="/assets/images/merken_hoornaar_1.JPG" alt="Gekleurde stiften"></p>
+<p><img src="/assets/images/get-involved-marking-1.jpg" alt="Gekleurde stiften"></p>
 </div>
 </div>
 
@@ -174,7 +174,7 @@ Om er zeker van te zijn dat je dezelfde hoornaar observeert, moet je hem vangen 
 2. Drinkt een hoornaar van de lokstof? Dan plaats je het merkbuisje over de wiek van de wiekpot. Zet de stamper op de opening van het merkbuisje. Zo sluit je het merkbuisje en vang je de hoornaar.
 </div>
 <div class="col-md-4">
-<p><img src="/assets/images/merken_hoornaar_2.JPG" alt="Merkbuisje plaatsen"></p>
+<p><img src="/assets/images/get-involved-marking-2.jpg" alt="Merkbuisje plaatsen"></p>
 </div>
 </div>
 
@@ -184,7 +184,7 @@ Om er zeker van te zijn dat je dezelfde hoornaar observeert, moet je hem vangen 
 3. Steek de stamper dieper in het merkbuisje. Klem de hoornaar met zijn rug tegen het roostertje van het merkbuisje.
 </div>
 <div class="col-md-4">
-<p><img src="/assets/images/merken_hoornaar_3.JPG" alt="Stamper in merkbuisje"></p>
+<p><img src="/assets/images/get-involved-marking-3.jpg" alt="Stamper in merkbuisje"></p>
 </div>
 </div>
 
@@ -194,7 +194,7 @@ Om er zeker van te zijn dat je dezelfde hoornaar observeert, moet je hem vangen 
 4. Kleef het merkplaatje met een beetje hout of was op de bovenkant van het borststuk. Of signeer de hoornaar met een kleurstift.
 </div>
 <div class="col-md-4">
-<p><img src="/assets/images/merken_hoornaar_4.JPG" alt="Merkplaatje kleven"></p>
+<p><img src="/assets/images/get-involved-marking-4.jpg" alt="Merkplaatje kleven"></p>
 </div>
 </div>
 
@@ -204,7 +204,7 @@ Om er zeker van te zijn dat je dezelfde hoornaar observeert, moet je hem vangen 
 5. Laat de hoornaar nog een minuut in het merkbuisje zitten. Zo kan de lijm of de was opdrogen. Je moet de hoornaar niet meer vastklemmen. Verplaats de stamper en geef de hoornaar meer plaats in het merkbuisje.
 </div>
 <div class="col-md-4">
-<p><img src="/assets/images/merken_hoornaar_5.JPG" alt="Laten drogen"></p>
+<p><img src="/assets/images/get-involved-marking-5.jpg" alt="Laten drogen"></p>
 </div>
 </div>
 
@@ -214,7 +214,7 @@ Om er zeker van te zijn dat je dezelfde hoornaar observeert, moet je hem vangen 
 6. Laat de hoornaar vrij. Meestal zal het een tijdje duren voor de hoornaar terugkomt naar de wiekpot.
 </div>
 <div class="col-md-4">
-<p><img src="/assets/images/hoornaar_merken_6.JPG" alt="Vrijlaten"></p>
+<p><img src="/assets/images/get-involved-marking-6.jpg" alt="Vrijlaten"></p>
 </div>
 </div>
  
