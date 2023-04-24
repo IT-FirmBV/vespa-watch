@@ -115,7 +115,7 @@ Bezoekt een Aziatische hoornaar de wiekpot? Dan kan je de vliegrichting naar het
 -	In een open ruimte, zodat je de gemerkte hoornaars goed herkent en gemakkelijk ziet wegvliegen.
 -	Zet meerdere wiekpotten uit in de buurt van een waarneming van Aziatische hoornaar. Zo verzamel je snel veel gegevens.
  
-![voorbeeld_wiekpot](/assets/images/get-involved-bait-1.jpg)
+![voorbeeld_wiekpot](/assets/images/get-involved-search-flying.jpg)
 
 ### Stap 2: Merk de gevangen hoornaar
 
@@ -131,28 +131,28 @@ Om er zeker van te zijn dat je dezelfde hoornaar observeert, moet je hem vangen 
 #### Hoe merk je een hoornaar?
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/merken_hoornaar_1.jpg">
+    <img src="/assets/images/merken_hoornaar_1.JPG">
     <div class="card-body">
         <p class="card-text">1. Gebruik voor elke wesp een verschillend merkteken of kleur. Zo merk je elke wesp uniek. </p>
     </div>
 </div>
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/merken_hoornaar_2.jpg">
+    <img src="/assets/images/merken_hoornaar_2.JPG">
     <div class="card-body">
         <p class="card-text">2. Drinkt een hoornaar van de lokstof? Dan plaats je het merkbuisje over de wiek van de wiekpot. Zet de stamper op de opening van het merkbuisje. Zo sluit je het merkbuisje en vang je de hoornaar.  </p>
     </div>
 </div>
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/merken_hoornaar_3.jpg">
+    <img src="/assets/images/merken_hoornaar_3.JPG">
     <div class="card-body">
         <p class="card-text">3. Steek de stamper dieper in het merkbuisje. Klem de hoornaar met zijn rug tegen het roostertje van het merkbuisje.</p>
     </div>
 </div>
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/merken_hoornaar_4.jpg">
+    <img src="/assets/images/merken_hoornaar_4.JPG">
     <div class="card-body">
         <p class="card-text">4. Kleef het merkplaatje met een beetje hout of was op de bovenkant van het borststuk. Of signeer de hoornaar met een kleurstift.</p>
     </div>
@@ -166,7 +166,7 @@ Om er zeker van te zijn dat je dezelfde hoornaar observeert, moet je hem vangen 
 </div>
 
 <div class="card theme-card-horizontal">
-    <img src="/assets/images/get-involved-search-tube.jpeg">
+    <img src="/assets/images/hoornaar_merken_6.JPG">
     <div class="card-body">
         <p class="card-text">6. Laat de hoornaar vrij. Meestal zal het een tijdje duren voor de hoornaar terugkomt naar de wiekpot.</p>
     </div>
