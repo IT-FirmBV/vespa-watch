@@ -30,7 +30,7 @@ Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld
 
 ### Tip 1: Meld, meld, meld,...
 
-![get-involved-bait-1](/assets/images/get-involved-bait-1.jpg)
+![get-involved-bait-1](/assets/images/get-involved-search-flying.jpg)
 
 - Ben je niet zeker dat je een Aziatische hoornaar zag? Neem toch een foto en meld dit op <a href="https://waarnemingen.be/species/8807/">waarnemingen.be</a>. Je leert snel hoe je de verschillende soorten kan herkennen op de website.
 -	Zie je weer hoornaars op dezelfde plaats? Geef die zeker door. Ook dat is nuttige info voor nestopsporing en onderzoek.
@@ -115,7 +115,7 @@ Bezoekt een Aziatische hoornaar de wiekpot? Dan kan je de vliegrichting naar het
 -	In een open ruimte, zodat je de gemerkte hoornaars goed herkent en gemakkelijk ziet wegvliegen.
 -	Zet meerdere wiekpotten uit in de buurt van een waarneming van Aziatische hoornaar. Zo verzamel je snel veel gegevens.
  
-![voorbeeld_wiekpot](/assets/images/get-involved-search-flying.jpg)
+![voorbeeld_wiekpot](/assets/images/get-involved-bait-1.jpg)
 
 ### Stap 2: Merk de gevangen hoornaar
 
