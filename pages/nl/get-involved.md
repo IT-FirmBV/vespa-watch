@@ -11,7 +11,7 @@ Ook jij kan meewerken om de Aziatische hoornaar in kaart te brengen. Dat doe je 
 - Geef door dat je [de wesp](https://waarnemingen.be/species/8807/) of [een nest](/report-nest/) zag.
 - Lok hoornaars met plaatsen van wiekpotten. 
 - Zoek nesten.
-- Word lid van de  groep [Vespawatchers](https://www.facebook.com/groups/474218836579263/) op facebook.
+- Word lid van de  groep [Vespawatchers](https://www.facebook.com/groups/474218836579263/) op Facebook.
 
 Ben je een professionele wespenverdelger? Dan vind je meer info op [deze pagina](/professional-eradicators/).
 
