@@ -49,8 +49,8 @@ In autumn, the queen of the colony can easily be distinguished from her workers.
 ### Common yellowjacket (_Vespula vulgaris_) and German yellowjacket (_Vespula germanica_)
 
 <div class="row">
-<div class="col-md-6" markdown="1">
-![vespula](/assets/images/identification-lookalike-vespula.jpg "(c) Foto links: Brigitte van Passel, foto rechts: Karel Schoonvaere"){:.img-fluid}
+<div class="col-md-6">
+<p><img src="/assets/images/identification-lookalike-vespula.jpg" alt="vespula" title="(c) Left photo: Brigitte van Passel, right photo: Karel Schoonvaere"></p>
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -71,8 +71,8 @@ Distinctive feature
 ### Median wasp (_Dolichovespula media_), dark form
 
 <div class="row">
-<div class="col-md-6" markdown="1">
-![dolichovespula-media](/assets/images/identification-lookalike-dolichovespula-media.jpg "(c) Christine Devillers"){:.img-fluid}
+<div class="col-md-6">
+<p><img src="/assets/images/identification-lookalike-dolichovespula-media.jpg" alt="dolichovespula-media" title="(c) Christine Devillers"></p>
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -93,8 +93,8 @@ Distinctive feature
 ### European paper wasp (_Polistes dominula_)
 
 <div class="row">
-<div class="col-md-6" markdown="1">
-![polistes-dominula](/assets/images/identification-lookalike-polistes-dominula.jpg "(c) Fotoopa"){:.img-fluid}
+<div class="col-md-6">
+<p><img src="/assets/images/identification-lookalike-polistes-dominula.jpg" alt="polistes-dominula" title="(c) Fotoopa"></p>
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -115,8 +115,8 @@ Distinctive feature
 ### Giant wood wasp (_Urocerus gigas_)
 
 <div class="row">
-<div class="col-md-6" markdown="1">
-![urocerus-gigas](/assets/images/identification-lookalike-urocerus-gigas.jpeg "(c) Johan Opsomer"){:.img-fluid}
+<div class="col-md-6">
+<p><img src="/assets/images/identification-lookalike-urocerus-gigas.jpeg" alt="urocerus-gigas" title="(c) Johan Opsomer"></p>
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -136,8 +136,8 @@ Distinctive feature
 ### Bumblebees (_Bombus_ species)
 
 <div class="row">
-<div class="col-md-6" markdown="1">
-![bombus](/assets/images/identification-lookalike-bombus.jpg "(c) Isabelle Pourbaix"){:.img-fluid}
+<div class="col-md-6">
+<p><img src="/assets/images/identification-lookalike-bombus.jpg" alt="bombus" title="(c) Isabelle Pourbaix"></p>
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -158,8 +158,8 @@ Distinctive feature
 ### Hornet hoverfly (_Volucella zonaria_)
 
 <div class="row">
-<div class="col-md-6" markdown="1">
-![volucella-zonaria](/assets/images/identification-lookalike-volucella-zonaria.jpg "(c) Johan Raes, digitalis, 2018"){:.img-fluid}
+<div class="col-md-6">
+<p><img src="/assets/images/identification-lookalike-volucella-zonaria.jpg" alt="volucella-zonaria" title="(c) Johan Raes, digitalis, 2018"></p>
 </div>
 <div class="col-md-6" markdown="1">
 Size
@@ -180,8 +180,8 @@ Distinctive feature
 ### Violet carpenter bee (_Xylocopa violaceae_)
 
 <div class="row">
-<div class="col-md-6" markdown="1">
-![xylocopa-violaceae](/assets/images/identification-lookalike-xylocopa-violaceae.jpg "(c) Annie Reynaerts"){:.img-fluid}
+<div class="col-md-6">
+<p><img src="/assets/images/identification-lookalike-xylocopa-violaceae.jpg" alt="xylocopa-violaceae" title="(c) Annie Reynaerts"></p>
 </div>
 <div class="col-md-6" markdown="1">
 Size
