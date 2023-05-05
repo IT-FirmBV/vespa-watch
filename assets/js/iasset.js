@@ -1,6 +1,6 @@
 (function($) {
     $(document).ready(function () {
-        let map, infoWindow, incr = 0, marker, fileIds = [], checkAndRadioIds = [], apiUrl = 'https://apiv2.iasset.nl/', apiToken = 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiJjMjBiNWY2ZS1iNTRhLTExZWEtOWYzZS0wMjQyYWMxYjAwMDIiLCJqdGkiOiJkM2JlYmU0ZmZjZjA2YWVjMTdkZjVlN2VhZjg4N2EyZWE4ZDNjZjU4MmVkNDEwYzhiZjk4ZmM2YmEyNjlkZDhmODJjYzhmMjZmZTU1OWVhMCIsImlhdCI6MTY3OTkxNjQ1MCwibmJmIjoxNjc5OTE2NDUwLCJleHAiOjE3MTE1NDI0NTAsInN1YiI6IjUyNDciLCJzY29wZXMiOltdfQ.gCIv6Qv1NBFVyptL53ZP7UJld9YAQHR6dhjnrC_cyR9o51sLefOoNOtUE5tJbkt8kk1zcmfug3Y6sUM3io8TazjQZdRtI0X9OI2u8kEDeRJeD1q26HNCll9-lx4i3cd6_9ch__rFT4wzJquG_GEn8-SUus_RJQ7shkK2ETv5XLY-oFYz5tMcdqTFcb4rkSTH9-i8TOlfw28genjfORy9GLDOfBIUXm2W0P2u-dmBFVBY19-MzGUgCHo_aUIxK2PJ2eBkQzHTPTr8qoAv4IF920a5hK7abe2EzfH7Y6tZEu6P7HESUc5Fn2cZryNAgItVV0BgrbyyZwEuqzKD2CEqdkSNtaTsiimPkNWUlq87TM2eqStTAoBrtjtdtQfd3Iv1EBgmVQiiW2XEsbaooOg_b1lv8R1awKncpyBSUIQNgV789LrezuwCiDzpYEC3DB7E3eZ_s72n7ALez768tMi79GJMGfz-8UQiw-vsrmONh8PZtZ62MfQzYwmn9Y6fNiKj354K6Z9OgkbQ8ThX7S53vCBlQMJSCv8EgZB3hD7SXq8a8HkWHxmjviUtNO7aeJojLSqgvr5i2I_YVGRPDP5xuOkRBfaVBvxilzdtjQ6WmSVF20-E18XjdEG-ENMBtuIree4gpyYpfLEQgWzbsylgPnKv_ARJdOA-kDbGSp8vMX0';
+        let map, infoWindow, incr = 0, marker, requiredFields = [], requiredPhotos = [], fileIds = [], checkAndRadioIds = [];
 
         // Function to initialize map
         function initMap() {
@@ -122,12 +122,12 @@
             let fieldIds = [];
 
             data.forEach(function (el) {
-                let selector = el.label.toLowerCase().replaceAll(' ', '-');
-                let label = ['checkbox', 'radio', 'current_user', 'field_group'].includes(el.field_type) ? '' : '<label class="form-label" ' +
-                    'for="' + selector + '">' + el.label + (Boolean(parseInt(el.mandatory)) ? ' *' : '') + '</label>';
+                let selector = el.fieldlabel.toLowerCase().replaceAll(' ', '-');
+                let label = ['checkbox', 'radio', 'current_user', 'field_group'].includes(el.fieldtype) ? '' : '<label class="form-label" ' +
+                    'for="' + selector + '">' + el.fieldlabel + (Boolean(parseInt(el.required)) ? " *" : "") + '</label>';
                 let input = '';
 
-                switch (el.field_type) {
+                switch (el.fieldtype) {
                     case 'text':
                         let type = 'text'
 
@@ -145,33 +145,34 @@
                         }
 
                         input = '<input class="form-control" type="' + type + '" ' +
-                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? "hidden " : "") +
+                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '" data-type="' + el.fieldtype + '"' +
+                            (Boolean(parseInt(el.required)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === "hidden") ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + '>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
                     case 'location':
                         input = '<input class="form-control" type="text" ' +
-                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '" data-location="' + true + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? "hidden " : "") +
+                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '" data-type="' + el.fieldtype + '" data-location="' + true + '"' +
+                            (Boolean(parseInt(el.required)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === "hidden") ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' readonly>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>' +
                             '<div class="loader text-center mt-2 d-none"><div class="spinner-border" role="status"></div></div>' +
-                            '<div class="close-button d-flex d-none justify-content-between align-items-center my-2"><span class="small">Duid de locatie van het nest aan op de kaart. De markering kan verplaatst worden.</span><button class="btn btn-danger" type="button">X</button></div>' +
+                            '<div class="close-button text-end my-2 d-none"><button class="btn btn-danger" type="button">X</button></div>' +
+
                             '<div id="googleMap" style="width:100%;height:400px;" class="d-none"></div>';
                         break;
                     case 'datetime':
                         input = '<input class="form-control" type="datetime-local" ' +
-                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ' ' + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? "hidden " : "") +
-                            (Boolean(parseInt(el.readonly)) ? "readonly " : "") + (Boolean(parseInt(el.autofill)) ?
+                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '" data-type="' + el.fieldtype + '"' +
+                            (Boolean(parseInt(el.required)) ? "required " : "") + ' ' + ((Boolean(parseInt(el.hidden)) || el.info === "hidden") ? "hidden " : "") +
+                            (Boolean(parseInt(el.readonly)) ? "readonly " : "") + (Boolean(el.autofill) ?
                                 'value="' + new Date().toISOString().split('T')[0] + 'T' + new Date().toLocaleTimeString('nl-NL') + '" ': "") + '>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
                     case 'date':
                         input = '<input class="form-control" type="date" ' +
-                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ' ' + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? " " : "") +
+                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '" data-type="' + el.fieldtype + '"' +
+                            (Boolean(parseInt(el.required)) ? "required " : "") + ' ' + ((Boolean(parseInt(el.hidden)) || el.info === "hidden") ? " " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + (Boolean(parseInt(el.autofill)) ?
                                 'value="' + new Date().toISOString().split('T')[0] + '" ': "") + '>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
@@ -180,69 +181,91 @@
                         fileIds.push(el.id);
 
                         input = '<input class="form-control" type="file" ' +
-                            'id="' + selector + '" name="' + selector + '" accept=".jpg,.jpeg,.png,.gif" data-image="true" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? " hidden " : "") +
+                            'id="' + selector + '" name="' + selector + '" accept=".jpg,.jpeg,.png,.gif" data-image="true" data-id="' + el.id + '" data-type="' + el.fieldtype + '"' +
+                            (Boolean(parseInt(el.required)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === "hidden") ? " hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + '>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
                     case 'textarea':
                         input = '<textarea class="form-control" ' +
-                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? " hidden " : "") +
+                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '" data-type="' + el.fieldtype + '"' +
+                            (Boolean(parseInt(el.required)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === "hidden") ? " hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + '></textarea>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
                     case 'select':
-                        let options = '';
+                        let options = '<option value="">Selecteer...</option>';
 
                         el.options.forEach(function (option) {
-                            options += '<option value="' + option.option_value + '">' + (option.option_text !== '' ? option.option_text : 'Selecteer...') + '</option>'
+                            options += '<option value="' + option.key + '">' + (option.value !== "" ? option.value : "Selecteer...") + '</option>'
                         })
 
                         input = '<select class="form-control" ' +
-                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? "hidden " : "") +
+                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '" data-type="' + el.fieldtype + '"' +
+                            (Boolean(parseInt(el.required)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === "hidden") ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + '>' +
                             options +
                             '</select>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
+                    case 'multiselect':
+                        let multiOptions = '';
+
+                        el.options.forEach(function (option) {
+                            multiOptions += '<option value="' + option.key + '">' + (option.value !== "" ? option.value : "Selecteer...") + '</option>'
+                        })
+
+                        input = '<select class="form-control" ' +
+                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '" data-type="' + el.fieldtype + '"' +
+                            (Boolean(parseInt(el.required)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === "hidden") ? "hidden " : "") +
+                            (Boolean(parseInt(el.readonly)) ? "readonly" : "") + (el.fieldtype === "multiselect" ? "multiple" : "") + '>' +
+                            multiOptions +
+                            '</select>' +
+                            '<div id="' + el.id + '" class="invalid-feedback"></div>';
+                        break;
                     case 'field_group':
-                        fieldIds[el.id] = el.options.map(el => parseInt(el['option_value']));
+                        fieldIds[el.id] = el.options.map(el => parseInt(el['value']));
 
                         input = '<fieldset id="fieldset_' + el.id + '" class="fieldset row"></fieldset>'
                         break;
                     case 'checkbox':
                         checkAndRadioIds.push(el.id);
 
-                        input = '<label><span class="d-block">'  + el.label + (Boolean(parseInt(el.mandatory)) ? ' *' : '') + '</span><input class="form-check-input ms-0 me-2" type="checkbox" ' +
-                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? "hidden " : "") +
+                        input = '<div><span class="d-block">'  + el.fieldlabel + (Boolean(parseInt(el.required)) ? " *" : "") + '</span>' +
+                            '<input class="form-check-input ms-0 me-2" type="checkbox" ' +
+                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '" data-type="' + el.fieldtype + '"' +
+                            (Boolean(parseInt(el.required)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === "hidden") ? "hidden " : "") +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' value="1">' +
                             '<label class="form-check-label" for="' + selector + '">' + el.info +
-                            '</label><div id="' + el.id + '" class="invalid-feedback"></div></label>';
+                            '</label><div id="' + el.id + '" class="invalid-feedback"></div></div>';
                         break;
                     case 'radio':
+                        let radioOptions = '';
+
                         checkAndRadioIds.push(el.id);
 
-                        input = '<label><span class="d-block">'  + el.label + (Boolean(parseInt(el.mandatory)) ? ' *' : '') + '</span><input class="form-check-input ms-0 me-2" type="radio" ' +
-                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === 'hidden') ? "hidden " : "") +
-                            (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' value="1">' +
-                            '<label class="form-check-label" for="' + selector + '">' + el.info +
-                            '</label><div id="' + el.id + '" class="invalid-feedback"></div></label>';
+                        el.options.forEach(function (option) {
+                            radioOptions += '<input class="form-check-input ms-0 me-2" type="radio" ' +
+                                'id="' + selector + '_' + option.key + '" name="' + selector + '" data-id="' + el.id + '" data-type="' + el.fieldtype + '"' +
+                                (Boolean(parseInt(el.required)) ? "required " : "") + ((Boolean(parseInt(el.hidden)) || el.info === "hidden") ? "hidden " : "") +
+                                (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' value="' + option.value + '">' +
+                                '<label class="form-check-label me-2 text-capitalize" for="' + selector + '_' + option.key + '">' + option.value + '</label>';
+                        })
+
+                        input = '<div><span class="d-block">'  + el.fieldlabel + (Boolean(parseInt(el.required)) ? " *" : "") + '</span>' + radioOptions +
+                            '<div id="' + el.id + '" class="invalid-feedback"></div></div>';
                         break;
                     case 'current_user':
                         input = '<input class="form-control" type="text" data-user="true"' +
-                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '"' +
-                            (Boolean(parseInt(el.mandatory)) ? "required " : "") + ' hidden value="vespawatch.be"' +
+                            'id="' + selector + '" name="' + selector + '" data-id="' + el.id + '" data-type="' + el.fieldtype + '"' +
+                            (Boolean(parseInt(el.required)) ? "required " : "") + ' hidden value="vespawatch.be"' +
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + '>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>';
                         break;
                 }
 
-                if (el.field_type !== 'field_group') {
-                    $('#nest-report-form').append('<div class="' + (el.field_type === 'current_user' || (el.hidden || el.info === 'hidden') ? 'd-none' : 'mb-3') + '">' +
+                if (el.fieldtype !== 'field_group') {
+                    $('#nest-report-form').append('<div class="' + (el.fieldtype === 'current_user' || (el.hidden || el.info === "hidden") ? 'd-none' : 'mb-3') + '">' +
                         label +
                         input +
                         '</div>')
@@ -278,18 +301,27 @@
             }
         }
 
-        // The two POST requests for creating a general and sub inspections in iAsset
         $.ajax({
-            url: apiUrl + 'custom-inspection-fields',
-            headers: {
-                'Authorization': apiToken,
-                'Api-Version': 1
-            },
-            data: {
-                'inspection_id': 7
-            },
+            url: 'https://vespawatch.iasset.nl/api.php?get-fields',
+            method: 'GET',
+            crossDomain: true,
+            contentType:'application/json',
             success: function (res) {
-                setFields(res.data)
+                let data = JSON.parse(res);
+
+                requiredFields = data.filter(e => {
+                    return e.required == 1 && e.fieldtype !== 'photo'
+                }).map(e => {
+                    return parseInt(e.id);
+                })
+
+                requiredPhotos = data.filter(e => {
+                    return e.required == 1 && e.fieldtype === 'photo'
+                }).map(e => {
+                    return parseInt(e.id);
+                })
+
+                setFields(data)
             }
         });
 
@@ -304,8 +336,9 @@
             $('.invalid-feedback').text('');
 
             serialisedData.forEach((field, index) => {
-                formData.append('data[' + index + '][field_id]', parseInt($('#' + field.name).attr('data-id')));
+                formData.append('data[' + index + '][id]', parseInt($('#' + field.name).attr('data-id')));
                 formData.append('data[' + index + '][value]', field.value);
+                formData.append('data[' + index + '][fieldtype]', $('[name="' + field.name + '"]').attr('data-type'));
                 formData.append('data[' + index + '][index]', '0');
 
                 lastIndex = index;
@@ -323,8 +356,9 @@
                             value: f[0].value,
                         })
 
-                        formData.append('data[' + lastIndex + '][field_id]', fieldId);
+                        formData.append('data[' + lastIndex + '][id]', fieldId);
                         formData.append('data[' + lastIndex + '][value]', f[0].files[0] ?? '');
+                        formData.append('data[' + lastIndex + '][fieldtype]', 'photo');
                         formData.append('data[' + lastIndex + '][index]', '0');
                     }
                 });
@@ -342,28 +376,24 @@
                             value: f[0].value,
                         })
 
-                        formData.append('data[' + lastIndex + '][field_id]', boxId);
-                        formData.append('data[' + lastIndex + '][value]', f.is(':checked') === true ? 1 : '');
+                        formData.append('data[' + lastIndex + '][id]', boxId);
+                        formData.append('data[' + lastIndex + '][value]', f.is(':checked') === true ? 1 : "");
+                        formData.append('data[' + lastIndex + '][fieldtype]',  f.attr('data-type'));
                         formData.append('data[' + lastIndex + '][index]', '0');
                     }
                 });
             }
 
-            formData.append('general_inspection', '6') // Hardcoded
-            formData.append('general_inspection_record', '20') // Hardcoded
-            formData.append('inspection_id', '7') // Hardcoded as this is the inspection ID in iAsset
-            formData.append('object_id', 'd29b4b63acc8a798ad120c60f711fff2') // Hardcoded as this is the inspection ID in iAsset
+            formData.append('requiredFields', requiredFields)
+            formData.append('requiredPhotos', requiredPhotos)
 
             $.ajax({
-                url: apiUrl + 'custom-inspections/data',
-                headers: {
-                    'Authorization': apiToken,
-                    'Api-Version': 1
-                },
+                url: 'https://vespawatch.iasset.nl/api.php?post-fields',
                 enctype: 'multipart/form-data',
                 method: 'POST',
                 processData: false,  // tell jQuery not to process the data
                 contentType: false,  // tell jQuery not to set contentType
+                crossDomain: true,
                 data: formData,
                 success: function (res, status) {
                     if (status === 'success') {
@@ -382,6 +412,8 @@
                             $('#' + serialisedData[keyStr.split('.value')[0]]['name']).addClass('is-invalid').siblings('.invalid-feedback').text('Uw e-mailadres is ongeldig.')
                         } else if (value[0].includes('Invalid phone')) {
                             $('#' + serialisedData[keyStr.split('.value')[0]]['name']).addClass('is-invalid').siblings('.invalid-feedback').text('Uw telefoonnummer is ongeldig.')
+                        } else if (value[0].includes('Invalid date')) {
+                            $('#' + serialisedData[keyStr.split('.value')[0]]['name']).addClass('is-invalid').siblings('.invalid-feedback').text('Kies een datum in het verleden.')
                         } else {
                             $('#' + serialisedData[keyStr.split('.value')[0]]['name']).addClass('is-invalid').siblings('.invalid-feedback').text('Dit veld is verplicht.')
                         }
