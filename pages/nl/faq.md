@@ -5,7 +5,7 @@ background:
 toc: true
 ---
 
-##Ik heb een wesp waargenomen, wat kan ik doen?
+## Ik heb een wesp waargenomen, wat kan ik doen?
 Momenteel worden meldingen van individuen Aziatische hoornaar opgevolgd via waarnemingen.be. De eerste keer moet je een account aanmaken (knop rechtsboven: Registreren) en daarna kun je waarnemingen invoeren via het menu 'Invoeren' (linksboven) en vervolgens 'Waarneming'.
 Meer info vind je hier: www.natuurpunt.be/pagina/hoe-voer-je-waarnemingen
 
