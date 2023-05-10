@@ -22,21 +22,21 @@ U kan wel waakzaam zijn voor mogelijke embryonesten in en rondom uw huis. Deze h
 
 
 ## Ik heb een nest waargenomen. Wat kan ik doen?
-Probeer om een goede foto te maken van het nest waar de wesp zelf ook op zichtbaar is. Verschillende soorten wespen bouwen hetzelfde type nestje, dit moment van het jaar. Hou wel steeds 5m afstand van een nest. Vervolgens kan u dit nest melden via [deze link](https://vespawatch.be/report-nest/).In geval van een hoogdringende bestrijding neemt u best meteen contact met een private bestrijder of de brandweer.
+Probeer om een duidelijke foto te maken van het nest waar de wesp ook op zichtbaar is. Verschillende soorten wespen bouwen hetzelfde type nestje, dit moment van het jaar. Houd wel steeds 5m afstand van een nest. Vervolgens kan u dit nest melden via [deze link](https://vespawatch.be/report-nest/).In geval van een hoogdringende bestrijding neemt u best meteen contact met een private bestrijder of de brandweer.
 
 ## Wat gebeurt er met mijn melding van een nest?
-We valideren uw melding. Dat kan enkele dagen duren. Contacteer daarom de brandweer bij acuut gevaar, bijvoorbeeld wanneer het nest zich nabij een woning of andere risicovolle plaats bevindt.We verwittigen u als het om een nest van Aziatische hoornaar gaat.
-In geval van een nest Aziatische hoornaar bezorgen wij u een overzicht van professionele verdelgers. U kan deze naar keuze contacteren, wij kennen momenteel niet automatisch een verdelger toe. 
+We valideren uw melding. Dat kan enkele dagen duren. Contacteer daarom de brandweer bij acuut gevaar, bijvoorbeeld wanneer het nest zich nabij een woning of andere risicovolle plaats bevindt. We verwittigen u als het om een nest van Aziatische hoornaar gaat.
+In geval van een nest Aziatische hoornaar bezorgen wij u een overzicht van professionele verdelgers. Deze hebben een gespecialiseerde opleiding gevolgd voor verdelging nesten Aziatische hoornaar. U kan deze naar keuze contacteren, wij kennen momenteel niet automatisch een verdelger toe. 
 
 ## Is het nuttig om koninginnen te vangen met selectieve vallen in het voorjaar?
 Het afvangen of doden van koninginnen Aziatische hoornaar raden wij af om te vermijden dat inheemse soorten ter verwarring worden gedood of als bijvangst in een val terechtkomen. U moet dus geen actie ondernemen.
-U kan wel waakzaam zijn voor mogelijke embryonesten in en rondom uw huis. Deze hebben een papieren schil en zijn zo groot als een ping-pong balletje. Indien u een embryonest vindt, mag u dit steeds bij ons melden. Bij voorkeur met een foto waar de wesp die het nest bouwde ook op zichtbaar is. Dit is nodig omdat verschillende soorten wespen vaak eenzelfde type embryonest bouwen, dit moment van het jaar.
+U kan wel waakzaam zijn voor mogelijke embryonesten in en rondom uw huis. Deze hebben een papieren schil en zijn zo groot als een ping-pong balletje. Indien u een embryonest vindt, mag u dit steeds bij ons [melden](https://vespawatch.be/report-nest/). Bij voorkeur met een foto waar de wesp die het nest bouwde ook op zichtbaar is. Dit is nodig omdat verschillende soorten wespen vaak eenzelfde type embryonest bouwen, dit moment van het jaar.
 
-## Voeren jullie bestrijding uit?
+## Voeren jullie bestrijding uit, en is deze gratis?
  Wij zijn een meldpunt voor monitoring van de Aziatische hoornaar maar coördineren zelf geen bestrijding. Bestrijding van nesten Aziatische hoornaar wordt momenteel niet vergoed door de overheid. Wij bezorgen melders van een nest Aziatische hoornaar wel steeds een lijst van erkende bestrijders Aziatische hoornaar in Vlaanderen, deze hebben een gespecialiseerde opleiding gevolgd om deze soort te bestrijden. In geval van een hoogdringende bestrijding neemt u best meteen contact met een private bestrijder of de brandweer.
 
 ## Ik heb een grote wesp gezien, is dit dan de Aziatische hoornaar?
-De Europese hoornaar is groter dan de Aziatische hoornaar. De verschillen tussen beide soorten worden [hier](https://vespawatch.be/identification/) verder uitgelegd. De Europese hoornaar is een inheemse en nuttige soort en raden wij aan om te laten leven indien er geen hinder is. 
+Nee, want de Europese hoornaar is zelfs groter dan de Aziatische hoornaar. De verschillen tussen beide soorten worden [hier](https://vespawatch.be/identification/) verder uitgelegd. De Europese hoornaar is een inheemse en nuttige soort en raden wij aan om te laten leven indien er geen hinder is. 
 
 ## Ik heb een nest van de Europese hoornaar waargenomen, wat kan ik doen?
 De Europese hoornaar is een inheemse, nuttige soort en raden wij aan om te laten leven indien er geen hinder is. Indien er acuut gevaar is contacteert u het beste een private bestrijder om het nest te verwijderen
