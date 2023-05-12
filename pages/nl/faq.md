@@ -75,7 +75,8 @@ Een selectieve val wordt
  - in het najaar aan een bijenkast om het aantal jagende hoornaren aan de kasten te verminderen. 
  
 Het plaatsen van selectieve vallen raden wij af 
- - om te vermijden dat inheemse soorten ter verwarring worden gedood of als bijvangst in een val terechtkomen  - omdat de effectiviteit van deze methode nog niet is bewezen op populatieniveau
+ - om te vermijden dat inheemse soorten ter verwarring worden gedood of als bijvangst in een val terechtkomen
+ - omdat de effectiviteit van deze methode nog niet is bewezen op populatieniveau
  - deze methode kan mogelijks meer kwaad dan goed doen voor onze biodiversiteit.
  
 Indien u toch een selectieve val plaatst is het belangrijk om deze steeds correct te gebruiken en andere gevangen soorten steeds tijdig vrij te laten. Plaats de val uit de zon en zorg ook dat de insecten niet kunnen verdrinken in de lokstof. Bijvoorbeeld door de lokstof op een spons aan te brengen in de val. 
