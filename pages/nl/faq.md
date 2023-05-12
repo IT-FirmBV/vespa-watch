@@ -8,7 +8,7 @@ toc: true
 ## Ik heb een nest waargenomen. Wat kan ik doen?
 Probeer om een duidelijke foto te maken van het nest waar de wesp ook op zichtbaar is. Verschillende soorten wespen bouwen hetzelfde type nestje, dit moment van het jaar. Houd wel steeds 5m afstand van een nest. Vervolgens kan u dit nest melden op vespawatch.be via [deze link](https://vespawatch.be/report-nest/). In geval van een hoogdringende bestrijding neemt u best meteen contact met een private bestrijder of de brandweer.
 
-## Ik heb een wesp waargenomen, wat kan ik doen?
+## Ik heb een wesp waargenomen. Wat kan ik doen?
 Momenteel worden meldingen van individuen Aziatische hoornaar opgevolgd via waarnemingen.be. De eerste keer moet je een account aanmaken (knop rechtsboven: Registreren) en daarna kun je waarnemingen invoeren via het menu 'Invoeren' (linksboven) en vervolgens 'Waarneming'.
 Meer info vind je [hier](www.natuurpunt.be/pagina/hoe-voer-je-waarnemingen).
 
