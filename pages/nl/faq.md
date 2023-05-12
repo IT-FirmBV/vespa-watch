@@ -17,9 +17,9 @@ Dat kan nu ook met de nieuwe app ObsIdentify. [Hier](https://www.natuurpunt.be/n
 
 Het afvangen of doden van koninginnen Aziatische hoornaar raden wij af om te vermijden dat inheemse soorten ter verwarring worden gedood of als bijvangst in een val terechtkomen. U moet dus geen verdere actie ondernemen. U kan wel waakzaam zijn voor mogelijke embryonesten in en rondom uw huis. Deze hebben een papieren schil en zijn zo groot als een ping-pong balletje. Indien u een embryonest vindt, mag u dit steeds bij ons [melden](/report-nest/). Bij voorkeur met een foto waar de wesp die het nest bouwde ook op zichtbaar is. Dit is nodig omdat verschillende soorten wespen vaak eenzelfde type embryonest bouwen, dit moment van het jaar.
 
-## Hoe ziet een nest Aziatische hoornaar er op dit moment van het jaar uit?
+## Hoe ziet een nest Aziatische hoornaar er in het voorjaar uit?
 
-Momenteel kan je 2 types nesten waarnemen.
+In het voorjaar kan je 2 types nesten waarnemen.
 
 Enerzijds kan je een nest waarnemen hoog in een boomtop. Dit is dan een overblijfsel van een nest van vorig jaar. Bestrijding is echter niet nodig want het nest is onbewoond en wordt het jaar nadien niet hergebruikt. Het is wel steeds nuttig om deze te blijven melden via [deze pagina](/report-nest/) omdat we jullie meldingen gebruiken voor monitoring van de soort.
 
