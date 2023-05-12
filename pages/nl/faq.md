@@ -18,7 +18,7 @@ Het afvangen of doden van koninginnen Aziatische hoornaar raden wij af om te ver
 U kan wel waakzaam zijn voor mogelijke embryonesten in en rondom uw huis. Deze hebben een papieren schil en zijn zo groot als een ping-pong balletje. Indien u een embryonest vindt, mag u dit steeds bij ons [melden](https://vespawatch.be/report-nest/). Bij voorkeur met een foto waar de wesp die het nest bouwde ook op zichtbaar is. Dit is nodig omdat verschillende soorten wespen vaak eenzelfde type embryonest bouwen, dit moment van het jaar.
 
 ## Ik heb een nest waargenomen. Wat kan ik doen?
-Probeer om een duidelijke foto te maken van het nest waar de wesp ook op zichtbaar is. Verschillende soorten wespen bouwen hetzelfde type nestje, dit moment van het jaar. Houd wel steeds 5m afstand van een nest. Vervolgens kan u dit nest melden via [deze link](https://vespawatch.be/report-nest/).In geval van een hoogdringende bestrijding neemt u best meteen contact met een private bestrijder of de brandweer.
+Probeer om een duidelijke foto te maken van het nest waar de wesp ook op zichtbaar is. Verschillende soorten wespen bouwen hetzelfde type nestje, dit moment van het jaar. Houd wel steeds 5m afstand van een nest. Vervolgens kan u dit nest melden via [deze link](https://vespawatch.be/report-nest/). In geval van een hoogdringende bestrijding neemt u best meteen contact met een private bestrijder of de brandweer.
 
 ## Hoe ziet een nest Aziatische hoornaar er op dit moment van het jaar uit?
 
