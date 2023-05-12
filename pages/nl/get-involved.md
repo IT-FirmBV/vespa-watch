@@ -26,6 +26,7 @@ Ben je een professionele wespenverdelger? Dan vind je meer info op [deze pagina]
 5. Volg je melding op om te bekijken of het gaat om een Aziatische hoornaar.
 
 ## Hoe zoek je nesten?
+
 Hoornaars zoeken voedsel binnen de 2000 meter rond hun nest. Ze vangen gemiddeld 2 prooien per uur. Zie je een hoornaar die voedsel zoekt? Dan is er een nest in de buurt. Met deze 6 tips kan je een nest vinden.
 
 ### Tip 1: Meld, meld, meld,...
