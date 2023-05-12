@@ -48,7 +48,7 @@ Nee, wij zijn een meldpunt voor monitoring van de Aziatische hoornaar maar coör
 
 Nee, bestrijding is niet gratis. Bestrijding van nesten Aziatische hoornaar wordt momenteel niet vergoed door de overheid.
 
-{:id="grote-west-gezien"}
+{:id="grote-wesp-gezien"}
 ## Ik heb een grote wesp gezien. Is dit de Aziatische hoornaar?
 
 Nee, want de Europese hoornaar is groter dan de Aziatische hoornaar. De verschillen tussen beide soorten worden [hier](/identification/) verder uitgelegd. De Europese hoornaar is een inheemse en nuttige soort en raden wij aan om te laten leven indien er geen hinder is. Laat bij twijfel over de soort, elke wesp steeds vrij! Zo voorkom je dat inheemse soorten die belangrijk zijn voor onze biodiversiteit onterecht worden gedood.
