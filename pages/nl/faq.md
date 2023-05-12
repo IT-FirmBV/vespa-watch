@@ -24,19 +24,19 @@ U kan wel waakzaam zijn voor mogelijke embryonesten in en rondom uw huis. Deze h
 
 Momenteel kan je 2 types nesten waarnemen.
 
-Enerzijds kan je een nest waarnemen hoog in een boomtop. Dit is dan een overblijfsel van een nest van vorig jaar. Bestrijding is echter niet nodig want het nest is onbewoond en wordt het jaar nadien niet herbebruikt. Het is wel steeds nuttig om deze te blijven melden via [deze pagina](https://vespawatch.be/report-nest/) omdat we jullie meldingen gebruiken voor monitoring van de soort. 
+Enerzijds kan je een nest waarnemen hoog in een boomtop. Dit is dan een overblijfsel van een nest van vorig jaar. Bestrijding is echter niet nodig want het nest is onbewoond en wordt het jaar nadien niet hergebruikt. Het is wel steeds nuttig om deze te blijven melden via [deze pagina](https://vespawatch.be/report-nest/) omdat we jullie meldingen gebruiken voor monitoring van de soort. 
 
-Anderzijds kan je momenteel embryonestjes terugvinden op een beschutte plaats laag tegen de grond (minder dan 4 meter). Deze hebben een papieren schil en hebben de grootte van een ping-pong balletje. Deze embryonesten worden gebouwd in de lente door een koningin. Je vindt dus maar 1 wesp in deze nesten. Er bevinden zich ook al enkele raten in deze nesten met larven. De volgende weken komen deze larven uit en zullen er naast de koningin ook werksters in het nest aanwezig zijn. Vanaf dan gaat de verdere uitbouw van het nest heel snel omdat de koningin nu hulp krijgt van de werksters. 
+Anderzijds kan je momenteel embryonestjes terugvinden op een beschutte plaats laag tegen de grond (minder dan 4 meter hoog). Deze hebben een papieren schil en hebben de grootte van een ping-pong balletje. Deze embryonesten worden gebouwd in de lente door een koningin. Er is dus maar 1 wesp aanwezig in deze nesten. Er bevinden zich ook al enkele raten in deze nesten met larven. De volgende weken komen deze larven uit en zullen er naast de koningin ook werksters in het nest aanwezig zijn. Vanaf dan gaat de verdere uitbouw van het nest heel snel omdat de koningin hulp krijgt van de werksters. 
 
 ## Wordt een nest van vorig jaar hergebruikt?
-Nee, een nest van vorig jaar wordt niet herbegruikt. Bestrijding is dus niet nodig. Het is wel steeds nuttig om deze te blijven melden via [deze pagina](https://vespawatch.be/report-nest/) omdat we jullie meldingen gebruiken voor monitoring van de soort. 
+Nee, een nest van vorig jaar wordt niet hergebruikt. Bestrijding is dus niet nodig. Het is wel steeds nuttig om deze te blijven melden via [deze pagina](https://vespawatch.be/report-nest/) omdat we jullie meldingen gebruiken voor monitoring van de soort. 
 
 ## Wat gebeurt er met mijn melding van een nest?
 We valideren uw melding. Dat kan enkele dagen duren. Contacteer daarom de brandweer bij acuut gevaar, bijvoorbeeld wanneer het nest zich nabij een woning of andere risicovolle plaats bevindt. We verwittigen u als het om een nest van Aziatische hoornaar gaat.
 In geval van een nest Aziatische hoornaar bezorgen wij u een overzicht van professionele verdelgers. Deze hebben een gespecialiseerde opleiding gevolgd voor verdelging nesten Aziatische hoornaar. U kan deze naar keuze contacteren, wij kennen momenteel niet automatisch een verdelger toe. 
 
 ## Voeren jullie bestrijding uit?
-Nee, wij zijn een meldpunt voor monitoring van de Aziatische hoornaar maar coördineren zelf geen bestrijding. Wij bezorgen melders van een nest Aziatische hoornaar wel steeds een lijst van erkende bestrijders Aziatische hoornaar in Vlaanderen, deze hebben een gespecialiseerde opleiding gevolgd om deze soort te bestrijden. In geval van een hoogdringende bestrijding neemt u best meteen contact met een private bestrijder of de brandweer.
+Nee, wij zijn een meldpunt voor monitoring van de Aziatische hoornaar maar coördineren momenteel zelf geen bestrijding. Wij bezorgen melders van een nest Aziatische hoornaar wel steeds een lijst van erkende bestrijders Aziatische hoornaar in Vlaanderen, deze hebben een gespecialiseerde opleiding gevolgd om deze soort te bestrijden. In geval van een hoogdringende bestrijding neemt u best meteen contact met een private bestrijder of de brandweer.
 
 ## Is bestrijding gratis?
 Nee, bestrijding is niet gratis. Bestrijding van nesten Aziatische hoornaar wordt momenteel niet vergoed door de overheid.
@@ -63,20 +63,22 @@ Het is nuttig om actief nesten op te sporen vanaf juni. Hoe je nesten opspoort w
 Hoe je nesten opspoort wordt [hier](https://vespawatch.be/get-involved/#hoe-zoek-je-nesten) uitgelegd.
 
 ## Is het nuttig om koninginnen te vangen met selectieve vallen in het voorjaar?
-Het afvangen of doden van koninginnen Aziatische hoornaar raden wij af om te vermijden dat inheemse soorten ter verwarring worden gedood of als bijvangst in een val terechtkomen. U moet dus geen actie ondernemen. U kan wel waakzaam zijn voor mogelijke embryonesten in en rondom uw huis. Deze hebben een papieren schil en zijn zo groot als een ping-pong balletje. Indien u een embryonest vindt, mag u dit steeds bij ons melden. Bij voorkeur met een foto waar de wesp die het nest bouwde ook op zichtbaar is. Dit is nodig omdat verschillende soorten wespen vaak eenzelfde type embryonest bouwen, dit moment van het jaar.
+Het afvangen of doden van koninginnen Aziatische hoornaar raden wij af om te vermijden dat inheemse soorten ter verwarring worden gedood of als bijvangst in een val terechtkomen. U moet dus geen actie ondernemen. U kan wel waakzaam zijn voor mogelijke embryonesten in en rondom uw huis. Deze hebben een papieren schil en zijn zo groot als een ping-pong balletje. Indien u een embryonest vindt, mag u dit steeds bij ons melden. Bij voorkeur met een foto waar de wesp ook op zichtbaar is. Dit is nodig omdat verschillende soorten wespen vaak eenzelfde type embryonest bouwen, dit moment van het jaar.
 
 ## Wat is het verschil tussen een lokpot en een selectieve val?
 In een gewone wespenval of aselectieve val verdrinken de insecten. Het plaatsen van dit type val raden we in alle omstandigheden af omdat je zo veel onschuldige insecten doodt die waardevol zijn voor de biodiversiteit.
 
 Een selectieve val heeft ook als doel om insecten te vangen maar heeft openingen en uitgangen van verschillende groottes. Zo kunnen insecten groter dan de Aziatische hoornaar normaal de val niet in en kunnen kleinere insecten de val normaal steeds uit.
+
 Een selectieve val wordt
  - in het voorjaar geplaatst, om koninginnen te vangen voor deze een nest kunnen bouwen 
  - in het najaar aan een bijenkast om het aantal jagende hoornaren aan de kasten te verminderen. 
  
-Het is belangrijk om selectieve vallen steeds correct te gebruiken en andere gevangen soorten steeds vrij te laten. Plaats de val uit de zon en zorg ook dat de insecten niet kunnen verdrinken in de lokstof. Bijvoorbeeld door de lokstof op een spons aan te brengen en deze in de val te plaatsen. 
 Het plaatsen van selectieve vallen raden wij af 
- - om te vermijden dat inheemse soorten ter verwarring worden gedood of als bijvangst in een val terechtkomen  - omdat de effectiviteit van deze methode nog niet is bewezen 
+ - om te vermijden dat inheemse soorten ter verwarring worden gedood of als bijvangst in een val terechtkomen  - omdat de effectiviteit van deze methode nog niet is bewezen op populatieniveau
  - deze methode kan mogelijks meer kwaad dan goed doen voor onze biodiversiteit.
+ 
+Indien u toch een selectieve val plaatst is het belangrijk om deze steeds correct te gebruiken en andere gevangen soorten steeds tijdig vrij te laten. Plaats de val uit de zon en zorg ook dat de insecten niet kunnen verdrinken in de lokstof. Bijvoorbeeld door de lokstof op een spons aan te brengen in de val. 
 
-Wiekpotten laten alle insecten steeds in leven. Hoe je ze maakt wordt [hier](https://vespawatch.be/get-involved/#stap-1-maak-een-wiekpot-en-hang-hem-op) uitgelegd. Wij hangen de wiekpotten in de buurt van een vermoedelijk nest om deze op toe sporen. We controleren regelmatig of ze worden bezocht door hoornaars. Nadat we een hoornaar zien op de wiekpot, [merken](https://vespawatch.be/get-involved/#stap-2-merk-de-gevangen-hoornaar) we deze om [de vliegrichting en vliegtijd](https://vespawatch.be/get-involved/#stap-3-noteer-de-tijden-en-de-vliegrichting) te bepalen. Wanneer je deze [op kaart uittekent](https://vespawatch.be/get-involved/#stap-4-zet-de-vliegrichtingen-en-vliegtijden-op-een-kaart), kan je het zoekgebied naar het nest verkleinen. 
+Wiekpotten laten alle insecten steeds in leven. Hoe je ze maakt wordt [hier](https://vespawatch.be/get-involved/#stap-1-maak-een-wiekpot-en-hang-hem-op) uitgelegd. Wij hangen de wiekpotten in de buurt van een vermoedelijk nest om deze op toe sporen. We controleren regelmatig of ze worden bezocht door hoornaars. Nadat we een Aziatische hoornaar zien op de wiekpot, [merken](https://vespawatch.be/get-involved/#stap-2-merk-de-gevangen-hoornaar) we deze om [de vliegrichting en vliegtijd](https://vespawatch.be/get-involved/#stap-3-noteer-de-tijden-en-de-vliegrichting) te bepalen. Wanneer je deze [op kaart uittekent](https://vespawatch.be/get-involved/#stap-4-zet-de-vliegrichtingen-en-vliegtijden-op-een-kaart), kan je het zoekgebied naar het nest verkleinen. 
 
