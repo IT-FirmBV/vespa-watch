@@ -24,9 +24,9 @@ U kan wel waakzaam zijn voor mogelijke embryonesten in en rondom uw huis. Deze h
 
 Momenteel kan je 2 types nesten waarnemen.
 
-Enerzijds kan je een nest waarnemen hoog in een boomtop. Dit is dan een overblijfsel van een nest van vorig jaar. Bestrijding is echter niet nodig want het nest is onbewoond en wordt het jaar nadien niet herbebruikt. Het is wel steeds nuttig om deze te blijven melden via [deze pagina](https://vespawatch.be/report-nest/) omdat we de data gebruiken voor monitoring van de soort. 
+Enerzijds kan je een nest waarnemen hoog in een boomtop. Dit is dan een overblijfsel van een nest van vorig jaar. Bestrijding is echter niet nodig want het nest is onbewoond en wordt het jaar nadien niet herbebruikt. Het is wel steeds nuttig om deze te blijven melden via [deze pagina](https://vespawatch.be/report-nest/) omdat we jullie meldingen gebruiken voor monitoring van de soort. 
 
-Anderzijds kan je op een beschutte plaats laag tegen de grond momenteel embryonestjes terugvinden. Deze hebben een papieren schil en hebben de grootte van een ping-pong balletje. Dit nest is gebouwd door een koningin van de Aziatische hoornaar, de enige wesp in dit nest. Er bevinden al enkele raten in dit nest met larven. De volgende weken komen deze larven uit en zullen er naast de koningin ook werksters in het nest zijn. Vanaf dan gaat de verdere uitbouw van het nest heel snel omdat de koningin nu hulp krijgt van de werksters. 
+Anderzijds kan je momenteel embryonestjes terugvinden op een beschutte plaats laag tegen de grond (minder dan 4 meter). Deze hebben een papieren schil en hebben de grootte van een ping-pong balletje. Deze embryonesten worden gebouwd in de lente door een koningin. Je vindt dus maar 1 wesp in deze nesten. Er bevinden zich ook al enkele raten in dit nest met larven. De volgende weken komen deze larven uit en zullen er naast de koningin ook werksters in het nest aanwezig zijn. Vanaf dan gaat de verdere uitbouw van het nest heel snel omdat de koningin nu hulp krijgt van de werksters. 
 
 ## Wordt een nest van vorig jaar hergebruikt?
 Nee, een nest van vorig jaar wordt niet herbegruikt. Bestrijding is dus niet nodig. Het is wel steeds nuttig om deze te blijven melden via [deze pagina](https://vespawatch.be/report-nest/) omdat we de data gebruiken voor monitoring van de soort. 
