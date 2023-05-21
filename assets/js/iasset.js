@@ -66,13 +66,13 @@
 
                                     incr++;
                                 }
+
+                                google.maps.event.addListener(marker, 'dragend', function (marker) {
+                                    pos = marker.latLng;
+
+                                    $('#' + selector).attr('value', 'POINT(' + pos.lat() + ' ' + pos.lng() + ')');
+                                });
                             }, 5000)
-
-                            google.maps.event.addListener(marker, 'dragend', function (marker) {
-                                pos = marker.latLng;
-
-                                $('#' + selector).attr('value', 'POINT(' + pos.lat() + ' ' + pos.lng() + ')');
-                            });
                         }, () => {
                             let pos = {
                                 lat: 50.8,
