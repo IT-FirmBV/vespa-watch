@@ -13,11 +13,11 @@ Probeer om een duidelijke foto te maken van het nest waar de wesp ook op zichtba
 {:id="wesp-gezien"}
 ## Ik heb een wesp waargenomen. Wat kan ik doen?
 
-Momenteel worden meldingen van individuen Aziatische hoornaar opgevolgd via waarnemingen.be. De eerste keer moet je een account aanmaken (knop rechtsboven: Registreren) en daarna kun je waarnemingen invoeren via het menu 'Invoeren' (linksboven) en vervolgens 'Waarneming'. Meer info vind je [hier](www.natuurpunt.be/pagina/hoe-voer-je-waarnemingen).
+Momenteel worden meldingen van individuen Aziatische hoornaar opgevolgd via waarnemingen.be. Dit kan registratieloos via [deze link](https://waarnemingen.be/go/vespa-velutina/?).
 
-Dat kan nu ook met de nieuwe app ObsIdentify. [Hier](https://www.natuurpunt.be/nieuws/vernieuwde-obsidentify-herkent-en-daagt-je-uit-20210512) vind je meer informatie en de link naar de app. Ga naar de app-store en download de vernieuwde [ObsIdentify-app](https://waarnemingen.be/apps/obsidentify/install/). In deze webinar wordt stap voor stap uitgelegd hoe je met de app aan de slag gaat.
+Melden kan ook via de app ObsIdentify. [Hier](https://www.natuurpunt.be/nieuws/vernieuwde-obsidentify-herkent-en-daagt-je-uit-20210512) vind je meer informatie en de link naar de app. Ga naar de app-store en download de vernieuwde [ObsIdentify-app](https://waarnemingen.be/apps/obsidentify/install/). In deze webinar wordt stap voor stap uitgelegd hoe je met de app aan de slag gaat.
 
-Het afvangen of doden van koninginnen Aziatische hoornaar raden wij af om te vermijden dat inheemse soorten ter verwarring worden gedood of als bijvangst in een val terechtkomen. U moet dus geen verdere actie ondernemen. U kan wel waakzaam zijn voor mogelijke embryonesten in en rondom uw huis. Deze hebben een papieren schil en zijn zo groot als een ping-pong balletje. Indien u een embryonest vindt, mag u dit steeds bij ons [melden](/report-nest/). Bij voorkeur met een foto waar de wesp die het nest bouwde ook op zichtbaar is. Dit is nodig omdat verschillende soorten wespen vaak eenzelfde type embryonest bouwen, dit moment van het jaar.
+Het afvangen of doden van koninginnen Aziatische hoornaar raden wij af om te vermijden dat inheemse soorten ter verwarring worden gedood of als bijvangst in een val terechtkomen. U moet dus geen verdere actie ondernemen. U kan wel waakzaam zijn voor mogelijke primaire nesten in en rondom uw huis. Deze hebben een papieren schil en zijn zo groot als een tennis- of volleybal. Indien u een embryonest vindt, mag u dit steeds bij ons [melden](/report-nest-form/). Bij voorkeur met een foto waar de wesp die het nest bouwde ook op zichtbaar is. Dit is nodig omdat verschillende soorten wespen vaak eenzelfde type embryonest bouwen, dit moment van het jaar.
 
 {:id="nest-voorjaar"}
 ## Hoe ziet een nest Aziatische hoornaar er in het voorjaar uit?
@@ -26,12 +26,16 @@ In het voorjaar kan je 2 types nesten waarnemen.
 
 Enerzijds kan je een nest waarnemen hoog in een boomtop. Dit is dan een overblijfsel van een nest van vorig jaar. Bestrijding is echter niet nodig want het nest is onbewoond en wordt het jaar nadien niet hergebruikt. Het is wel steeds nuttig om deze te blijven melden via [deze pagina](/report-nest/) omdat we jullie meldingen gebruiken voor monitoring van de soort.
 
-Anderzijds kan je momenteel embryonestjes terugvinden op een beschutte plaats laag tegen de grond (minder dan 4 meter hoog). Deze hebben een papieren schil en hebben de grootte van een ping-pong balletje. Deze embryonesten worden gebouwd in de lente door een koningin. Er is dus maar 1 wesp aanwezig in deze nesten. Er bevinden zich ook al enkele raten in deze nesten met larven. De volgende weken komen deze larven uit en zullen er naast de koningin ook werksters in het nest aanwezig zijn. Vanaf dan gaat de verdere uitbouw van het nest heel snel omdat de koningin hulp krijgt van de werksters.
+Anderzijds kan je in het voorjaar embryonestjes terugvinden op een beschutte plaats laag tegen de grond (minder dan 4 meter hoog). Deze hebben een papieren schil en hebben de grootte van een ping-pong balletje. Deze embryonesten worden gebouwd in de lente door een koningin. Er is dus maar 1 wesp aanwezig in deze nesten. Er bevinden zich ook al enkele raten in deze nesten met larven.
+
+## Hoe ziet een nest Aziatische hoornaar er in de zomer uit?
+
+Momenteel komen de eerste larven uit en zullen er naast de koningin ook werksters in het nest aanwezig zijn. Vanaf nu gaat de verdere uitbouw van het nest heel snel omdat de koningin hulp krijgt van de werksters. We spreken dan van een primair nest.
 
 {:id="nest-hergebruikt"}
 ## Wordt een nest van vorig jaar hergebruikt?
 
-Nee, een nest van vorig jaar wordt niet hergebruikt. Bestrijding is dus niet nodig. Het is wel steeds nuttig om deze te blijven melden via [deze pagina](/report-nest/) omdat we jullie meldingen gebruiken voor monitoring van de soort.
+Nee, een nest van vorig jaar wordt niet hergebruikt. Bestrijding is dus niet nodig. Het is wel steeds nuttig om deze te blijven melden via [deze pagina](/report-nest-form/) omdat we jullie meldingen gebruiken voor monitoring van de soort.
 
 {:id="mijn-melding"}
 ## Wat gebeurt er met mijn melding van een nest?
