@@ -31,6 +31,10 @@ De Aziatische hoornaar (_Vespa velutina_) is een wespensoort uit zuidoost China.
 
 Zie [herkenning](/identification/).
 
+## Waar is de Aziatische hoornaar waargenomen dit jaar?
+
+Bekijk een overzicht van actieve haarden en alle observaties het huidige seizoen via [deze link](https://iasspeciesdashboard.shinyapps.io/VespaWatch_app/).
+
 <div class="ratio ratio-16x9">
   <iframe frameborder="0" src="https://player.vimeo.com/video/730964068?h=3f1ee4ca53" allowfullscreen></iframe>
 </div>
