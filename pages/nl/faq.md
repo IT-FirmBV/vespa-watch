@@ -17,7 +17,7 @@ Momenteel worden meldingen van individuen Aziatische hoornaar opgevolgd via waar
 
 Melden kan ook via de app ObsIdentify. [Hier](https://www.natuurpunt.be/nieuws/vernieuwde-obsidentify-herkent-en-daagt-je-uit-20210512) vind je meer informatie en de link naar de app. Ga naar de app-store en download de vernieuwde [ObsIdentify-app](https://waarnemingen.be/apps/obsidentify/install/). In deze webinar wordt stap voor stap uitgelegd hoe je met de app aan de slag gaat.
 
-Het afvangen of doden van koninginnen Aziatische hoornaar raden wij af om te vermijden dat inheemse soorten ter verwarring worden gedood of als bijvangst in een val terechtkomen. U moet dus geen verdere actie ondernemen. U kan wel waakzaam zijn voor mogelijke primaire nesten in en rondom uw huis. Deze hebben een papieren schil en zijn zo groot als een tennis- of volleybal. Indien u een embryonest vindt, mag u dit steeds bij ons [melden](/report-nest-form/). Bij voorkeur met een foto waar de wesp die het nest bouwde ook op zichtbaar is. Dit is nodig omdat verschillende soorten wespen vaak eenzelfde type embryonest bouwen, dit moment van het jaar.
+Het afvangen of doden van koninginnen Aziatische hoornaar raden wij af om te vermijden dat inheemse soorten ter verwarring worden gedood of als bijvangst in een val terechtkomen. U moet dus geen verdere actie ondernemen. U kan wel waakzaam zijn voor mogelijke primaire nesten in en rondom uw huis. Deze hebben een papieren schil en zijn zo groot als een tennis- of volleybal. Indien u een embryonest vindt, mag u dit steeds bij ons [melden](/report-nest/). Bij voorkeur met een foto waar de wesp die het nest bouwde ook op zichtbaar is. Dit is nodig omdat verschillende soorten wespen vaak eenzelfde type embryonest bouwen, dit moment van het jaar.
 
 {:id="nest-voorjaar"}
 ## Hoe ziet een nest Aziatische hoornaar er in het voorjaar uit?
@@ -35,7 +35,7 @@ Momenteel komen de eerste larven uit en zullen er naast de koningin ook werkster
 {:id="nest-hergebruikt"}
 ## Wordt een nest van vorig jaar hergebruikt?
 
-Nee, een nest van vorig jaar wordt niet hergebruikt. Bestrijding is dus niet nodig. Het is wel steeds nuttig om deze te blijven melden via [deze pagina](/report-nest-form/) omdat we jullie meldingen gebruiken voor monitoring van de soort.
+Nee, een nest van vorig jaar wordt niet hergebruikt. Bestrijding is dus niet nodig. Het is wel steeds nuttig om deze te blijven melden via [deze pagina](/report-nest/) omdat we jullie meldingen gebruiken voor monitoring van de soort.
 
 {:id="mijn-melding"}
 ## Wat gebeurt er met mijn melding van een nest?

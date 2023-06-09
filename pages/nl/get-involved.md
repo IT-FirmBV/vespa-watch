@@ -8,7 +8,7 @@ toc: true
 Ook jij kan meewerken om de Aziatische hoornaar in kaart te brengen. Dat doe je zo:
 
 - Leer de Aziatische hoornaar te [herkennen](/identification/).
-- Geef door dat je [de wesp](https://waarnemingen.be/go/vespa-velutina/) of [een nest](/report-nest-form/) zag.
+- Geef door dat je [de wesp](https://waarnemingen.be/go/vespa-velutina/) of [een nest](/report-nest/) zag.
 - Lok hoornaars met plaatsen van wiekpotten. 
 - Zoek nesten.
 - Word lid van de  groep [Vespawatchers](https://www.facebook.com/groups/474218836579263/) op Facebook.

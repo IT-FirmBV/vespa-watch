@@ -5,7 +5,7 @@ background:
 toc: false
 ---
 
-Op dit moment van het jaar ontwaken koninginnen en starten zij met de bouw van een embryonaal nest. Dit is een klein nest ter grootte van een ping-pong balletje op een beschutte plaats.
+Momenteel worden de eerste primaire nesten van de Aziatische hoornaar waargenomen. Een primair nest komt laag tegen de grond voor en bevat meerdere hoornaren. Probeer nooit zelf een primair nest Aziatische hoornaar te bestrijden maar contacteer hiervoor steeds een professioneel erkend bestrijder! 
 
 ## Wat gebeurt er met mijn melding?
 
@@ -16,12 +16,5 @@ Op dit moment van het jaar ontwaken koninginnen en starten zij met de bouw van e
 
 ## Meld een nest
 
-Meld een nest bij <vespawatch@inbo.be> met volgende informatie:
+Meld een nest via dit [formulier](/report-nest-form/){:.btn .btn-primary}.
 
-- Coördinaten of adres waar het nest zich bevindt
-- Tijdstip van observatie
-- Foto van het nest
-- Uw naam en telefoonnummer
-
-{:.alert .alert-warning}
-Een eenvoudiger meldingsformulier is in ontwikkeling ter voorbereiding van het volgende veldseizoen.
