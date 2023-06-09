@@ -9,17 +9,17 @@ Momenteel worden primaire nesten van de Aziatische hoornaar waargenomen. Een pri
 
 ## Wat gebeurt er met mijn melding?
 
-- We valideren uw melding. Dat kan enkele dagen duren.
+- We valideren je melding. Dat kan enkele dagen duren.
 - **Contacteer daarom de brandweer bij acuut gevaar**, bijvoorbeeld wanneer het nest zich nabij een woning of andere risicovolle plaats bevindt.
-- We verwittigen u als het om een nest van Aziatische hoornaar gaat.
-- We sturen u ook een overzicht van professionele verdelgers gespecialiseerd in de soort. U kan deze naar keuze contacteren, wij kennen momenteel niet automatisch een verdelger toe.
+- We verwittigen je als het om een nest van Aziatische hoornaar gaat.
+- We sturen je ook een overzicht van professionele verdelgers gespecialiseerd in de soort. Je kan deze naar keuze contacteren, wij kennen momenteel niet automatisch een verdelger toe.
 - Bestrijding van nesten Aziatische hoornaar wordt momenteel niet vergoed door de overheid.
 - Een gecoördineerde bestrijding voor Aziatische hoornaar is in voorbereiding.
 
 ## Meld een nest
 
 {: .alert .alert-info}
-Belangrijk is dat u een foto inzendt waarop de wesp goed zichtbaar is. Verschillende soorten wespen bouwen eenzelfde type nest dit moment van het jaar. Een duidelijke foto van de wesp is nodig om de soort te bepalen.
+Belangrijk is dat je een foto inzendt waarop de wesp goed zichtbaar is. Verschillende soorten wespen bouwen eenzelfde type nest dit moment van het jaar. Een duidelijke foto van de wesp is nodig om de soort te bepalen.
 
 <form action="" method="POST" id="nest-report-form" class="needs-validation" enctype="multipart/form-data" novalidate></form>
 
