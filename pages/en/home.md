@@ -22,10 +22,27 @@ The Asian hornet (_Vespa velutina_) is a wasp species from Southeast China. Sinc
 - The species did not originally occur here, but is now rapidly increasing in number and spreading throughout Flanders.
 - It attacks honey bees and other native insects that pollinate our flowers and plants.
 
-<div class="ratio ratio-16x9">
-  <iframe frameborder="0" src="https://player.vimeo.com/video/730964068?h=3f1ee4ca53" allowfullscreen></iframe>
-</div>
+{:id="cyclus"}
+## What can you see throughout the year?
+
+![Cyclus](/assets/images/cyclus.png)
 
 ## How do I recognize an Asian hornet?
 
 See [identification](/en/identification/).
+
+## Where have Azian hornets been seen this year?
+
+[This map](https://iasspeciesdashboard.shinyapps.io/VespaWatch_app/) shows the hotspots and observations of the current season.
+
+## What to do when you got stung?
+
+See the advise of the [poison control center](https://www.antigifcentrum.be/natuur/dieren/steken-van-wespen-bijen-hommels-enaziatische-hoornaars).
+
+## More questions?
+
+See the [FAQ (Dutch)](/faq/).
+
+<div class="ratio ratio-16x9">
+  <iframe frameborder="0" src="https://player.vimeo.com/video/730964068?h=3f1ee4ca53" allowfullscreen></iframe>
+</div>
