@@ -13,9 +13,9 @@ Probeer om een duidelijke foto te maken van het nest waar de wesp ook op zichtba
 {:id="wesp-gezien"}
 ## Ik heb een wesp waargenomen. Wat kan ik doen?
 
-Momenteel worden meldingen van individuen Aziatische hoornaar opgevolgd via waarnemingen.be. Dit kan registratieloos via [deze link](https://waarnemingen.be/go/vespa-velutina/?).
+Momenteel worden meldingen van individuen Aziatische hoornaar opgevolgd via waarnemingen.be. Dit kan registratieloos via [deze link](https://waarnemingen.be/go/vespa-velutina/).
 
-Melden kan ook via de app ObsIdentify. [Hier](https://www.natuurpunt.be/nieuws/vernieuwde-obsidentify-herkent-en-daagt-je-uit-20210512) vind je meer informatie en de link naar de app. Ga naar de app-store en download de vernieuwde [ObsIdentify-app](https://waarnemingen.be/apps/obsidentify/install/). In deze webinar wordt stap voor stap uitgelegd hoe je met de app aan de slag gaat.
+Melden kan ook via de app ObsIdentify. [Hier](https://www.natuurpunt.be/nieuws/vernieuwde-obsidentify-herkent-en-daagt-je-uit-20210512) vind je meer informatie en de link naar de app. Ga naar de App Store en download de vernieuwde [ObsIdentify-app](https://waarnemingen.be/apps/obsidentify/install/). In deze webinar wordt stap voor stap uitgelegd hoe je met de app aan de slag gaat.
 
 Het afvangen of doden van koninginnen Aziatische hoornaar raden wij af om te vermijden dat inheemse soorten ter verwarring worden gedood of als bijvangst in een val terechtkomen. U moet dus geen verdere actie ondernemen. U kan wel waakzaam zijn voor mogelijke primaire nesten in en rondom uw huis. Deze hebben een papieren schil en zijn zo groot als een tennis- of volleybal. Indien u een embryonest vindt, mag u dit steeds bij ons [melden](/report-nest/). Bij voorkeur met een foto waar de wesp die het nest bouwde ook op zichtbaar is. Dit is nodig omdat verschillende soorten wespen vaak eenzelfde type embryonest bouwen, dit moment van het jaar.
 
@@ -28,6 +28,7 @@ Enerzijds kan je een nest waarnemen hoog in een boomtop. Dit is dan een overblij
 
 Anderzijds kan je in het voorjaar embryonestjes terugvinden op een beschutte plaats laag tegen de grond (minder dan 4 meter hoog). Deze hebben een papieren schil en hebben de grootte van een ping-pong balletje. Deze embryonesten worden gebouwd in de lente door een koningin. Er is dus maar 1 wesp aanwezig in deze nesten. Er bevinden zich ook al enkele raten in deze nesten met larven.
 
+{:id="nest-zomer"}
 ## Hoe ziet een nest Aziatische hoornaar er in de zomer uit?
 
 Momenteel komen de eerste larven uit en zullen er naast de koningin ook werksters in het nest aanwezig zijn. Vanaf nu gaat de verdere uitbouw van het nest heel snel omdat de koningin hulp krijgt van de werksters. We spreken dan van een primair nest.
