@@ -5,23 +5,23 @@ background:
 toc: false
 ---
 
-Op dit moment van het jaar ontwaken koninginnen en starten zij met de bouw van een embryonaal nest. Dit is een klein nest ter grootte van een ping-pong balletje op een beschutte plaats.
+Momenteel worden primaire nesten van de Aziatische hoornaar waargenomen. Een primair nest komt laag tegen de grond voor en bevat meerdere hoornaren. Probeer nooit zelf een primair nest Aziatische hoornaar te bestrijden, maar contacteer hiervoor steeds een professioneel erkend bestrijder!
 
 ## Wat gebeurt er met mijn melding?
 
 - We valideren uw melding. Dat kan enkele dagen duren.
 - **Contacteer daarom de brandweer bij acuut gevaar**, bijvoorbeeld wanneer het nest zich nabij een woning of andere risicovolle plaats bevindt.
 - We verwittigen u als het om een nest van Aziatische hoornaar gaat.
-- We sturen u ook een overzicht van professionele verdelgers gespecialiseerd in de soort. U kan deze naar keuze contacteren, wij kennen momenteel niet automatisch een verdelger toe. Een gecoördineerde bestrijding voor Aziatische hoornaar is in voorbereiding.
+- We sturen u ook een overzicht van professionele verdelgers gespecialiseerd in de soort. U kan deze naar keuze contacteren, wij kennen momenteel niet automatisch een verdelger toe.
+- Bestrijding van nesten Aziatische hoornaar wordt momenteel niet vergoed door de overheid.
+- Een gecoördineerde bestrijding voor Aziatische hoornaar is in voorbereiding.
 
 ## Meld een nest
 
-Meld een nest bij <vespawatch@inbo.be> met volgende informatie:
+{: .alert .alert-info}
+Belangrijk is dat u een foto inzendt waarop de wesp goed zichtbaar is. Verschillende soorten wespen bouwen eenzelfde type nest dit moment van het jaar. Een duidelijke foto van de wesp is nodig om de soort te bepalen.
 
-- Coördinaten of adres waar het nest zich bevindt
-- Tijdstip van observatie
-- Foto van het nest
-- Uw naam en telefoonnummer
+<form action="" method="POST" id="nest-report-form" class="needs-validation" enctype="multipart/form-data" novalidate></form>
 
-{:.alert .alert-warning}
-Een eenvoudiger meldingsformulier is in ontwikkeling ter voorbereiding van het volgende veldseizoen.
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&key=AIzaSyAC8CPgw0vcpkW8J6Etd3q0pn9cnmb1c7g"></script>
+<script src="/assets/js/iasset.js"></script>
