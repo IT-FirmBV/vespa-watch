@@ -5,7 +5,7 @@ background:
 toc: false
 ---
 
-Momenteel worden de eerste primaire nesten van de Aziatische hoornaar waargenomen. Een primair nest komt laag tegen de grond voor en bevat meerdere hoornaren. Probeer nooit zelf een primair nest Aziatische hoornaar te bestrijden maar contacteer hiervoor steeds een professioneel erkend bestrijder! 
+Momenteel worden primaire nesten van de Aziatische hoornaar waargenomen. Een primair nest komt laag tegen de grond voor en bevat meerdere hoornaren. Probeer nooit zelf een primair nest Aziatische hoornaar te bestrijden maar contacteer hiervoor steeds een professioneel erkend bestrijder! 
 
 ## Wat gebeurt er met mijn melding?
 
