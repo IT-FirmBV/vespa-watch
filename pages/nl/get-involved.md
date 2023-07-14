@@ -13,7 +13,7 @@ Ook jij kan meewerken om de Aziatische hoornaar in kaart te brengen. Dat doe je 
 - Zoek nesten.
 - Word lid van de  groep [Vespawatchers](https://www.facebook.com/groups/474218836579263/) op Facebook.
 
-Ben je een professionele wespenverdelger? Dan vind je meer info op [deze pagina](/professional-eradicators/).
+Ben je een professionele wespenverdelger? Dan vind je meer info op [deze pagina](/become-eradicator/).
 
 ## Denk je de wesp te hebben gezien?
 
