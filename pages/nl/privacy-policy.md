@@ -5,7 +5,7 @@ background:
 toc: true
 ---
 
-Dank voor je interesse in het Vespa-Watch project en voor je hulp bij het verzamelen van gegevens over Aziatische hoornaar. Op deze pagina leggen we uit hoe we omgaan met jouw (persoons)gegevens verzameld via deze website.
+Dank voor je interesse in het Vespa-Watch project en voor je hulp bij het verzamelen van gegevens over Aziatische hoornaar. Op deze pagina leggen we uit hoe we omgaan met je (persoons)gegevens verzameld via deze website.
 
 ## Wie beheert de Vespa-Watch website?
 
@@ -21,4 +21,4 @@ Ter bescherming van het leefmilieu, voor wetenschappelijke doeleinden en in lijn
 
 ## Wat gebeurt er met mijn persoonsgegevens?
 
-De Vespa-Watch website vereist geen registratie om een melding te maken. Wel vragen wij uw contactgegevens (naam, telefoon, e-mail) bij het melden van een nest. Wij zullen deze persoonsgegevens enkel gebruiken om u te contacteren voor extra informatie in verband met uw melding of voor het bestrijden van een nest. Uw persoonsgegevens zijn enkel toegankelijk voor mensen betrokken bij het Vespa-Watch project, zoals onderzoekers of personen die nesten opsporen en verwijderen. Uw persoonsgegevens worden niet voor andere toepassingen gebruikt, niet gedeeld met derden buiten het project en niet getoond op de website.
+De Vespa-Watch website vereist geen registratie om een melding te maken. Wel vragen wij je contactgegevens (naam, telefoon, e-mail) bij het melden van een nest. Wij zullen deze persoonsgegevens enkel gebruiken om je te contacteren voor extra informatie in verband met je melding of voor het bestrijden van een nest. Je persoonsgegevens zijn enkel toegankelijk voor mensen betrokken bij het Vespa-Watch project, zoals onderzoekers of personen die nesten opsporen en verwijderen. Je persoonsgegevens worden niet voor andere toepassingen gebruikt, niet gedeeld met derden buiten het project en niet getoond op de website.
