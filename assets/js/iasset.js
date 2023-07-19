@@ -157,8 +157,7 @@
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' readonly>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>' +
                             '<div class="loader text-center mt-2 d-none"><div class="spinner-border" role="status"></div></div>' +
-                            '<div class="close-button text-end my-2 d-none"><button class="btn btn-danger" type="button">X</button></div>' +
-
+                            '<div class="close-button d-flex d-none justify-content-between align-items-center my-2"><span class="small">Duid de locatie van het nest aan op de kaart. De pin kan verplaatst worden.</span><button class="btn btn-danger" type="button">X</button></div>' +
                             '<div id="googleMap" style="width:100%;height:400px;" class="d-none"></div>';
                         break;
                     case 'datetime':
