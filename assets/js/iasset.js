@@ -396,9 +396,9 @@
                 data: formData,
                 success: function (res, status) {
                     if (status === 'success') {
-                        alert('U heeft het formulier succesvol verzonden!')
+                        alert('Bedankt voor je melding! Je krijgt een e-mail als deze is gevalideerd.')
 
-                        window.location.reload()
+                        window.location.href = "https://vespawatch.be/eradicators/";
                     }
                 },
                 error: function (err) {
