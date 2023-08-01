@@ -1,5 +1,5 @@
 province	name	telephone	email	region	max_height
-Oost-Vlaanderen	AM - Wespenverdelging	0473 52 96 36	andy.marien@telenet.be	Hamme, Dendermonde, Lokeren, Sint-Niklaas, Temse, Waasmunster	
+Oost-Vlaanderen	AM - Wespenverdelging	0473 52 96 36	andy.marien@telenet.be	Hamme, Dendermonde, Lokeren, Sint-Niklaas, Temse, Waasmunster	10
 Antwerpen	Antiwesp	0479 82 04 36	antiwesp@outlook.be	Berlaar, Heist-op-den-Berg, Lier, Nijlen, Putte	8
 West-Vlaanderen	Arbretout	0476 57 93 67	info@arbretout.be	Oostkamp, Ruddervoorde, Hertsberge, Beernem, Waardamme, Oedelem, St-Joris Beernem, Zwevezele, Loppem, Zedelgem, Wingene	7
 Antwerpen, Limburg, Oost-Vlaanderen, Vlaams-Brabant	BeeFast	0470 12 54 72	hoornaar@beefast.be	Provincie Antwerpen, Limburg, Vlaams Brabant, Oost-Vlaanderen	8
@@ -22,23 +22,23 @@ Oost-Vlaanderen	GCV Symarsoft	0498 97 70 69	serge.marist@hotmail.com	Oudenaarde,
 Vlaams-Brabant	Guy Tibo	016 82 64 01	guy.tibo@belgacom.net	Leuven, Diest, Sint-Truiden, Tienen	8
 Limburg	Het bijenkasteel	0494 71 21 96	hoornaar@hetbijenkasteel.be	Genk, Zutendaal, Lanaken, Bilzen.	8
 West-Vlaanderen	Heytens Brecht	0473 54 85 79	brechtheytens@hotmail.com	Tielt, Dentergem	32
-Vlaams-Brabant	Imkerij De Grauwe	0496 99 68 01	bart.degrauwe@gmail.com	Bekkevoort, Boutersem, Glabbeek, Haacht, Hoegaarden, Holsbeek, Kortenaken, Leuven, Lubbeek, Tielt-Wingene, Tienen, Zoutleeuw	
+Vlaams-Brabant	Imkerij De Grauwe	0496 99 68 01	bart.degrauwe@gmail.com	Bekkevoort, Boutersem, Glabbeek, Haacht, Hoegaarden, Holsbeek, Kortenaken, Leuven, Lubbeek, Tielt-Wingene, Tienen, Zoutleeuw	8
 Vlaams-Brabant, Limburg	Imkerij Torbeyns	0476 77 73 72	nicky.torbeyns@telenet.be	Diest, Scherpenheuvel-Zichem, Bekkevoort, Tielt-Wingene, Halen	8
 Antwerpen, Vlaams-Brabant	JL-Services	0474 18 31 48	jl-services@telenet.be	Boortmeerbeek, Kampenhout, Mechelen, Steenokkerzeel, Bonheiden, Duffel, Mechelen, Putte, Sint-Katelijne-Waver, Willebroek, Boom, Hemiksem, Niel, Rumst, Schelle	8
 West-Vlaanderen	Jochen Volders	0473 43 94 79	jochen.volders1@telenet.be	Aalter, Sijsele, Beernem, Maldegem, Deinze	9
 Antwerpen, Vlaams-Brabant	Karweiwerken Van Waeyenberghe	0486 51 69 37	pieter_van_waeyenberghe@hotmail.com	Mechelen, Zemst, Bonheiden, Keerbergen, Sint-Katelijne-Waver, Willebroek	8
 Vlaams-Brabant	Klusdienst Blanki	0477 29 88 18	filip.blancquaert@telenet.be	Kortenberg, Steenokkerzeel, Bertem, Herent, Kampenhout	8
 West-Vlaanderen	LIFO4Retail	0477 47 01 84	frederikroose@yahoo.com	Aalter, Sijsele, Beernem, Maldegem, Deinze	8
-Vlaams-Brabant	Mon Coeur de Miel	0495 20 00 89	olivier@moncoeurdemiel.be	zuiden van Vlaams Brabant, westen van Vlaams Brabant, regio Brussel, Waals-Brabant	
+Vlaams-Brabant	Mon Coeur de Miel	0495 20 00 89	olivier@moncoeurdemiel.be	zuiden van Vlaams Brabant, westen van Vlaams Brabant, regio Brussel, Waals-Brabant	8
 Antwerpen	NJ Projectsolutions & Services	0468 11 30 40	wespenexpert@telenet.be	Provincie Antwerpen met uitzondering van stad Antwerpen en Zwijndrecht	8
 Antwerpen	Patrick Van Ende	0486 51 39 60	patrick.van.ende@telenet.be	Provincie Antwerpen	32
 Vlaams-Brabant, Limburg	PT Technics	0478 80 09 97	info@pttechnics.be	Bekkevoort, Tielt-Wingene, Glabbeek, Kortenaken, Diest, Halen, Lubbeek, Holsbeek, Tienen, Scherpenheuvel-Zichem, Aarschot	8
-Oost-Vlaanderen, West-Vlaanderen	Ruben Devenyns, Virginie Dielens	0471 60 02 38	devenynsruben@gmail.com	Gent, Oudenaarde, Ronse, Kluisbergen, Wortegem, Brakel, Maarkedal,Zottegem, Zwalm, Horebeke, Tielt, Dentergem, Anzegem, Avelgem, Nazareth, Gavere, Oosterzele, Deinze, De pinte, Waregem, Sint-Martens-Latem, Zulte, Wielsbeke, Merelbeke	
+Oost-Vlaanderen, West-Vlaanderen	Ruben Devenyns, Virginie Dielens	0471 60 02 38	devenynsruben@gmail.com	Gent, Oudenaarde, Ronse, Kluisbergen, Wortegem, Brakel, Maarkedal,Zottegem, Zwalm, Horebeke, Tielt, Dentergem, Anzegem, Avelgem, Nazareth, Gavere, Oosterzele, Deinze, De pinte, Waregem, Sint-Martens-Latem, Zulte, Wielsbeke, Merelbeke	15
 West-Vlaanderen	SOS Wesp	0498 31 71 01	bart.candaele@telenet.be	Wevelgem, Menen, Wervik, Geluwe, Kortrijk, Lendelede, Kuurne, Harelbeke, Zwevegem	8
 Vlaams-Brabant	Tom Vrancken	0473 77 35 89	tomvrancken@hotmail.com	Vlaams-Brabant Oost	
 West-Vlaanderen	VD Driessche Hoornaarbestrijding	0477 49 38 06	vddriesschejeroen@gmail.com	Maldegem, Sint-Laureins, Eeklo, Aalter, Tielt, Damme, Torhout, Brugge met deelgemeenten, Oostkamp, Beernem	8
 Oost-Vlaanderen	Veluwesp	0498 28 82 12	frederik.potvin@gmail.com	Gavere, Zwalm, Dikkele, Merelbeke, Oudenaarde, Melle, Deinze, Nazareth, De Pinte, Zwijnaarde	15
-Antwerpen	DVB wespenverdelging	0486 99 88 94	vntuinwerken@gmail.com	Lier, Duffel, Sint-Katelijne-Waver, Mechelen, Rumst, Kontich, Hove, Lint, Edegem, Zemst, Machelen, Vilvoorde, Boechout	
+Antwerpen	DVB wespenverdelging	0486 99 88 94	vntuinwerken@gmail.com	Lier, Duffel, Sint-Katelijne-Waver, Mechelen, Rumst, Kontich, Hove, Lint, Edegem, Zemst, Machelen, Vilvoorde, Boechout	8
 Oost-Vlaanderen	Wase Wespenverdelging	0456 33 95 91	info@wasewespenverdelging.be	Beveren-Waas, Kruibeke, Sint-Gillis, Sint-Pauwels, Sint-Niklaas, Temse, Waasmunster, Stekene	8
 West-Vlaanderen	Waspaway	0496 03 15 42	info@waspaway.be	West-Vlaanderen	
 Antwerpen	WespBusters	0471 97 30 71	info@wespbusters.be	Schoten, Brecht, Schilde, Kalmthout, Wuustwezel, Kapellen, Brasschaat, Malle, Zoersel, Essen, Wijnegem en provincie Antwerpen voor AH.	8
