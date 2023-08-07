@@ -7,7 +7,7 @@ toc: false
 
 Momenteel worden er zomernesten van de Aziatische hoornaar waargenomen, zowel laag bij de grond als op hoge hoogte (tot op 30 meter of meer). Deze nesten kunnen in het najaar een grootte van 1 meter bereiken. Probeer nooit zelf een nest Aziatische hoornaar te bestrijden, maar contacteer hiervoor steeds een professioneel erkend bestrijder!
 
-**Contacteer de [brandweer](www.1722.be) of een privaat bestrijder bij acuut gevaar**, bijvoorbeeld wanneer het nest zich nabij een woning of andere risicovolle plaats bevindt.
+**Contacteer de [brandweer](https://1722.be/nl/index.html) of een privaat bestrijder bij acuut gevaar**, bijvoorbeeld wanneer het nest zich nabij een woning of andere risicovolle plaats bevindt.
 
 ## Wat gebeurt er met mijn melding?
 
