@@ -32,7 +32,7 @@ Anderzijds kan je in het voorjaar embryonestjes terugvinden op een beschutte pla
 {:id="nest-zomer"}
 ## Hoe ziet een nest Aziatische hoornaar er in de zomer uit?
 
-Nadat de eerste larven uitgekomen zijn,  zullen er naast de koningin ook werksters in het nest aanwezig zijn. Vanaf dan gaat de verdere uitbouw van het nest heel snel omdat de koningin hulp krijgt van de werksters. We spreken dan van **een primair nest**.
+Na het uitkomen van de eerste larven zijn er naast de koningin ook werksters in het nest aanwezig. Vanaf dan gaat de verdere uitbouw van het nest heel snel omdat de koningin hulp krijgt van de werksters. We spreken dan van **een primair nest**.
 
 Halfweg de zomer verhuist 70% van deze primaire nesten naar een nieuwe locatie, hoog in een boom (meer dan 10 meter). In dat geval spreken we van **een secundair nest**.
 
