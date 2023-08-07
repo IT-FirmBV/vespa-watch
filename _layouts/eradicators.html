@@ -25,6 +25,7 @@ layout: base
               <input type="text" id="search" class="form-control" onkeyup="searchColumn()" placeholder="Zoek op regio...">
             </span>
           </th>
+        <th>Maximale hoogte (m)</th>
         </tr>
       </thead>
       <tbody>
@@ -35,6 +36,7 @@ layout: base
             <td>{{ eradicator.telephone }}</td>
             <td>{{ eradicator.province }}</td>
             <td>{{ eradicator.region }}</td>
+            <td>{{ eradicator.max_height}}</td>
           </tr>
         {% endfor %}
       </tbody>
