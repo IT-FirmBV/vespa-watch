@@ -8,7 +8,7 @@ toc: true
 {:id="nest-gezien"}
 ## Ik heb een nest waargenomen. Wat kan ik doen?
 
-Momenteel worden zomernesten van de Aziatische hoornaar waargenomen, zowel laag bij de grond als op hoge hoogte (tot op 30 meter of meer). Deze nesten kunnen in het najaar een hoogte van 1 meter bereiken.
+Momenteel worden er zomernesten van de Aziatische hoornaar waargenomen, zowel laag bij de grond als op hoge hoogte (tot op 30 meter of meer). Deze nesten kunnen in het najaar een grootte van 1 meter bereiken.
 Indien het nest zich laag bij de grond bevindt, probeer om een duidelijke foto te maken van het nest waar de wesp ook op zichtbaar is. Verschillende soorten wespen bouwen hetzelfde type nest laag tegen de grond, dan is een foto van de wesp noodzakelijk voor validatie. Houd wel steeds 5 m afstand van een nest. Vervolgens kan je dit nest melden op vespawatch.be via [deze link](/report-nest/). In geval van een hoogdringende bestrijding neem je best meteen contact met een private bestrijder of de [brandweer](www.1722.be).
 
 {:id="wesp-gezien"}
