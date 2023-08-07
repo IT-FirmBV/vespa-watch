@@ -31,7 +31,7 @@ Uitzonderingen op deze algemene regel zijn:
 ## Meld een nest
 
 {: .alert .alert-info}
-Belangrijk is dat je een foto inzendt waarop de wesp goed zichtbaar is. Verschillende soorten wespen bouwen een nest op lage hoogte. Een duidelijke foto van de wesp is in dat geval nodig om de soort te bepalen.
+Belangrijk is dat je een foto inzendt waarop de wesp goed zichtbaar is. Verschillende soorten wespen bouwen een nest dichtbij de grond. Een duidelijke foto van de wesp is in dat geval nodig om de soort te bepalen.
 
 <form action="" method="POST" id="nest-report-form" class="needs-validation" enctype="multipart/form-data" novalidate></form>
 
