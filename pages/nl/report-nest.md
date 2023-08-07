@@ -18,7 +18,7 @@ Momenteel worden er zomernesten van de Aziatische hoornaar waargenomen, zowel la
 
 ## Is bestrijding gratis?
 
-Momenteel is er geen coördinatie bestrijding Aziatische hoornaar, er wordt dus niet automatisch een bestrijder voor een nest Aziatische hoornaar aangeduid. Bestrijdingkosten worden momenteel niet terugbetaald door de overheid. 
+Momenteel is er geen coördinatie bestrijding Aziatische hoornaar, we duiden dus niet automatisch een bestrijder aan voor een nest Aziatische hoornaar. De overheid betaalt momenteel geen bestrijdingskosten terug. 
 
 Uitzonderingen op deze algemene regel zijn:
 
