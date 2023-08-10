@@ -8,7 +8,8 @@ toc: true
 {:id="nest-gezien"}
 ## Ik heb een nest waargenomen. Wat kan ik doen?
 
-Probeer om een duidelijke foto te maken van het nest waar de wesp ook op zichtbaar is. Verschillende soorten wespen bouwen hetzelfde type nestje, dit moment van het jaar. Houd wel steeds 5m afstand van een nest. Vervolgens kan je dit nest melden op vespawatch.be via [deze link](/report-nest/). In geval van een hoogdringende bestrijding neem je best meteen contact met een private bestrijder of de brandweer.
+Momenteel worden er zomernesten van de Aziatische hoornaar waargenomen, zowel laag bij de grond als op hoge hoogte (tot op 30 meter of meer). Deze nesten kunnen in het najaar een grootte van 1 meter bereiken.
+Wanneer het nest zich laag bij de grond bevindt, probeer om een duidelijke foto te maken van het nest waar de wesp ook op zichtbaar is. Verschillende soorten wespen bouwen op elkaar lijkende nesten laag tegen de grond, dan is een foto van de wesp nodig voor validatie. Houd wel steeds 5 m afstand van een nest. Vervolgens kan je dit nest melden op vespawatch.be via [deze link](/report-nest/). In geval van een hoogdringende bestrijding neem je best meteen contact met een private bestrijder of de [brandweer](https://1722.be/nl/index.html).
 
 {:id="wesp-gezien"}
 ## Ik heb een wesp waargenomen. Wat kan ik doen?
@@ -31,7 +32,9 @@ Anderzijds kan je in het voorjaar embryonestjes terugvinden op een beschutte pla
 {:id="nest-zomer"}
 ## Hoe ziet een nest Aziatische hoornaar er in de zomer uit?
 
-Momenteel komen de eerste larven uit en zullen er naast de koningin ook werksters in het nest aanwezig zijn. Vanaf nu gaat de verdere uitbouw van het nest heel snel omdat de koningin hulp krijgt van de werksters. We spreken dan van een primair nest.
+Na het uitkomen van de eerste larven zijn er naast de koningin ook werksters in het nest aanwezig. Vanaf dan gaat de verdere uitbouw van het nest heel snel omdat de koningin hulp krijgt van de werksters. We spreken dan van **een primair nest**.
+
+Halfweg de zomer verhuist 70% van deze primaire nesten naar een nieuwe locatie, hoog in een boom (meer dan 10 meter). In dat geval spreken we van **een secundair nest**.
 
 {:id="nest-hergebruikt"}
 ## Wordt een nest van vorig jaar hergebruikt?
@@ -41,17 +44,28 @@ Nee, een nest van vorig jaar wordt niet hergebruikt. Bestrijding is dus niet nod
 {:id="mijn-melding"}
 ## Wat gebeurt er met mijn melding van een nest?
 
-We valideren je melding. Dat kan enkele dagen duren. Contacteer daarom de brandweer bij acuut gevaar, bijvoorbeeld wanneer het nest zich nabij een woning of andere risicovolle plaats bevindt. We verwittigen je als het om een nest van Aziatische hoornaar gaat. In geval van een nest Aziatische hoornaar bezorgen wij je een overzicht van professionele verdelgers. Deze hebben een gespecialiseerde opleiding gevolgd voor verdelging nesten Aziatische hoornaar. Je kan deze naar keuze contacteren, wij kennen momenteel niet automatisch een verdelger toe.
+Je krijgt meteen na melding een overzicht van erkende bestrijders Aziatische hoornaar in Vlaanderen. We valideren je melding. Dat kan enkele dagen duren. We verwittigen je als het om een nest van Aziatische hoornaar gaat.
 
 {:id="bestrijding"}
 ## Voeren jullie bestrijding uit?
 
-Nee, wij zijn een meldpunt voor monitoring van de Aziatische hoornaar maar coördineren momenteel zelf geen bestrijding. Wij bezorgen melders van een nest Aziatische hoornaar wel steeds een lijst van erkende bestrijders Aziatische hoornaar in Vlaanderen, deze hebben een gespecialiseerde opleiding gevolgd om deze soort te bestrijden. In geval van een hoogdringende bestrijding neem je best meteen contact met een private bestrijder of de brandweer.
+Nee, wij zijn een meldpunt voor monitoring van de Aziatische hoornaar maar coördineren momenteel zelf geen bestrijding. Na melding krijg je steeds een lijst van erkende bestrijders Aziatische hoornaar in Vlaanderen, deze hebben een gespecialiseerde opleiding gevolgd om deze soort te bestrijden. In geval van een hoogdringende bestrijding neem je best meteen contact met een private bestrijder of de brandweer.
+
+Uitzonderingen op deze algemene regel is:
+
+- In West-Vlaanderen (behalve in Harelbeke, Langemark-Poelkapelle, Lo-Reninge, Mesen, Middelkerke, Roeselare en Poperinge) worden sinds 1 augustus 2023 alle nesten kosteloos verwijderd. Indien je hiervan wil gebruik maken hoef je na jouw melding bij vespawatch.be niets te doen. In geval van een onduidelijke foto voor validatie zal je worden gecontacteerd om een duidelijkere foto te bezorgen. Gevalideerde nesten in deze regio’s worden aan de respectievelijke verdelger doorgegeven. Wees je wel bewust dat hier een zekere wachttijd aan verbonden is. Indien je een nest snel wil laten verwijderen, kan je op eigen kosten zelf contact opnemen met een professionele verdelger. 
 
 {:id="bestrijding-kost"}
 ## Is bestrijding gratis?
 
 Nee, bestrijding is niet gratis. Bestrijding van nesten Aziatische hoornaar wordt momenteel niet vergoed door de overheid.
+
+Uitzonderingen op deze algemene regel zijn:
+
+- In West-Vlaanderen (behalve in Harelbeke, Langemark-Poelkapelle, Lo-Reninge, Mesen, Middelkerke, Roeselare en Poperinge) worden sinds 1 augustus 2023 alle nesten kosteloos verwijderd. Indien je hiervan wil gebruik maken hoef je na jouw melding bij vespawatch.be niets te doen. In geval van een onduidelijke foto voor validatie zal je worden gecontacteerd om een duidelijkere foto te bezorgen. Gevalideerde nesten in deze regio’s worden aan de respectievelijke verdelger doorgegeven. Wees je wel bewust dat hier een zekere wachttijd aan verbonden is. Indien je een nest snel wil laten verwijderen, kan je op eigen kosten zelf contact opnemen met een professionele verdelger. 
+
+
+- In Vlaams-Brabant hebben de volgende gemeenten een specifieke werking: [Begijnendijk](https://www.begijnendijk.be/subsidie-voor-neutralisatie-aziatische-hoornaar), [Tremelo](https://www.tremelo.be/product/3399/subsidie-bestrijding-aziatische-hoornaar), [Keerbergen](https://www.keerbergen.be/subsidie-bestrijding-aziatische-hoornaar), en [Boortmeerbeek](https://www.boortmeerbeek.be/subsidie-bestrijding-aziatische-hoornaar-2). Meer info vind je terug op de website van deze gemeenten.
 
 {:id="grote-wesp-gezien"}
 ## Ik heb een grote wesp gezien. Is dit de Aziatische hoornaar?
