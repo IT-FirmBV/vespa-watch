@@ -53,7 +53,7 @@ Nee, wij zijn een meldpunt voor monitoring van de Aziatische hoornaar maar coör
 
 Uitzonderingen op deze algemene regel is:
 
-- In West-Vlaanderen (behalve in Harelbeke, Langemark-Poelkapelle, Lo-Reninge, Mesen, Middelkerke, Roeselare en Poperinge) worden sinds 1 augustus 2023 alle nesten kosteloos verwijderd. Indien je hiervan wil gebruik maken hoef je na jouw melding bij vespawatch.be niets te doen. In geval van een onduidelijke foto voor validatie zal je worden gecontacteerd om een duidelijkere foto te bezorgen. Gevalideerde nesten in deze regio’s worden aan de respectievelijke verdelger doorgegeven. Wees je wel bewust dat hier een zekere wachttijd aan verbonden is. Indien je een nest snel wil laten verwijderen, kan je op eigen kosten zelf contact opnemen met een professionele verdelger. 
+- In West-Vlaanderen (behalve in Langemark-Poelkapelle, Lo-Reninge, Mesen, Middelkerke, Roeselare en Poperinge) worden sinds 1 augustus 2023 alle nesten kosteloos verwijderd. Indien je hiervan wil gebruik maken hoef je na jouw melding bij vespawatch.be niets te doen. In geval van een onduidelijke foto voor validatie zal je worden gecontacteerd om een duidelijkere foto te bezorgen. Gevalideerde nesten in deze regio’s worden aan de respectievelijke verdelger doorgegeven. Wees je wel bewust dat hier een zekere wachttijd aan verbonden is. Indien je een nest snel wil laten verwijderen, kan je op eigen kosten zelf contact opnemen met een professionele verdelger. 
 
 {:id="bestrijding-kost"}
 ## Is bestrijding gratis?
