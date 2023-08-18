@@ -2,7 +2,7 @@
 title: Meld een nest
 description:
 background:
-toc: false
+toc: true
 ---
 
 Momenteel worden er zomernesten van de Aziatische hoornaar waargenomen, zowel laag bij de grond als op hoge hoogte (tot op 30 meter of meer). Deze nesten kunnen in het najaar een grootte van 1 meter bereiken. Probeer nooit zelf een nest Aziatische hoornaar te bestrijden, maar contacteer hiervoor steeds een professioneel erkend bestrijder!
@@ -15,18 +15,15 @@ Momenteel worden er zomernesten van de Aziatische hoornaar waargenomen, zowel la
 - We valideren je melding. Dat kan enkele dagen duren.
 - We verwittigen je als het om een nest van Aziatische hoornaar gaat.
 
-
 ## Is bestrijding gratis?
 
 Momenteel is er geen coördinatie bestrijding Aziatische hoornaar, we duiden dus niet automatisch een bestrijder aan voor een nest Aziatische hoornaar. De overheid betaalt momenteel geen bestrijdingskosten terug. 
 
 Uitzonderingen op deze algemene regel zijn:
 
-- In West-Vlaanderen (behalve in Langemark-Poelkapelle, Lo-Reninge, Mesen, Middelkerke, Roeselare en Poperinge) worden sinds 1 augustus 2023 alle nesten kosteloos verwijderd. Indien je hiervan wil gebruik maken hoef je na jouw melding bij vespawatch.be niets te doen. In geval van een onduidelijke foto voor validatie zal je worden gecontacteerd om een duidelijkere foto te bezorgen. Gevalideerde nesten in deze regio’s worden aan de respectievelijke verdelger doorgegeven. Wees je wel bewust dat hier een zekere wachttijd aan verbonden is. Indien je een nest snel wil laten verwijderen, kan je op eigen kosten zelf contact opnemen met een professionele verdelger. 
-
-
+- In West-Vlaanderen (behalve in Langemark-Poelkapelle, Lo-Reninge, Mesen, Middelkerke, Roeselare en Poperinge) worden sinds 1 augustus 2023 alle nesten kosteloos verwijderd. Indien je hiervan wil gebruik maken, hoef je na jouw melding bij vespawatch.be niets te doen. In geval van een onduidelijke foto voor validatie zal je worden gecontacteerd om een duidelijkere foto te bezorgen. Gevalideerde nesten in deze regio worden aan de respectievelijke verdelger doorgegeven. Wees je wel bewust dat hier een zekere wachttijd aan verbonden is. Indien je een nest snel wil laten verwijderen, kan je op eigen kosten zelf contact opnemen met een professionele verdelger. 
+- In Oost-Vlaanderen worden sinds 17 augustus 2023 alle nesten kosteloos verwijderd. Indien je hiervan wil gebruik maken, hoef je na jouw melding bij vespawatch.be niets te doen. In geval van een onduidelijke foto voor validatie zal je worden gecontacteerd om een duidelijkere foto te bezorgen. Gevalideerde nesten in deze regio worden aan RATO vzw doorgegeven, die binnen de 10 dagen telefonisch contact zal opnemen voor een afspraak tot bestrijding. Indien je een nest sneller wil laten verwijderen, kan je op eigen kosten zelf contact opnemen met een professionele verdelger of de brandweer.
 - In Vlaams-Brabant hebben de volgende gemeenten een specifieke werking: [Begijnendijk](https://www.begijnendijk.be/subsidie-voor-neutralisatie-aziatische-hoornaar), [Tremelo](https://www.tremelo.be/product/3399/subsidie-bestrijding-aziatische-hoornaar), [Keerbergen](https://www.keerbergen.be/subsidie-bestrijding-aziatische-hoornaar), en [Boortmeerbeek](https://www.boortmeerbeek.be/subsidie-bestrijding-aziatische-hoornaar-2). Meer info vind je op de website van deze gemeenten.
-
 
 ## Meld een nest
 
