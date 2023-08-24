@@ -383,6 +383,8 @@
         });
 
         $('#nest-report-form').on('submit', function (e) {
+            $('.form-submit button').attr('disabled', true);
+            
             e.preventDefault()
 
             let lastIndex = 0;
@@ -460,6 +462,8 @@
                     }
                 },
                 error: function (err) {
+                    $('.form-submit button').removeAttr('disabled');
+
                     let errors = err.responseJSON.error;
 
                     for (const [key, value] of Object.entries(errors)) {
