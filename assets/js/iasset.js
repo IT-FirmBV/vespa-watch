@@ -210,12 +210,12 @@
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' readonly>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>' +
                             '<div class="loader text-center mt-2 d-none"><div class="spinner-border" role="status"></div></div>' +
-                            '<div class="close-button text-end my-2 d-none"><button class="btn btn-danger" type="button">X</button></div>' +
-                            '<div class="d-none d-flex pac-card my-2">' +
+                            '<div class="close-button">' +
+                            '<p class="disclaimer my-2 small">Duid de locatie van het nest aan op de kaart door de pin te verplaatsen of door het adres van de nestlocatie in te geven in de zoekbalk.</p>' +
+                            '<div class="d-flex my-2">' +
                             '<input type="text" class="form-control" id="pac-input" placeholder="Vul locatie in...">' +
+                            '<button class="btn btn-danger" type="button">X</button>' +
                             '</div>' +
-                            '<div class="d-none disclaimer my-2"><span class="small">Duid de locatie van het nest aan op de kaart door de pin te verplaatsen of door het adres van de nestlocatie in te geven in de zoekbalk.</span></div>'+
-
                             '<div id="googleMap" style="width:100%;height:400px;" class="d-none"></div>';
                         break;
                     case 'datetime':
@@ -456,9 +456,9 @@
                 data: formData,
                 success: function (res, status) {
                     if (status === 'success') {
-                        alert('U heeft het formulier succesvol verzonden!')
+                        alert('Bedankt voor je melding! Je krijgt een e-mail als deze is gevalideerd.')
 
-                        window.location.reload()
+                        window.location.href = "https://vespawatch.be/eradicators/";
                     }
                 },
                 error: function (err) {
