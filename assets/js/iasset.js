@@ -216,6 +216,7 @@
                             '<input type="text" class="form-control" id="pac-input" placeholder="Vul locatie in...">' +
                             '<button class="btn btn-danger" type="button">X</button>' +
                             '</div>' +
+                            '</div>' +
                             '<div id="googleMap" style="width:100%;height:400px;" class="d-none"></div>';
                         break;
                     case 'datetime':
