@@ -1,10 +1,10 @@
 (function($) {
     $(document).ready(function () {
-        let map, infoWindow, incr = 0, marker, requiredFields = [], requiredPhotos = [], fileIds = [], checkAndRadioIds = [], mapProp;
+        let map, infoWindow, incr = 0, marker, requiredFields = [], requiredPhotos = [], fileIds = [], checkAndRadioIds = [];
 
         // Function to initialize map
         function initMap() {
-            mapProp = {
+            let mapProp = {
                 center:new google.maps.LatLng(50.8,4.5),
                 zoom:7,
             };
@@ -23,14 +23,6 @@
             });
         }
 
-        const form = document.getElementById('nest-report-form');
-
-        form.addEventListener('keypress', function(e) {
-            if (e.keyCode === 13) {
-                e.preventDefault();
-            }
-        });
-
         // This is for the GPS field, get current location so the input is filled in. You can also move the map marker to change location.
         // You must use your own Google Maps API key in the index.html file.
         function getLocation(selector, close = false) {
@@ -38,57 +30,12 @@
                 incr = 0;
 
                 $('#' + selector).siblings('#googleMap').addClass('d-none');
-                $('#' + selector).siblings('.pac-card').addClass('d-none');
-                $('#' + selector).siblings('.disclaimer').addClass('d-none');
                 $('#' + selector).siblings('.close-button').addClass('d-none');
 
                 if (marker) marker.setMap();
             } else {
                 $('#' + selector).siblings('#googleMap').removeClass('d-none');
-                $('#' + selector).siblings('.pac-card').removeClass('d-none');
-                $('#' + selector).siblings('.disclaimer').removeClass('d-none');
                 $('#' + selector).siblings('.close-button').removeClass('d-none');
-
-                const card = document.getElementById("pac-card");
-                const input = document.getElementById('pac-input');
-
-                const options = {
-                    fields: ["formatted_address", "geometry", "name"],
-                    strictBounds: false,
-                };
-
-                const autocomplete = new google.maps.places.SearchBox(input, options);
-
-                // Bind the map's bounds (viewport) property to the autocomplete object,
-                // so that the autocomplete requests use the current map bounds for the
-                // bounds option in the request.
-                autocomplete.bindTo("bounds", map);
-
-
-                autocomplete.addListener("places_changed", () => {
-                    marker.setVisible(false);
-
-                    const places = autocomplete.getPlaces();
-
-                    if (places.length == 0) {
-                        $('#' + selector).attr('value', '');
-
-                        return;
-                    }
-
-                    // If the place has a geometry, then present it on a map.
-                    if (places[0].geometry.viewport) {
-                        map.fitBounds(places[0].geometry.viewport);
-                    } else {
-                        map.setCenter(places[0].geometry.location);
-                        map.setZoom(17);
-                    }
-
-                    marker.setPosition(places[0].geometry.location);
-                    marker.setVisible(true);
-
-                    $('#' + selector).attr('value', 'POINT(' + places[0].geometry.location.lat() + ' ' + places[0].geometry.location.lng() + ')');
-                });
 
                 if (incr === 0) $('#' + selector).siblings('.loader').removeClass('d-none');
 
@@ -210,11 +157,7 @@
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' readonly>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>' +
                             '<div class="loader text-center mt-2 d-none"><div class="spinner-border" role="status"></div></div>' +
-                            '<div class="close-button text-end my-2 d-none"><button class="btn btn-danger" type="button">X</button></div>' +
-                            '<div class="d-none d-flex pac-card my-2">' +
-                            '<input type="text" class="form-control" id="pac-input" placeholder="Vul locatie in...">' +
-                            '</div>' +
-                            '<div class="d-none disclaimer my-2"><span class="small">Duid de locatie van het nest aan op de kaart door de pin te verplaatsen of door het adres van de nestlocatie in te geven in de zoekbalk.</span></div>'+
+                            '<div class="close-button d-flex d-none justify-content-between align-items-center my-2"><span class="small">Duid de locatie van het nest aan op de kaart. De pin kan verplaatst worden.</span><button class="btn btn-danger" type="button">X</button></div>' +
                             '<div id="googleMap" style="width:100%;height:400px;" class="d-none"></div>';
                         break;
                     case 'datetime':
@@ -382,8 +325,6 @@
         });
 
         $('#nest-report-form').on('submit', function (e) {
-            $('.form-submit button').attr('disabled', true);
-            
             e.preventDefault()
 
             let lastIndex = 0;
@@ -461,8 +402,6 @@
                     }
                 },
                 error: function (err) {
-                    $('.form-submit button').removeAttr('disabled');
-
                     let errors = err.responseJSON.error;
 
                     for (const [key, value] of Object.entries(errors)) {
