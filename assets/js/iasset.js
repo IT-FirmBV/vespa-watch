@@ -37,19 +37,16 @@
             if (close) {
                 incr = 0;
 
-                $('#' + selector).siblings('#googleMap').addClass('d-none');
-                $('#' + selector).siblings('.pac-card').addClass('d-none');
-                $('#' + selector).siblings('.disclaimer').addClass('d-none');
                 $('#' + selector).siblings('.close-button').addClass('d-none');
-
+                $('#' + selector).siblings('.disclaimer').addClass('d-none');
+                $('#' + selector).siblings('#googleMap').addClass('d-none');
+                
                 if (marker) marker.setMap();
             } else {
-                $('#' + selector).siblings('#googleMap').removeClass('d-none');
-                $('#' + selector).siblings('.pac-card').removeClass('d-none');
-                $('#' + selector).siblings('.disclaimer').removeClass('d-none');
                 $('#' + selector).siblings('.close-button').removeClass('d-none');
-
-                const card = document.getElementById("pac-card");
+                $('#' + selector).siblings('.disclaimer').removeClass('d-none');
+                $('#' + selector).siblings('#googleMap').removeClass('d-none');
+                
                 const input = document.getElementById('pac-input');
 
                 const options = {
@@ -210,12 +207,11 @@
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' readonly>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>' +
                             '<div class="loader text-center mt-2 d-none"><div class="spinner-border" role="status"></div></div>' +
-                            '<div class="close-button">' +
-                            '<p class="disclaimer my-2 small">Duid de locatie van het nest aan op de kaart door de pin te verplaatsen of door het adres van de nestlocatie in te geven in de zoekbalk.</p>' +
-                            '<div class="d-flex my-2">' +
-                            '<input type="text" class="form-control" id="pac-input" placeholder="Vul locatie in...">' +
+                            '<div class="close-button d-flex my-2 d-none">' +
+                            '<input type="text" class="form-control me-2" id="pac-input" placeholder="Vul locatie in...">' +
                             '<button class="btn btn-danger" type="button">X</button>' +
                             '</div>' +
+                            '<div class="disclaimer small my-2 d-none">Duid de locatie van het nest aan op de kaart door de pin te verplaatsen of door het adres van de nestlocatie in te geven in de zoekbalk.</div>'+
                             '<div id="googleMap" style="width:100%;height:400px;" class="d-none"></div>';
                         break;
                     case 'datetime':
@@ -352,7 +348,7 @@
                     getLocation(locationInputs.attr('id'))
                 });
 
-                $(document).find($('.close-button button')).on('click', function () {
+                $(document).find($('.close-button > button')).on('click', function () {
                     getLocation(locationInputs.attr('id'), true)
                 });
             }
