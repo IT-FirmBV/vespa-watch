@@ -208,10 +208,10 @@
                             '<div id="' + el.id + '" class="invalid-feedback"></div>' +
                             '<div class="loader text-center mt-2 d-none"><div class="spinner-border" role="status"></div></div>' +
                             '<div class="close-button d-flex my-2 d-none">' +
-                            '<input type="text" class="form-control me-2" id="pac-input" placeholder="Vul locatie in...">' +
+                            '<input type="text" class="form-control me-2" id="pac-input" placeholder="Zoek een adres of locatienaam ...">' +
                             '<button class="btn btn-danger" type="button">X</button>' +
                             '</div>' +
-                            '<div class="disclaimer small my-2 d-none">Duid de locatie van het nest aan op de kaart door de pin te verplaatsen of door het adres van de nestlocatie in te geven in de zoekbalk.</div>'+
+                            '<div class="disclaimer small my-2 d-none">Duid de locatie van het nest aan door het adres van de nestlocatie in te geven in de zoekbalk of door de pin te verplaatsen.</div>'+
                             '<div id="googleMap" style="width:100%;height:400px;" class="d-none"></div>';
                         break;
                     case 'datetime':
