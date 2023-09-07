@@ -32,5 +32,5 @@ Belangrijk is dat je een foto inzendt waarop de wesp goed zichtbaar is. Verschil
 
 <form action="" method="POST" id="nest-report-form" class="needs-validation" enctype="multipart/form-data" novalidate></form>
 
-<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&key=AIzaSyAC8CPgw0vcpkW8J6Etd3q0pn9cnmb1c7g"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&key=AIzaSyAC8CPgw0vcpkW8J6Etd3q0pn9cnmb1c7g&libraries=places"></script>
 <script src="/assets/js/iasset.js"></script>
