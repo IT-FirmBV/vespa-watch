@@ -1,34 +1,40 @@
 (function($) {
     $(document).ready(function () {
-        let map, infoWindow, incr = 0, marker, requiredFields = [], requiredPhotos = [], fileIds = [], checkAndRadioIds = [], mapProp;
+        let map, infoWindow, incr = 0, marker = {}, requiredFields = [], requiredPhotos = [], fileIds = [], checkAndRadioIds = [], mapProp;
 
         // Function to initialize map
         function initMap() {
             mapProp = {
-                center:new google.maps.LatLng(50.8,4.5),
-                zoom:7,
+                center: null,
+                zoom: 7,
             };
 
-            map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+            map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
             infoWindow = new google.maps.InfoWindow();
         }
 
         // It will add the marker on your current location.
-        function addMarker(location) {
+        function addMarker(location, selector) {
+            if (Object.values(marker).length) marker.setMap(null);
+
             marker = new google.maps.Marker({
                 position: location,
                 map: map,
                 animation: google.maps.Animation.DROP,
                 draggable: true,
             });
+
+            google.maps.event.addListener(marker, 'dragend', function (marker) {
+                location = marker.latLng;
+
+                $('#' + selector).attr('value', 'POINT(' + location.lat() + ' ' + location.lng() + ')');
+            });
         }
 
         const form = document.getElementById('nest-report-form');
 
         form.addEventListener('keypress', function(e) {
-            if (e.keyCode === 13) {
-                e.preventDefault();
-            }
+            if (e.keyCode === 13) e.preventDefault();
         });
 
         // This is for the GPS field, get current location so the input is filled in. You can also move the map marker to change location.
@@ -41,15 +47,24 @@
                 $('#' + selector).siblings('.pac-card').addClass('d-none');
                 $('#' + selector).siblings('.disclaimer').addClass('d-none');
                 $('#' + selector).siblings('.close-button').addClass('d-none');
-
-                if (marker) marker.setMap();
             } else {
                 $('#' + selector).siblings('#googleMap').removeClass('d-none');
-                $('#' + selector).siblings('.pac-card').removeClass('d-none');
                 $('#' + selector).siblings('.disclaimer').removeClass('d-none');
                 $('#' + selector).siblings('.close-button').removeClass('d-none');
+                $('#' + selector).siblings('.close-button').find('.pac-target-input').val('');
 
-                const card = document.getElementById("pac-card");
+                google.maps.event.addListener(map, "click", function (e) {
+                    if (!Object.keys(marker).length) {
+                        addMarker(e.latLng, selector)
+
+                        $('#' + selector).attr('value', 'POINT(' + e.latLng.lat() + ' ' + e.latLng.lng() + ')');
+                    }
+                });
+
+                map.setZoom(7)
+
+                if (Object.values(marker).length) marker.setMap(null);
+
                 const input = document.getElementById('pac-input');
 
                 const options = {
@@ -64,14 +79,15 @@
                 // bounds option in the request.
                 autocomplete.bindTo("bounds", map);
 
-
-                autocomplete.addListener("places_changed", () => {
-                    marker.setVisible(false);
-
+                autocomplete.addListener("places_changed", (e) => {
                     const places = autocomplete.getPlaces();
 
-                    if (places.length == 0) {
+                    if (!places.length) {
                         $('#' + selector).attr('value', '');
+
+                        marker.setVisible(false);
+
+                        map.setCenter({lat: 50.8, lng: 4.5});
 
                         return;
                     }
@@ -84,8 +100,12 @@
                         map.setZoom(17);
                     }
 
-                    marker.setPosition(places[0].geometry.location);
-                    marker.setVisible(true);
+                    if (places.length) {
+                        addMarker(places[0].geometry.location, selector)
+
+                        marker.setPosition(places[0].geometry.location);
+                        marker.setVisible(true);
+                    }
 
                     $('#' + selector).attr('value', 'POINT(' + places[0].geometry.location.lat() + ' ' + places[0].geometry.location.lng() + ')');
                 });
@@ -103,8 +123,8 @@
                             window.setTimeout(() => {
                                 if (typeof pos['lat'] === 'undefined' || typeof pos['lng'] === 'undefined') {
                                     pos = {
-                                        lat: 50.8,
-                                        lng: 4.5
+                                        lat: null,
+                                        lng: null,
                                     }
                                 }
 
@@ -112,43 +132,26 @@
                                     infoWindow.open(map);
                                     map.setCenter(pos);
 
-                                    addMarker(pos)
+                                    addMarker(pos, selector)
 
                                     $('#' + selector).siblings('.loader').addClass('d-none');
                                     $('#' + selector).attr('value', 'POINT(' + pos.lat + ' ' + pos.lng + ')');
 
                                     incr++;
                                 }
-
-                                google.maps.event.addListener(marker, 'dragend', function (marker) {
-                                    pos = marker.latLng;
-
-                                    $('#' + selector).attr('value', 'POINT(' + pos.lat() + ' ' + pos.lng() + ')');
-                                });
                             }, 5000)
                         }, () => {
-                            let pos = {
-                                lat: 50.8,
-                                lng: 4.5
-                            }
-
                             if (incr === 0) {
                                 infoWindow.open(map);
-                                map.setCenter(pos);
-
-                                addMarker(pos)
 
                                 $('#' + selector).siblings('.loader').addClass('d-none');
-                                $('#' + selector).attr('value', 'POINT(' + pos.lat + ' ' + pos.lng + ')');
+                                $('#' + selector).attr('value', '');
+
+                                map.setCenter({lat: 50.8, lng: 4.5});
+                                map.setZoom(7)
 
                                 incr++;
                             }
-
-                            google.maps.event.addListener(marker, 'dragend', function (marker) {
-                                pos = marker.latLng;
-
-                                $('#' + selector).attr('value', 'POINT(' + pos.lat() + ' ' + pos.lng() + ')');
-                            });
                         }
                     );
                 } else {
@@ -166,7 +169,9 @@
                     ? "Error: Please allow the location from browser."
                     : "Error: Your browser doesn't support geolocation."
             );
+
             infoWindow.open(map);
+
             $('#' + selector).siblings('.loader').addClass('d-none');
         }
 
@@ -210,12 +215,11 @@
                             (Boolean(parseInt(el.readonly)) ? "readonly" : "") + ' readonly>' +
                             '<div id="' + el.id + '" class="invalid-feedback"></div>' +
                             '<div class="loader text-center mt-2 d-none"><div class="spinner-border" role="status"></div></div>' +
-                            '<div class="close-button">' +
-                            '<p class="disclaimer my-2 small">Duid de locatie van het nest aan op de kaart door de pin te verplaatsen of door het adres van de nestlocatie in te geven in de zoekbalk.</p>' +
-                            '<div class="d-flex my-2">' +
-                            '<input type="text" class="form-control" id="pac-input" placeholder="Vul locatie in...">' +
+                            '<div class="close-button d-flex my-2 d-none">' +
+                            '<input type="text" class="form-control me-2" id="pac-input" placeholder="Zoek een adres of locatienaam ...">' +
                             '<button class="btn btn-danger" type="button">X</button>' +
                             '</div>' +
+                            '<div class="disclaimer small my-2 d-none">Duid de locatie van het nest aan door het adres van de nestlocatie in te geven in de zoekbalk of door de pin te verplaatsen.</div>'+
                             '<div id="googleMap" style="width:100%;height:400px;" class="d-none"></div>';
                         break;
                     case 'datetime':
@@ -352,7 +356,7 @@
                     getLocation(locationInputs.attr('id'))
                 });
 
-                $(document).find($('.close-button button')).on('click', function () {
+                $(document).find($('.close-button > button')).on('click', function () {
                     getLocation(locationInputs.attr('id'), true)
                 });
             }
@@ -384,7 +388,7 @@
 
         $('#nest-report-form').on('submit', function (e) {
             $('.form-submit button').attr('disabled', true);
-            
+
             e.preventDefault()
 
             let lastIndex = 0;
