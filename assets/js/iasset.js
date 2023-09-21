@@ -46,7 +46,6 @@
                 incr = 0;
 
                 $('#' + selector).siblings('#googleMap').addClass('d-none');
-                $('#' + selector).siblings('.pac-card').addClass('d-none');
                 $('#' + selector).siblings('.disclaimer').addClass('d-none');
                 $('#' + selector).siblings('.close-button').addClass('d-none');
             } else {
