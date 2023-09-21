@@ -53,7 +53,6 @@
                 $('#' + selector).siblings('#googleMap').removeClass('d-none');
                 $('#' + selector).siblings('.disclaimer').removeClass('d-none');
                 $('#' + selector).siblings('.close-button').removeClass('d-none');
-                $('#' + selector).siblings('.close-button').find('.pac-target-input').val('');
 
                 google.maps.event.addListener(map, "click", function (e) {
                     if (!Object.keys(marker).length) {
