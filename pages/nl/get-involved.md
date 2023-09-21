@@ -247,6 +247,8 @@ Misschien is de vliegrichting van een hoornaar niet altijd dezelfde. Dat komt om
   - Bereken de kortst waargenomen vliegtijd tot het nest. Een wesp vliegt  100 meter per minuut. De kortste vliegtijd bepaalt de lengte van de lijn.
 
 Zo krijg je een duidelijk overzicht van het zoekgebied. Hoe meer info je hebt, hoe kleiner het zoekgebied waar het nest zich mogelijks bevindt. Maximaal bevindt een nest zich 2 km vanaf een waarneming.
+
+Je kan deze methode gemakkelijk toepassen via de [VertiGIS Studio-app](https://apps.vertigisstudio.com/web/?app=f1ba0f8ebc874f8bbf4b13dac65a98ee&fbclid=IwAR3h-yNpLMwsw-Rpqmt8iSabF261axmmAqKZKrtfsMaSntwo7zTNQqjNafU).
 </div>
 <div class="col-md-4">
 <p><img src="/assets/images/get-involved-search-triangulation.jpeg" alt="Vliegrichtingen op kaart"></p>
